@@ -1,4 +1,4 @@
-# This file uses tabula-py to convert each page in the pdfs to a csv table
+# This file uses tabula-py to convert the list of accidents in the pdf reports to a csv table
 import tabula
 import PyPDF2
 import os
@@ -44,7 +44,7 @@ def merge_csv():
 	            # Block copy rest of file from input to output without parsing
 	            shutil.copyfileobj(infile, outfile)
 	            print(fname + " has been imported.")
-	os.rename(pdf_filename + ".csv", os.path.splitext(pdf_filename)[0] + ".csv")
+	os.rename(pdf_filename + ".csv", os.path.splitext(pdf_filename.replace(" ", "_"))[0] + ".csv")
 	for file in allFiles:
 		os.remove(file)
 
