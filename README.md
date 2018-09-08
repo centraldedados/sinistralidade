@@ -1,2 +1,1 @@
-# sinistralidade
-🚨🚗 Sinistralidade Rodoviária
+# 🚨🚗 Sinistralidade Rodoviária
