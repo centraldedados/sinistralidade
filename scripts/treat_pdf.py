@@ -7,8 +7,6 @@ import shutil
 import csv
 import glob
 
-
-print(sys.argv)
 assert len(sys.argv[1:]) == 1
 pdf_filename = str(sys.argv[1])
 
@@ -47,6 +45,8 @@ def merge_csv():
 	            shutil.copyfileobj(infile, outfile)
 	            print(fname + " has been imported.")
 	os.rename(pdf_filename + ".csv", os.path.splitext(pdf_filename)[0] + ".csv")
+	for file in allFiles:
+		os.remove(file)
 
 def main():
 	convert_pdfs()
