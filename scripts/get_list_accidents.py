@@ -11,7 +11,7 @@ import re
 
 def get_year_from_filename(filename):
     year = re.findall("([0-9]{4})", filename)
-    return year[-1]
+    return int(year[-1])
 
 
 def get_num_pages_pdf(file):
@@ -24,7 +24,7 @@ def convert_pdfs(pdf_input):
 
     # 2012 seems to require this option to be turned off to get good results
     lattice_toggle = True
-    if get_year_from_filename(pdf_input) == "2012":
+    if get_year_from_filename(pdf_input) <= 2012:
         lattice_toggle = False
 
     for page in range(1, get_num_pages_pdf(pdf_input) + 1):
