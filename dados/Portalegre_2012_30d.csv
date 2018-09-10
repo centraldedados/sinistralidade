@@ -1,50 +1,50 @@
-Concelho,Datahora,M*,FG*,Via,km,Natureza
-Arronches,2012:05:14 17:45:00,1,0,EN371,"18,000",Despiste simples
-Arronches,2012:07:02 12:45:00,0,1,EN246,"56,500",Despiste c/ capotamento
-Avis,2012:06:03 18:45:00,1,0,R. Antiga E.N. 243,,Despiste simples
-Avis,2012:11:24 18:20:00,0,1,EN370,"13,450",Despiste simples
-Campo Maior,2012:03:03 17:30:00,1,0,EN373,"0,200",Despiste simples
-Campo Maior,2012:09:10 09:45:00,0,1,EN371,"46,300",Colisão tras. c/ outro veíc. mov.
-Elvas,2012:02:17 21:45:00,0,1,EN243-1,"2,380",Despiste simples
-Elvas,2012:02:22 16:30:00,0,2,EN246,"81,500",Despiste c/col. c/veíc. imobil./obst.
-Elvas,2012:03:22 20:11:00,0,1,EN373,"35,100",Despiste c/ capotamento
-Elvas,2012:06:03 04:45:00,0,2,EN373,"32,200",Despiste c/ capotamento
-Elvas,2012:06:04 14:00:00,0,1,EN246,"82,250",Despiste s/ dispositivo de retenção
-Elvas,2012:06:05 08:30:00,0,1,EM512-1,,Despiste s/ dispositivo de retenção
-Elvas,2012:06:27 20:30:00,0,1,Pct Gen. S. Costa,,A  t r o p e  la  me  n  t od  ep  e  ões
-Elvas,2012:10:24 11:00:00,0,1,A6,"144,500",Despiste c/ capotamento
-Elvas,2012:11:07 20:00:00,0,1,EN243-1,"0,700",Colisão frontal
-Elvas,2012:11:24 23:25:00,0,1,R. São Lourenço,,Atropelamento de peões
-Elvas,2012:12:02 01:30:00,0,1,EN4,"186,000",Despiste c/col. c/veíc. imobil./obst.
-Elvas,2012:12:03 00:05:00,0,1,Av. Garcia de Orta,,D  e  s  p  i s  t ec  / c o  l .  c  / v  e  í c  .  imo bil./obst.
-Elvas,2012:12:10 12:45:00,0,1,EN4,"183,500",Atropelamento de peões
-Fronteira,2012:10:13 20:15:00,1,2,EN243,"140,100",Despiste simples
-Fronteira,2012:12:01 05:15:00,1,0,EN369,"31,300",Despiste c/ capotamento
-Gavião,2012:07:05 16:00:00,1,0,EN244,"60,950",Despiste simples
-Marvão,2012:01:28 15:50:00,0,1,EN359,"119,900",Colisão frontal
-Marvão,2012:06:27 22:00:00,0,1,EN359,"124,600",Colisão frontal
-Marvão,2012:07:03 14:20:00,0,1,EN359,"15,200",Colisão frontal
-Marvão,2012:07:28 12:20:00,0,1,Rua 16 de Julho,,Atropelamento de peões
-Marvão,2012:10:08 16:40:00,0,1,Estrada Municipal,"0,910",Colisão frontal
-Marvão,2012:11:11 23:58:00,0,1,EM1142,,Despiste simples
-Nisa,2012:05:14 15:25:00,0,1,Pç. da República,,Atropelamento de peões
-Ponte de Sor,2012:02:14 13:50:00,1,0,EN244,"76,150",Colisão lat. c/ outro veíc. mov.
-Ponte de Sor,2012:02:18 11:50:00,0,1,Outra Via,,Despiste c/ capotamento
-Ponte de Sor,2012:05:12 17:20:00,0,1,EN244,"70,300",Despiste c/ capotamento
-Ponte de Sor,2012:06:04 14:50:00,0,1,EN2,"445,300",Despiste c/ capotamento
-Ponte de Sor,2012:06:19 22:00:00,1,0,EN244,"82,400",Despiste s/ dispositivo de retenção
-Ponte de Sor,2012:06:24 15:00:00,0,1,Est. de Abrantes,,Atropelamento de peões
-Ponte de Sor,2012:07:06 16:00:00,0,1,EN2,"442,600",Despiste simples
-Ponte de Sor,2012:08:04 05:07:00,2,0,EN244,"95,900",Despiste simples
-Ponte de Sor,2012:11:22 10:40:00,0,1,EN243,"87,700",Despiste c/ capotamento
-Ponte de Sor,2012:12:01 12:50:00,0,1,EN2,"428,400",Colisão frontal
-Ponte de Sor,2012:12:16 10:40:00,0,1,EN2,"461,200",Colisão lat. c/ outro veíc. mov.
-Ponte de Sor,2012:12:26 08:40:00,0,1,EN243,"97,700",Despiste simples
-Portalegre,2012:03:29 03:10:00,0,1,Avenida Badajoz,,Despiste s/ dispositivo de retenção
-Portalegre,2012:06:02 10:15:00,1,0,IP2,"172,700",Atropelamento de peões
-Portalegre,2012:07:17 07:45:00,0,1,Rua 31 de Janeiro,,Colisão lat. c/ outro veíc. mov.
-Portalegre,2012:08:03 09:30:00,0,1,Pç. Dr. João Tavares,,A  t r o  p  e  l a  me  n  t od  ep  e  õ  e  s
-Portalegre,2012:08:20 17:20:00,0,1,Largo Cesário Bica,,De  s p  i s  t ec  / c  o  l.  c  / v  e  í c  .  i mo  b  il ./obst.
-Portalegre,2012:10:07 08:15:00,0,1,Rua dos Apóstolos,,Colisão lat. c/ outro veíc. mov.
-Sousel,2012:12:28 11:55:00,0,1,EN245,"48,800",Despiste c/ capotamento
-,,11,42,,,
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Arronches,2012:05:14 17:45:00,1,0,EN371,,"18,000",Despiste simples
+Arronches,2012:07:02 12:45:00,0,1,EN246,,"56,500",Despiste c/ capotamento
+Avis,2012:06:03 18:45:00,1,0,R. Antiga E.N. 243,,,Despiste simples
+Avis,2012:11:24 18:20:00,0,1,EN370,,"13,450",Despiste simples
+Campo Maior,2012:03:03 17:30:00,1,0,EN373,,"0,200",Despiste simples
+Campo Maior,2012:09:10 09:45:00,0,1,EN371,,"46,300",Colisão tras. c/ outro veíc. mov.
+Elvas,2012:02:17 21:45:00,0,1,EN243-1,,"2,380",Despiste simples
+Elvas,2012:02:22 16:30:00,0,2,EN246,,"81,500",Despiste c/col. c/veíc. imobil./obst.
+Elvas,2012:03:22 20:11:00,0,1,EN373,,"35,100",Despiste c/ capotamento
+Elvas,2012:06:03 04:45:00,0,2,EN373,,"32,200",Despiste c/ capotamento
+Elvas,2012:06:04 14:00:00,0,1,EN246,,"82,250",Despiste s/ dispositivo de retenção
+Elvas,2012:06:05 08:30:00,0,1,EM512-1,,,Despiste s/ dispositivo de retenção
+Elvas,2012:06:27 20:30:00,0,1,Pct Gen. S. Costa,,,A  t r o p e  la  me  n  t od  ep  e  ões
+Elvas,2012:10:24 11:00:00,0,1,A6,,"144,500",Despiste c/ capotamento
+Elvas,2012:11:07 20:00:00,0,1,EN243-1,,"0,700",Colisão frontal
+Elvas,2012:11:24 23:25:00,0,1,R. São Lourenço,,,Atropelamento de peões
+Elvas,2012:12:02 01:30:00,0,1,EN4,,"186,000",Despiste c/col. c/veíc. imobil./obst.
+Elvas,2012:12:03 00:05:00,0,1,Av. Garcia de Orta,,,D  e  s  p  i s  t ec  / c o  l .  c  / v  e  í c  .  imo bil./obst.
+Elvas,2012:12:10 12:45:00,0,1,EN4,,"183,500",Atropelamento de peões
+Fronteira,2012:10:13 20:15:00,1,2,EN243,,"140,100",Despiste simples
+Fronteira,2012:12:01 05:15:00,1,0,EN369,,"31,300",Despiste c/ capotamento
+Gavião,2012:07:05 16:00:00,1,0,EN244,,"60,950",Despiste simples
+Marvão,2012:01:28 15:50:00,0,1,EN359,,"119,900",Colisão frontal
+Marvão,2012:06:27 22:00:00,0,1,EN359,,"124,600",Colisão frontal
+Marvão,2012:07:03 14:20:00,0,1,EN359,,"15,200",Colisão frontal
+Marvão,2012:07:28 12:20:00,0,1,Rua 16 de Julho,,,Atropelamento de peões
+Marvão,2012:10:08 16:40:00,0,1,Estrada Municipal,,"0,910",Colisão frontal
+Marvão,2012:11:11 23:58:00,0,1,EM1142,,,Despiste simples
+Nisa,2012:05:14 15:25:00,0,1,Pç. da República,,,Atropelamento de peões
+Ponte de Sor,2012:02:14 13:50:00,1,0,EN244,,"76,150",Colisão lat. c/ outro veíc. mov.
+Ponte de Sor,2012:02:18 11:50:00,0,1,Outra Via,,,Despiste c/ capotamento
+Ponte de Sor,2012:05:12 17:20:00,0,1,EN244,,"70,300",Despiste c/ capotamento
+Ponte de Sor,2012:06:04 14:50:00,0,1,EN2,,"445,300",Despiste c/ capotamento
+Ponte de Sor,2012:06:19 22:00:00,1,0,EN244,,"82,400",Despiste s/ dispositivo de retenção
+Ponte de Sor,2012:06:24 15:00:00,0,1,Est. de Abrantes,,,Atropelamento de peões
+Ponte de Sor,2012:07:06 16:00:00,0,1,EN2,,"442,600",Despiste simples
+Ponte de Sor,2012:08:04 05:07:00,2,0,EN244,,"95,900",Despiste simples
+Ponte de Sor,2012:11:22 10:40:00,0,1,EN243,,"87,700",Despiste c/ capotamento
+Ponte de Sor,2012:12:01 12:50:00,0,1,EN2,,"428,400",Colisão frontal
+Ponte de Sor,2012:12:16 10:40:00,0,1,EN2,,"461,200",Colisão lat. c/ outro veíc. mov.
+Ponte de Sor,2012:12:26 08:40:00,0,1,EN243,,"97,700",Despiste simples
+Portalegre,2012:03:29 03:10:00,0,1,Avenida Badajoz,,,Despiste s/ dispositivo de retenção
+Portalegre,2012:06:02 10:15:00,1,0,IP2,,"172,700",Atropelamento de peões
+Portalegre,2012:07:17 07:45:00,0,1,Rua 31 de Janeiro,,,Colisão lat. c/ outro veíc. mov.
+Portalegre,2012:08:03 09:30:00,0,1,Pç. Dr. João Tavares,,,A  t r o  p  e  l a  me  n  t od  ep  e  õ  e  s
+Portalegre,2012:08:20 17:20:00,0,1,Largo Cesário Bica,,,De  s p  i s  t ec  / c  o  l.  c  / v  e  í c  .  i mo  b  il ./obst.
+Portalegre,2012:10:07 08:15:00,0,1,Rua dos Apóstolos,,,Colisão lat. c/ outro veíc. mov.
+Sousel,2012:12:28 11:55:00,0,1,EN245,,"48,800",Despiste c/ capotamento
+"",,11,42,,,,
