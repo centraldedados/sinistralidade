@@ -1,0 +1,184 @@
+Concelho,Datahora,M*,FG*,Via,km,Natureza
+Grândola,2012:02:17 15:30:00,0,1,EN261,"27,400",Desp. c/col. c/veíc. imobil./obst.
+Grândola,2012:03:20 08:00:00,0,1,IC1,"594,200",Colisão lat. c/ outro veículo mov.
+Grândola,2012:03:26 15:50:00,0,2,EN120,"12,060",Colisão frontal
+Grândola,2012:04:02 13:08:00,0,1,IC1,"605,400",Colisão frontal
+Grândola,2012:04:28 14:55:00,1,1,EN261,"28,700",Colisão frontal
+Grândola,2012:06:09 15:00:00,0,1,IC33,"41,000",Colisão c/veic./obstáculo f. rod.
+Grândola,2012:07:16 19:50:00,2,0,IC33,"36,900",Colisão frontal
+Grândola,2012:08:03 19:30:00,0,1,Outra Via,,Desp. c/col. c/veíc. imobil./obst.
+Grândola,2012:12:20 12:10:00,1,0,IC1,"588,950",Colisão tras. c/ outro veíc. mov.
+Moita,2012:02:10 18:00:00,0,1,Rua Ginásio,,A  t r o  p  e  l a  me  n  t od  ep eões
+Moita,2012:02:17 22:00:00,1,0,EM533-1,"1,900",Despiste c/ capotamento
+Moita,2012:02:19 22:30:00,1,1,EST LINHAL DO FORNO,,Colisão lat. c/ outro veículo mov.
+Moita,2012:04:07 17:45:00,0,1,EN379-2,"10,300",Colisão lat. c/ outro veículo mov.
+Moita,2012:04:19 15:45:00,0,1,EN379-2,"10,300",Colisão lat. c/ outro veículo mov.
+Moita,2012:04:20 17:10:00,0,1,EN11,"22,100",Colisão choque em cadeia
+Moita,2012:04:26 08:15:00,0,1,R DOS DESCOBRIMENTOS,,Colisão frontal
+Moita,2012:07:06 10:55:00,1,0,IC32,"6,840",Colisão frontal
+Moita,2012:08:20 08:15:00,0,1,EM1020,"0,200",Colisão frontal
+Moita,2012:11:12 14:50:00,0,1,EN11,"24,500",Despiste c/ capotamento
+Moita,2012:11:22 03:45:00,1,0,Avenida Capitães de Abril,,De  s p  .  c  / c  o  l .c  / v e  í c  .  i mo  b il./obst.
+Moita,2012:12:07 17:40:00,0,1,Rua Manuel Tiago,,Despiste simples
+Montijo,2012:01:01 16:30:00,0,1,R ANTONIO SERGIO,,Despiste c/ capotamento
+Montijo,2012:01:23 18:46:00,1,1,EN4,"14,500",Colisão choque em cadeia
+Montijo,2012:01:29 04:20:00,0,1,EN4,"46,400",Colisão lat. c/ outro veículo mov.
+Montijo,2012:03:09 11:50:00,0,1,Travessa Cais,,At r o  p  e  l a  me  n  t od  ep  eões
+Montijo,2012:04:14 21:00:00,1,0,EN11,,Colisão com outras situações
+Montijo,2012:05:23 18:55:00,0,1,EM533,"6,200",Despiste simples
+Montijo,2012:06:04 19:30:00,0,1,Praça República,,A  t  r o  p  e  l a me  n  t od  ep  e ões
+Montijo,2012:06:29 20:00:00,0,1,EN5,"3,500",Colisão lat. c/ outro veículo mov.
+Montijo,2012:07:04 11:50:00,0,1,EM501,,Desp. c/col. c/veíc. imobil./obst.
+Montijo,2012:07:07 10:06:00,0,1,Rua Gago Coutinho,,A  t r o  p  e  l a  me  n  t od  ep  e  õ  e s
+Montijo,2012:08:31 11:00:00,0,1,Ava Pedro Nunes,,Atropelamento de peões
+Montijo,2012:09:02 00:05:00,0,1,Rua José Joaquim Marques,,C  o  l i s  ã  oc  o mf u  g  a
+Montijo,2012:10:28 15:15:00,0,1,EN10,"78,900",Despiste c/trans. disp.ret. lateral
+Montijo,2012:11:02 18:20:00,0,1,EN5,"9,485",Colisão tras. c/ outro veíc. mov.
+Montijo,2012:11:14 17:45:00,0,1,Avenida Garcia de Orta,,D  e  s  p  .  c  / c  o  l .  c / v e  í c  .i mo  bil./obst.
+Palmela,2012:01:06 00:30:00,0,1,A13,"3,800",Despiste c/ capotamento
+Palmela,2012:01:23 10:00:00,1,0,Av. Bombeiros Voluntários,,Desp. c/col. c/veíc. imobil./obst.
+Palmela,2012:02:22 19:44:00,1,0,EST DA FORD - PALMELA,,Colisão tras. c/ outro veíc. mov.
+Palmela,2012:03:10 11:00:00,1,0,EST DA LAGOA DA PALHA,,Despiste simples
+Palmela,2012:03:22 21:30:00,0,2,EM1029,,Despiste simples
+Palmela,2012:04:11 16:15:00,0,1,EM534,,Colisão lat. c/ outro veículo mov.
+Palmela,2012:04:14 00:00:00,0,1,R DOS FAGUDEIROS,,Colisão lat. c/ outro veículo mov.
+Palmela,2012:04:25 19:18:00,1,0,EN379-2,8,Desp. c/col. c/veíc. imobil./obst.
+Palmela,2012:05:22 00:20:00,0,1,EN5,"32,200",Desp. c/col. c/veíc. imobil./obst.
+Palmela,2012:06:09 18:30:00,1,0,EM1029,,Despiste simples
+Palmela,2012:06:13 21:00:00,0,1,EM533-1,,Colisão lat. c/ outro veículo mov.
+Palmela,2012:06:23 18:10:00,0,1,EM533,,Colisão c/veic./obstáculo f. rod.
+Palmela,2012:07:12 23:00:00,1,0,Rua do Alecrim,,Despiste simples
+Palmela,2012:08:29 14:40:00,0,1,EM1096,,Despiste simples
+Palmela,2012:09:05 05:40:00,0,2,EN379-2,"1,450",Despiste c/ capotamento
+Palmela,2012:10:11 18:47:00,0,2,EM1023,,Colisão lat. c/ outro veículo mov.
+Palmela,2012:10:18 10:45:00,1,0,Rua António Sérgio,,Colisão frontal
+Palmela,2012:10:22 18:50:00,0,1,EM533-1,,Despiste simples
+Palmela,2012:10:25 14:30:00,0,1,A2,"27,700",Colisão com outras situações
+Palmela,2012:11:10 18:20:00,0,1,Ava Visconde Tojal,,Atropelamento de peões
+Palmela,2012:11:11 18:30:00,0,1,EN5,"35,340",Colisão frontal
+Palmela,2012:11:26 12:00:00,0,1,Estrada Municipal,,Despiste simples
+Palmela,2012:12:10 17:40:00,0,1,Rua 5 de Outubro,,Despiste c/ capotamento
+Palmela,2012:12:14 06:35:00,1,0,EN4,"26,300",Colisão com fuga
+S. do Cacém,2012:01:04 14:50:00,1,0,IC1,"623,678",Colisão frontal
+S. do Cacém,2012:01:08 23:00:00,1,0,EM544,,Despiste c/col. c/veíc. imobil./obst.
+S. do Cacém,2012:02:24 14:30:00,0,1,EN121,"28,100",Despiste c/col. c/veíc. imobil./obst.
+S. do Cacém,2012:04:09 16:30:00,1,0,IC33,"26,500",Despiste simples
+S. do Cacém,2012:04:25 06:00:00,0,5,EM1085,,Despiste c/ capotamento
+S. do Cacém,2012:05:01 03:33:00,0,1,EM1138,,Colisão com outras situações
+S. do Cacém,2012:05:15 00:14:00,0,1,IC33,"19,000",Despiste simples
+S. do Cacém,2012:05:16 19:15:00,0,1,R 1o DE MAIO,,Colisão lat. c/ outro veículo mov.
+S. do Cacém,2012:07:20 23:30:00,0,1,IC1,"629,600",Colisão frontal
+S. do Cacém,2012:07:23 17:20:00,0,1,EN120-1,"1,750",Colisão com outras situações
+S. do Cacém,2012:09:08 17:15:00,0,1,EM544,,Despiste simples
+S. do Cacém,2012:10:03 15:30:00,4,0,IC1,"626,000",Despiste simples
+S. do Cacém,2012:10:17 14:35:00,0,4,IC1,"637,659",Despiste c/ capotamento
+S. do Cacém,2012:10:21 20:27:00,0,1,EM544,,Atropelamento de peões
+S. do Cacém,2012:11:11 14:30:00,0,1,Outra Via,,Despiste c/col. c/veíc. imobil./obst.
+Seixal,2012:01:14 18:15:00,0,1,R DA INDUSTRIA,,Colisão frontal
+Seixal,2012:01:19 12:00:00,0,1,EN10,"14,600",Colisão lat. c/ outro veículo mov.
+Seixal,2012:03:10 16:30:00,0,1,Rua Sarmento Pimentel,,De  s  p  i s t ec  / c  o  l .c  / v e  í c  .  i mo  b  i l . / o  bst.
+Seixal,2012:03:28 19:00:00,0,1,Rua Almada Negreiros,,At r o  p  e  l a  me  n  t od  ep  e  õ  e  s
+Seixal,2012:04:22 05:30:00,0,1,Avenida 1o de Maio,,C  o  l i s  ã  ot r a  s  .  c /  o  u  t r  ov e  í c  .mov.
+Seixal,2012:04:23 08:10:00,0,1,Rua 25 de Abril,,A  t r o  p  e  l a  me  n  t od  ep  e  õ  e  s
+Seixal,2012:06:19 16:45:00,0,1,EN378,,Colisão lat. c/ outro veículo mov.
+Seixal,2012:09:22 20:00:00,0,1,Rua Oliveira Martins,,Co  li s  ã  ol a  t .c  /  o  u  t r ov  e  í c  u  lom ov.
+Seixal,2012:10:08 17:25:00,1,0,EN10,"12,700",Atropelamento de peões
+Seixal,2012:10:30 05:40:00,1,0,EN10,"15,800",Colisão frontal
+Seixal,2012:11:07 19:00:00,0,1,EN10,"14,950",Atropelamento de peões
+Seixal,2012:11:27 00:20:00,1,0,A2,"8,700",Colisão c/veic./obstáculo f. rodagem
+Seixal,2012:11:27 15:45:00,0,1,Avenida Carlos de Oliveira,,Co  li s  ã  of r o  n  t a  l
+Seixal,2012:12:06 17:00:00,0,1,Avenida 25 de Abril,,At r o  p  e  l a  me  n  t od  ep  e  õ  e  s
+Seixal,2012:12:13 18:45:00,0,1,Avenida 25 de Abril,,Atropelamento de peões
+Seixal,2012:12:17 23:20:00,0,2,Avenida 25 de Abril,,Colisão frontal
+Seixal,2012:12:25 21:45:00,0,1,Avenida 25 de Abril,,At r o  p  e  l a  me  n  t od  ep  e  õ  e  s
+Sesimbra,2012:01:30 21:45:00,1,0,Est. Casalão-Qta. Pateira,,Despiste c/col. c/veíc. imobil./obst.
+Sesimbra,2012:02:19 12:00:00,1,0,AREEIRO SUL E ESTE,,Despiste simples
+Sesimbra,2012:04:08 13:25:00,0,1,EN377,"35,850",Atropelamento de peões
+Sesimbra,2012:06:13 15:10:00,1,0,EN378,"14,700",Despiste simples
+Sesimbra,2012:08:01 22:00:00,0,1,EN377,"35,400",Despiste simples
+Sesimbra,2012:08:08 00:15:00,0,1,Ava da Liberdade,,Colisão lat. c/ outro veículo mov.
+Sesimbra,2012:11:19 10:30:00,0,1,Ava Humberto Delgado,,Colisão c/veic./obstáculo f. rodagem
+Sesimbra,2012:12:02 13:20:00,0,1,EN379,"13,800",Colisão lat. c/ outro veículo mov.
+Sesimbra,2012:12:05 11:30:00,0,1,EN378,"15,400",Colisão lat. c/ outro veículo mov.
+Sesimbra,2012:12:11 12:30:00,0,1,Ava Principal Qta. Conde,,Colisão com outras situações
+Setúbal,2012:01:21 00:15:00,1,0,EN10-4,"2,700",Despiste c/ capotamento
+Setúbal,2012:01:29 12:30:00,1,0,EN379-1,"11,200",Despiste s/ dispositivo de retenção
+Setúbal,2012:02:21 07:45:00,0,1,Estrada Graça,,De  s  p  i s t ec  / c  o  l .c  / v e  í c  .  i mo  b il./obst.
+Setúbal,2012:02:24 18:30:00,1,0,EST DOS PICHELEIROS,,Despiste c/col. c/veíc. imobil./obst.
+Setúbal,2012:03:09 00:50:00,1,0,Rua Fernando Motrena,,Despiste c/col. c/veíc. imobil./obst.
+Setúbal,2012:04:02 12:30:00,0,2,A2,"41,300",Despiste c/ capotamento
+Setúbal,2012:05:05 09:50:00,0,1,EN10,"45,600",Colisão lat. c/ outro veículo mov.
+Setúbal,2012:05:18 14:30:00,0,1,Rua Saúde,Co  l is  ã  o,,c  o  m,o  u  t r a  ss  i t u  a  ç õ  e s
+Setúbal,2012:05:28 12:30:00,0,1,Estrada Vale de Mulatas,Co  li s  ã  o,,f r o  n  t a  l,
+Setúbal,2012:06:08 07:00:00,0,1,Avenida Luísa Todi,De  s  p  i s t e,,c  /  c  a  p  o  t a  m,e  n  t o
+Setúbal,2012:06:09 19:15:00,1,0,"EN1042,600",Despiste simples,,,
+Setúbal,2012:06:29 20:20:00,1,0,Estrada Algeruz,Colisão lat. c/ outro veículo mov.,,,
+Setúbal,2012:07:14 02:20:00,0,1,EN10,Despiste simples,,,
+Setúbal,2012:07:22 17:30:00,0,1,Avenida da Europa,Despiste c/ dispositivo de retenção,,,
+Setúbal,2012:09:30 10:30:00,1,1,Avenida Belo Horizonte,Despiste com fuga,,,
+Setúbal,2012:10:10 10:30:00,1,0,Estrada Ciprestes,A  t r o  p  e  l a  m,,e  n  t o,d  ep  e  õ  e  s
+Setúbal,2012:10:21 01:20:00,0,1,EN10,Atropelamento de peões,,,
+Setúbal,2012:12:15 04:00:00,0,1,Rua de São Gonçalo,Atropelamento com fuga,,,
+Sines,2012:02:26 20:30:00,1,0,Estrada Florestal,Atropelamento de peões,,,
+Sines,2012:04:04 22:45:00,0,2,R. N. S. Remédios,Despiste c/col. c/veíc. imobil./obst.,,,
+Sines,2012:10:04 12:30:00,0,1,Rua Forte da Ilha,Despiste simples,,,
+Sines,2012:12:21 19:25:00,0,1,Rua Marques de Pombal,Despiste simples,,,
+,,57,147,,,,,
+Alcácer do Sal,2012:02:05 18:30:00,1,0,A2,"78,627",Colisão tras. c/ outro veíc. mov.
+Alcácer do Sal,2012:02:26 12:30:00,0,2,IC1,"54,900",Colisão lat. c/ outro veículo mov.
+Alcácer do Sal,2012:03:30 15:50:00,0,1,EN5,"76,266",Despiste c/ capotamento
+Alcácer do Sal,2012:04:20 21:20:00,0,1,AV JOSE SARAMAGO,,Colisão lat. c/ outro veículo mov.
+Alcácer do Sal,2012:05:01 10:20:00,0,1,EN253,"14,600",Despiste simples
+Alcácer do Sal,2012:05:23 13:00:00,0,1,EN261,"2,600",Colisão tras. c/ outro veíc. mov.
+Alcácer do Sal,2012:06:17 06:20:00,0,1,EN253,"30,250",Despiste c/ capotamento
+Alcácer do Sal,2012:06:20 19:40:00,1,1,EN120,"10,200",Colisão frontal
+Alcácer do Sal,2012:06:23 19:15:00,1,0,EN253,"12,900",Colisão tras. c/ outro veíc. mov.
+Alcácer do Sal,2012:06:24 14:50:00,1,0,EN5,"61,300",Colisão frontal
+Alcácer do Sal,2012:08:04 17:15:00,0,1,EN5,"48,600",Colisão frontal
+Alcácer do Sal,2012:08:15 07:45:00,1,0,EM543,,Despiste c/ capotamento
+Alcácer do Sal,2012:09:20 00:05:00,1,0,A2,"87,550",Atropelamento de peões
+,,,,R. 1o de Maio (junto est.,,
+Alcácer do Sal,2012:10:13 17:07:00,1,0,,,Despiste simples
+,,,,acesso à Herd. Ervideira),,
+Alcochete,2012:03:03 01:10:00,0,1,IC3,"2,450",Colisão frontal
+Alcochete,2012:05:07 17:40:00,0,1,EM1004,,Despiste c/col. c/veíc. imobil./obst.
+Alcochete,2012:05:20 03:40:00,0,1,EM502,"0,900",Despiste simples
+Almada,2012:02:09 00:10:00,0,1,Avenida Arsenal do Alfeite,,De  s  p  i s t ec  /  c  a  p  o  t a  me  n  t o
+Almada,2012:02:28 03:45:00,0,2,A2,"5,650",Despiste s/ dispositivo de retenção
+Almada,2012:04:19 09:30:00,0,1,EN377-1,,Colisão tras. c/ outro veíc. mov.
+Almada,2012:04:19 11:10:00,0,1,R. Horácio Silva Louro,,Despiste simples
+Almada,2012:06:26 15:20:00,0,1,R ALFREDO CUNHA,,Colisão tras. c/ outro veíc. mov.
+Almada,2012:06:30 10:55:00,0,1,IC20,"3,400",Colisão tras. c/ outro veíc. mov.
+Almada,2012:07:15 01:35:00,1,0,Rua Vera Cruz,,A  t r o  p  e  l a  me  n  t od  ep  e  õ  e  s
+Almada,2012:07:17 17:10:00,0,1,Via Panor. Pablo Neruda,,Colisão frontal
+Almada,2012:07:26 19:00:00,0,1,Avenida Aliança Povo Mfa,,C  o  l i s  ã  ola  t .  c  /  o  u  t r ov  e  í c  u  l omo  v .
+Almada,2012:07:28 17:20:00,0,1,Ava do Mar,,Colisão lat. c/ outro veículo mov.
+Almada,2012:08:05 07:00:00,1,2,Rua Venceslau de Morais,,Despiste c/col. c/veíc. imobil./obst.
+Almada,2012:08:07 00:40:00,1,0,IC20,"1,700",Atropelamento de peões
+Almada,2012:08:26 17:30:00,1,0,Rua Don João V,,Colisão frontal
+Almada,2012:10:16 05:15:00,1,0,A2,"6,550",Atropelamento de peões
+Almada,2012:10:16 16:45:00,0,1,Av. Rainha Dona Leonor,,Co  l is  ã  oc  o  mo  u  t r a  ss  i t u  a  ç õ  e  s
+Almada,2012:10:20 10:30:00,0,1,Rua da Granja,,Atropelamento de peões
+Almada,2012:11:18 14:00:00,0,2,EN10-1,"6,100",Despiste c/col. c/veíc. imobil./obst.
+Almada,2012:12:01 17:55:00,0,1,Rua dos Três Vales,,Atropelamento de peões
+,,,,R. Hermínia Silva (junto ao,,
+Almada,2012:12:18 15:20:00,1,0,,,Atropelamento com fuga
+,,,,Centro Paroquial),,
+Barreiro,2012:02:13 18:50:00,0,1,EM510,,Atropelamento de peões
+Barreiro,2012:02:28 21:00:00,0,1,R SERRA DA ARRABIDA,,Despiste simples
+,,,,Av. Mestre Manuel Santos,,
+Barreiro,2012:03:04 00:40:00,1,0,,,Despiste c/ dispositivo de retenção
+,,,,Cabanas(Junto B. GALP),,
+Barreiro,2012:03:17 12:50:00,0,1,EN10,"16,080",Colisão tras. c/ outro veíc. mov.
+Barreiro,2012:03:17 17:00:00,0,2,EM510,,Despiste c/ capotamento
+Barreiro,2012:04:22 03:30:00,1,0,Avenida Liberdade,,Despiste simples
+Barreiro,2012:05:06 10:57:00,1,0,EN10-3,"3,500",Atropelamento de peões
+,,,,Av. MFA (junto,,
+Barreiro,2012:05:15 16:00:00,0,1,,,Atropelamento de peões
+,,,,Eesc.Casquilhos,,
+Barreiro,2012:05:17 17:15:00,0,1,EN10-3,"0,800",Despiste c/ dispositivo de retenção
+Barreiro,2012:05:27 09:50:00,0,1,EN10-3,"3,000",Colisão lat. c/ outro veículo mov.
+Barreiro,2012:06:01 18:40:00,0,1,IC32,"3,900",Despiste simples
+Barreiro,2012:06:27 22:39:00,1,0,Rua Amizade,,Atropelamento de peões
+Barreiro,2012:07:22 14:05:00,0,2,Alameda Ary dos Santos,,A  t r  o  p  e  la  me  n  t od  ep  e  õ  e s
+Barreiro,2012:10:18 23:00:00,0,1,EN11-2,"3,000",Atropelamento de peões

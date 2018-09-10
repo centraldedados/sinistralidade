@@ -1,0 +1,55 @@
+Concelho,Datahora,M*,FG*,Via,km,Natureza
+Bragança,2012:01:09 15:25:00,0,1,IP4,"227,250",Colisão frontal
+Bragança,2012:02:20 17:00:00,0,1,Av. Gen. Humb. Delgado,,A  t r o  p  e  l a  me  n  t od  ep  e  õ  e  s
+Bragança,2012:04:19 11:15:00,0,1,EN15,"229,700",Colisão c/veic./obstáculo f.rodagem
+Bragança,2012:04:26 01:45:00,1,1,IP4,"202,128",Despiste c/ disp. de retenção
+Bragança,2012:05:12 22:00:00,0,2,Rua Estado de São Paulo,,De  s  p  is  t ec  / c  o  l .  c / v  e  í c  .i mo  b  i l. / o  b  st.
+Bragança,2012:06:25 08:15:00,0,1,EM1070,,Colisão lat. c/ outro veíc. mov.
+Bragança,2012:09:27 16:10:00,0,1,Rua de Pias,,Despiste c/ capotamento
+Bragança,2012:10:31 13:00:00,0,4,EN15,"233,080",Colisão frontal
+Czda de Ansiães,2012:08:18 06:30:00,0,1,EM633-1,"6,900",Despiste c/ capotamento
+Czda de Ansiães,2012:12:20 07:45:00,0,1,Outra Via,,Despiste c/ capotamento
+F. Esp. a Cinta,2012:07:18 11:00:00,0,2,EN221,"85,842",Despiste c/ capotamento
+Mac. Cavaleiros,2012:01:14 11:10:00,0,1,Av. Com. Anto J.Ferreira,,Colisão frontal
+Mac. Cavaleiros,2012:01:19 19:50:00,0,1,R Camilo Castelo Branco,,Colisão frontal
+Mac. Cavaleiros,2012:05:22 14:00:00,0,1,R Camilo Castelo Branco,,Colisão frontal
+Mac. Cavaleiros,2012:06:09 10:30:00,1,0,Outra Via,,Despiste c/ capotamento
+Mac. Cavaleiros,2012:07:13 05:00:00,0,1,Est. Cem. Mac.Cavaleiros,,Despiste c/col. c/veíc. imobil./obst.
+Mir. do Douro,2012:01:23 01:40:00,0,1,R Coronel Eduardo Beça,,Despiste c/col. c/veíc. imobil./obst.
+Mir. do Douro,2012:02:28 14:00:00,1,0,EN221,"18,393",Despiste simples
+Mir. do Douro,2012:11:09 10:30:00,0,1,EN218,"73,500",Despiste simples
+Mir. do Douro,2012:12:26 22:20:00,0,1,EN218,"78,800",Despiste c/ capotamento
+Mirandela,2012:02:07 09:00:00,0,1,Av. Olímpio G. de Andrade,,D  e  s  p  i s  t es /  d  i s  p  o  s  i t iv  od  er etenção
+Mirandela,2012:03:20 07:20:00,1,0,EM578,,Colisão tras. c/ outro veíc. mov
+Mirandela,2012:05:04 17:25:00,0,1,Rua Meio,,At r o  p  e  l a  me  n  t od  ep  e  õ  e  s
+Mirandela,2012:05:23 13:45:00,1,2,EN213,"41,400",Colisão frontal
+Mirandela,2012:06:03 21:30:00,0,1,Outra Via,,Despiste simples
+Mirandela,2012:06:21 05:30:00,0,1,Av. Olímpio G. de Andrade,,D  e  s  p  i s  t ec /  c  a  p  o  t a  me  n  t o
+Mirandela,2012:08:23 02:00:00,1,0,EN15,"180,000",Despiste simples
+Mirandela,2012:08:24 16:27:00,0,1,Rua Misericórdia,,C  o  l i s  ã  oc o  mo  u  t r  a  s  s  i t u  a  ç  õ  es
+Mirandela,2012:09:09 20:15:00,0,1,Rua Manuel J. Ferreira,,C  o  l i s  ã  of r o  n  t a  l
+Mirandela,2012:09:14 17:30:00,0,1,R. Eng. José Machado Vaz,,A  t  r o  p  e  la  me  n  t od  ep  e  õ  e s
+Mirandela,2012:09:22 19:20:00,0,1,Rua Doutor Paulo Mendo,,A  t r  o  p  e  la  me  n  t od  ep  e  õ  e  s
+Mirandela,2012:10:29 22:00:00,1,0,EM206-1,"6,525",Despiste s/ dispositivo de retenção
+Mirandela,2012:11:24 13:15:00,0,1,Rua Cidade de Orthez,,A  t r o  p  e  l a  me  n  t od  ep  e  õ  e  s
+Mirandela,2012:12:22 14:25:00,0,1,R. Joaquim T. Braga,,Colisão frontal
+Mogadouro,2012:02:19 00:15:00,0,1,EM592,,Despiste c/ capotamento
+Mogadouro,2012:06:20 15:15:00,0,1,EN221,"47,500",Despiste simples
+Mogadouro,2012:07:16 17:15:00,1,0,EM600-3,,Despiste c/ capotamento
+Mogadouro,2012:08:03 22:00:00,0,1,EN219,"31,300",Colisão lat. c/ outro veíc. mov.
+Mogadouro,2012:08:05 19:20:00,1,0,EM596-3,,Despiste c/ capotamento
+T. de Moncorvo,2012:01:16 00:30:00,0,1,Av. Duarte Pacheco,,Despiste simples
+T. de Moncorvo,2012:08:19 07:30:00,0,1,EM613,"10,800",Despiste simples
+T. de Moncorvo,2012:08:28 13:30:00,0,1,Rua das Eiras,,Despiste c/col. c/veíc. imobil./obst.
+T. de Moncorvo,2012:10:20 23:30:00,0,1,Outra Via,,Despiste simples
+Vila Flor,2012:06:28 04:30:00,0,1,EN214,"37,200",Despiste s/ dispositivo de retenção
+Vimioso,2012:07:24 19:30:00,0,1,EN218,"49,000",Colisão frontal
+Vimioso,2012:08:23 09:00:00,0,1,EN218,"60,300",Colisão frontal
+Vimioso,2012:08:28 05:30:00,0,2,EM570,,Despiste c/col. c/veíc. imobil./obst.
+Vinhais,2012:04:01 12:00:00,0,1,EN316,"3,900",Despiste c/ dispositivo de retenção
+Vinhais,2012:04:09 17:00:00,0,1,Caminho Agríc. da Ribeira,,Despiste simples
+Vinhais,2012:04:19 08:20:00,0,1,EM511,,Despiste simples
+Vinhais,2012:08:09 02:39:00,1,0,EM509,,Despiste c/ capotamento
+Vinhais,2012:08:24 19:00:00,0,1,Lg. N. Sra Saúde,,Despiste c/ capotamento
+Vinhais,2012:12:15 20:15:00,1,0,EN315,"0,700",Despiste c/ capotamento
+,,11,51,,,
