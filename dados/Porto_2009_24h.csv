@@ -1,0 +1,489 @@
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Amarante,2009:04:13 18:10:00,1,0,R MO,,,Despiste simples
+Amarante,2009:11:02 16:00:00,0,1,EN15,,"52,950",Despiste simples
+Amarante,2009:03:14 09:40:00,0,1,R MATOUCA,,,Despiste com capotamento
+Amarante,2009:06:28 10:40:00,1,0,R MO,,,Atropelamento de peões
+Amarante,2009:10:11 03:15:00,0,1,EN15,,"57,200",Colisão lat. c/outro veíc. mov.
+Amarante,2009:10:24 09:00:00,0,1,IP4,,"66,400",Colisão frontal
+Amarante,2009:12:24 15:20:00,1,0,A4,,"57,400",Despiste c/ disp. retenção
+Amarante,2009:05:23 20:00:00,1,1,A4,,"51,300",Colisão com outras situações
+Amarante,2009:09:09 11:10:00,0,1,R IGREJA,,,Atropelamento de peões
+Baiao,2009:08:08 22:30:00,4,3,,,,Colisão lat. c/outro veíc. mov.
+Baiao,2009:12:17 18:30:00,0,1,EM581,,,Despiste simples
+Baiao,2009:03:27 20:20:00,0,1,LUGAR LODEO,,,Despiste com capotamento
+Baiao,2009:09:01 05:53:00,0,1,EN101,,"156,900",Despiste com capotamento
+Baiao,2009:05:16 17:15:00,0,1,R CAMOES,,,Despiste c/col. c/veíc. imobil./obst.
+Felgueiras,2009:09:29 02:45:00,0,1,EN207-3,,"0,100",Colisão frontal
+Felgueiras,2009:09:21 07:55:00,0,1,EN101-4,,"0,800",Colisão tras. c/ outro veíc. mov.
+Felgueiras,2009:05:14 08:30:00,0,1,LUGAR MONTE,,,Despiste c/col. c/veíc. imobil./obst.
+Felgueiras,2009:06:24 15:30:00,0,1,LUGAR MILHOES,,,Colisão frontal
+Felgueiras,2009:01:21 13:15:00,0,1,LUGAR PENIDO,,,Despiste simples
+Felgueiras,2009:12:11 18:30:00,0,1,EN101-4,,"2,600",Atropelamento de peões
+Felgueiras,2009:02:07 13:20:00,0,1,EN207,,"38,800",Colisão lat. c/outro veíc. mov.
+Felgueiras,2009:02:10 20:50:00,0,1,EN207-3,,,Colisão lat. c/outro veíc. mov.
+Felgueiras,2009:09:25 20:20:00,0,1,EN15,,"48,800",Atropelamento de peões
+Felgueiras,2009:11:14 19:33:00,0,1,AV RIBEIRO MAGALHAES,,,Atropelamento com fuga
+"",,,,LUGAR RECTA,,,
+Felgueiras,2009:10:12 09:00:00,0,1,,,,Atropelamento de peões
+"",,,,RETONTOURA,,,
+Felgueiras,2009:11:16 18:25:00,0,1,LUGAR DO PARAISO,,,Atropelamento de peões
+Felgueiras,2009:02:12 08:05:00,0,1,EM564,,,Atropelamento de peões
+Felgueiras,2009:12:27 14:00:00,1,0,R COUTADA,,,Despiste com capotamento
+Felgueiras,2009:10:15 20:15:00,0,1,LUGAR CAMPAS,,,Atropelamento de peões
+Felgueiras,2009:06:24 00:30:00,0,1,R SANTO ANTONIO,,,Colisão tras. c/ outro veíc. mov.
+Felgueiras,2009:08:10 00:30:00,0,1,LUGAR ASSEITO,,,Despiste simples
+Felgueiras,2009:06:13 18:00:00,0,1,LUGAR COTO,,,Colisão frontal
+Felgueiras,2009:09:13 16:10:00,0,1,R PEDROSO,,,Colisão choque em cadeia
+"",,,,Rua do Pinheiro da,,,
+Gondomar,2009:05:22 19:30:00,0,1,,,,Atropelamento de peões
+"",,,,Saudade,,,
+Gondomar,2009:07:10 14:00:00,0,1,AV DA CONDUTA,,,Atropelamento de peões
+"",,,,Rua Padre Joaquim das,,,
+Gondomar,2009:05:04 23:15:00,0,3,,,,Atropelamento de peões
+"",,,,Neves,,,
+Gondomar,2009:05:02 19:55:00,0,1,AV MULTIUSOS,,,Colisão c/veic./obstá. f. rodagem
+Gondomar,2009:09:11 12:00:00,0,1,Rua da Igreja (Gondomar),,,Atropelamento de peões
+Gondomar,2009:07:07 12:12:00,0,1,AV CARVALHA,,,Colisão lat. c/outro veíc. mov.
+Gondomar,2009:02:16 11:00:00,0,1,EN108,,"0,400",Colisão lat. c/outro veíc. mov.
+Gondomar,2009:01:01 15:45:00,0,1,Avenida de Dom João I,,,Atropelamento de peões
+Gondomar,2009:01:21 06:45:00,0,1,TV CAVADA,,,Atropelamento de peões
+Gondomar,2009:11:20 18:00:00,0,1,R ALTO REGADAS,,,Atropelamento de peões
+Gondomar,2009:08:13 22:00:00,0,1,Avenida da Conduta,,,Colisão lat. c/outro veíc. mov.
+Gondomar,2009:05:17 18:45:00,0,1,EN108,,"5,370",Atropelamento de peões
+Lousada,2009:06:20 23:45:00,0,1,EN106,,"18,300",Colisão com fuga
+Lousada,2009:06:08 10:00:00,0,1,EN106,,"16,350",Despiste com capotamento
+Lousada,2009:10:13 21:00:00,0,1,EN207,,"24,800",Colisão frontal
+Lousada,2009:03:11 11:00:00,0,1,AV BOAVISTA,,,Colisão frontal
+Lousada,2009:05:28 08:45:00,1,0,EN106,,"22,200",Colisão frontal
+Lousada,2009:01:21 16:10:00,0,1,R PINHEIRINHOS,,,Despiste simples
+Lousada,2009:08:21 20:05:00,0,1,EN106,,"19,100",Despiste com capotamento
+Lousada,2009:08:30 18:15:00,1,2,EN15,,"42,700",Colisão com outras situações
+Lousada,2009:02:15 17:45:00,0,1,R BOTICA,,,Colisão lat. c/outro veíc. mov.
+Maia,2009:09:03 09:30:00,0,1,Via Central de Milheirós,,Atropelamento de peões
+"",,,,,,
+"",,,,Avenida de Nossa Senhora,,
+Maia,2009:11:16 19:55:00,0,1,,,Colisão tras. c/ outro veíc. mov.
+"",,,,da Natividade,,
+"",,,,Avenida Doutor Germano,,
+Maia,2009:04:24 11:15:00,0,1,,,Despiste c/col. c/veíc. imobil./obst.
+"",,,,Vieira,,
+Maia,2009:04:09 13:15:00,0,1,Rua 5 de Outubro,,Atropelamento de peões
+"",,,,,,
+Maia,2009:09:16 01:20:00,1,0,R CRUZ GUARDEIRAS,,Despiste c/col. c/veíc. imobil./obst.
+"",,,,,,
+Maia,2009:12:12 06:15:00,0,1,R FRIAES,,Atropelamento de peões
+"",,,,,,
+"",,,,R JOAQUIM NOGUEIRA,,
+Maia,2009:05:22 04:10:00,0,1,,,Atropelamento de peões
+"",,,,SANTOS,,
+Maia,2009:07:29 18:20:00,0,1,R FRIAES,,Despiste c/col. c/veíc. imobil./obst.
+"",,,,,,
+Maia,2009:11:07 11:40:00,0,1,A41,"12,200",Despiste c/ disp. retenção
+"",,,,AV FRANCISCO SA,,
+Maia,2009:03:21 07:00:00,1,0,,,Colisão lat. c/outro veíc. mov.
+"",,,,CARNEIRO,,
+Maia,2009:01:17 15:50:00,0,1,A41,"2,400",Despiste simples
+Maia,2009:04:19 01:30:00,0,1,A41,"7,350",Colisão tras. c/ outro veíc. mov.
+"",,,,EST DIAGONAL DA,,
+Maia,2009:05:23 03:25:00,0,1,,,Colisão com outras situações
+"",,,,CIDREOGIA,,
+Maia,2009:12:14 08:40:00,2,0,R 1,,Colisão lat. c/outro veíc. mov.
+"",,,,,,
+"",,,,AV PADRE MANUEL,,
+Maia,2009:06:08 17:55:00,0,1,,,Atropelamento de peões
+"",,,,ALVES DO REGO,,
+"",,,,R DR JOAQUIM,,
+Maia,2009:04:17 18:45:00,0,1,,,Atropelamento de peões
+"",,,,NOGUEIRO DOS SANTOS,,
+"",,,,R CONSELHEIRO COSTA,,
+Maia,2009:01:31 16:00:00,0,1,,,Colisão frontal
+"",,,,AROSO,,
+Marco Canaveses,2009:10:04 17:50:00,0,1,EN210,"65,300",Colisão lat. c/outro veíc. mov.
+Marco Canaveses,2009:06:05 11:00:00,1,0,EN211,"4,400",Colisão lat. c/outro veíc. mov.
+Marco Canaveses,2009:02:14 17:20:00,0,1,EN320,"36,250",Colisão lat. c/outro veíc. mov.
+Marco Canaveses,2009:03:10 21:15:00,1,0,R DE SEQUEIROS,,Atropelamento de peões
+"",,,,,,
+Marco Canaveses,2009:01:17 18:15:00,1,1,EN321-1,"0,900",Colisão lat. c/outro veíc. mov.
+Marco Canaveses,2009:11:15 17:10:00,1,0,EN211,"5,730",Colisão lat. c/outro veíc. mov.
+Marco Canaveses,2009:08:07 22:00:00,0,2,,,Colisão frontal
+"",,,,,,
+Marco Canaveses,2009:11:28 18:00:00,0,1,EN210,"74,880",Despiste simples
+Matosinhos,2009:11:06 16:46:00,0,1,Rua Silva Brinco,,Colisão com outras situações
+"",,,,,,
+Matosinhos,2009:10:28 17:04:00,0,1,Rua do Tronco,,Atropelamento de peões
+"",,,,,,
+"",,,,R TEOFILO CARVALHO,,
+Matosinhos,2009:11:21 19:00:00,1,0,,,Despiste simples
+"",,,,SANTOS,,
+Matosinhos,2009:12:23 16:20:00,1,0,A4,"1,700",Despiste c/ disp. retenção
+Matosinhos,2009:08:04 22:05:00,0,1,AV DR MANUEL TEIXEIRA,,Atropelamento de peões
+"",,,,,,
+Matosinhos,2009:04:20 00:20:00,0,1,A28,"11,725",Desp. c/transp.disp. ret. lateral
+Matosinhos,2009:06:06 16:20:00,0,1,Avenida da República,,Atropelamento de peões
+"",,,,,,
+Matosinhos,2009:05:19 18:55:00,1,0,Rua 5 de Outubro,,Atropelamento de peões
+"",,,,,,
+Matosinhos,2009:10:23 19:30:00,0,1,Ava Oscar Lopes,,Colisão lat. c/outro veíc. mov.
+"",,,,,,
+Matosinhos,2009:05:17 16:00:00,0,1,A28,"5,300",Colisão lat. c/outro veíc. mov.
+Matosinhos,2009:06:09 14:55:00,1,0,AV MARIO BRITO,,Colisão frontal
+"",,,,,,
+Matosinhos,2009:01:07 06:30:00,0,1,A28,,Atropelamento de peões
+"",,,,,,
+Matosinhos,2009:04:02 17:21:00,0,1,Rua Bernardino Machado,,Colisão lat. c/outro veíc. mov.
+"",,,,,,
+Matosinhos,2009:07:27 08:20:00,1,0,A28,"5,300",Atropelamento de peões
+Matosinhos,2009:04:27 17:20:00,1,0,EN14,"1,400",Atropelamento de peões
+Matosinhos,2009:07:08 20:30:00,0,1,Avenida Antunes Guimarães,,Despiste com capotamento
+"",,,,,,
+Matosinhos,2009:10:02 09:20:00,0,2,Avenida Fabril do Norte,,Atropelamento de peões
+"",,,,,,
+Matosinhos,2009:06:22 20:30:00,0,1,Rua de São Gens,,Atropelamento de peões
+"",,,,,,
+"",,,,Travessa Dom Nuno Álvares,,
+Matosinhos,2009:01:06 00:05:00,0,2,,,Colisão com outras situações
+"",,,,Pereira,,
+Matosinhos,2009:12:01 13:59:00,0,1,Avenida da República,,Atropelamento de peões
+"",,,,,,
+Matosinhos,2009:06:07 05:00:00,0,1,A28,"6,200",Colisão c/veic./obstá. f. rodagem
+Matosinhos,2009:09:09 07:30:00,0,1,Estrada da Circunvalação,,Colisão lat. c/outro veíc. mov.
+Pacos de Ferreira,2009:07:12 09:45:00,0,1,R ANTONIO BARBOSA,,Colisão lat. c/outro veíc. mov.
+Pacos de Ferreira,2009:09:13 19:00:00,1,0,A42,"0,500",Despiste simples
+Pacos de Ferreira,2009:05:29 07:55:00,0,2,AV CENTRAL DA SEROA,,Atropelamento de peões
+"",,,,,,
+Pacos de Ferreira,2009:05:24 12:00:00,0,1,VIA PODER LOCAL,,Colisão com outras situações
+"",,,,,,
+Pacos de Ferreira,2009:03:02 23:15:00,0,1,ROT PINHEIRAL,,Despiste simples
+"",,,,,,
+Pacos de Ferreira,2009:01:23 19:30:00,0,1,R PARQUE,,Colisão com fuga
+"",,,,,,
+"",,,,AV PORTA CAPITAL,,
+Pacos de Ferreira,2009:08:25 18:40:00,1,0,,,Atropelamento de peões
+"",,,,MOVEL,,
+Pacos de Ferreira,2009:05:25 12:15:00,0,1,R RIBEIRO PENAMAIOR,,Despiste simples
+"",,,,,,
+Paredes,2009:11:02 18:10:00,0,3,AV CARDAL,,Colisão frontal
+"",,,,,,
+Paredes,2009:12:02 17:40:00,1,0,EN319,"27,950",Atropelamento de peões
+Paredes,2009:03:07 20:30:00,0,1,EN319,"18,600",Atropelamento de peões
+Paredes,2009:07:25 17:10:00,0,1,EN319-2,"1,178",Atropelamento de peões
+Paredes,2009:04:16 13:10:00,1,0,EN15,"22,300",Colisão lat. c/outro veíc. mov.
+Paredes,2009:03:20 09:30:00,1,0,EN15,"14,800",Despiste c/col. c/veíc. imobil./obst.
+Paredes,2009:07:20 15:45:00,0,1,AV CENTRAL PORTELA,,Colisão lat. c/outro veíc. mov.
+"",,,,,,
+Paredes,2009:10:04 16:15:00,1,0,R AGRELA,,Despiste c/col. c/veíc. imobil./obst.
+"",,,,,,
+"",,,,AV FAUSTINO MOREIRA,,
+Paredes,2009:03:20 00:50:00,0,1,,,Atropelamento de peões
+"",,,,SANTOS,,
+Paredes,2009:02:14 20:00:00,1,0,A42,"2,730",Colisão tras. c/ outro veíc. mov.
+Paredes,2009:06:22 19:30:00,1,0,EN319,"20,470",Atropelamento de peões
+Paredes,2009:08:29 19:00:00,0,1,EN319,"29,780",Colisão lat. c/outro veíc. mov.
+Paredes,2009:08:28 14:55:00,0,1,A4,"29,850",Despiste c/ disp. retenção
+"",,,,AV DR FRANCISCO SA,,
+Paredes,2009:12:01 20:10:00,1,0,,,Colisão frontal
+"",,,,CARNEIRO,,
+"",,,,R DR JOSE BARNARDO,,
+Paredes,2009:08:15 21:40:00,0,1,,,Colisão lat. c/outro veíc. mov.
+"",,,,PACHECO PEREIRA LEITE,,
+Paredes,2009:09:26 23:50:00,0,1,R RAINHA STA TERESA,,Colisão com outras situações
+"",,,,,,
+Paredes,2009:12:22 14:00:00,0,2,EN15,"20,700",Colisão frontal
+Paredes,2009:11:29 16:00:00,0,1,EN209,"27,300",Colisão c/veic./obstá. f. rodagem
+"",,,,AV FRANCISCO SA,,
+Paredes,2009:11:12 18:00:00,0,1,,,Colisão frontal
+"",,,,CARNEIRO,,
+"",,,,R PROF JOSE MEIRELES,,
+Paredes,2009:07:06 09:00:00,0,1,,,Colisão lat. c/outro veíc. mov.
+"",,,,CUNHA,,
+Penafiel,2009:12:04 22:00:00,1,1,EN211,"2,700",Colisão frontal
+Penafiel,2009:01:02 21:00:00,0,1,R SAMIL,,Despiste simples
+"",,,,,,
+Penafiel,2009:03:15 16:00:00,0,1,EN106,"32,830",Colisão lat. c/outro veíc. mov.
+Penafiel,2009:08:28 16:15:00,7,0,VAR-CAVALU,,Colisão frontal
+"",,,,,,
+Penafiel,2009:10:26 08:00:00,0,1,EN211,"2,850",Colisão com outras situações
+Penafiel,2009:03:07 20:40:00,0,1,EN106,"26,100",Despiste simples
+Penafiel,2009:04:26 14:38:00,1,2,EN106,"29,143",Colisão lat. c/outro veíc. mov.
+Penafiel,2009:09:16 13:15:00,0,1,LUGAR AZIZ,,Colisão frontal
+"",,,,,,
+Penafiel,2009:07:09 10:40:00,2,1,EN319-2,"4,300",Despiste s/ disp. retenção
+Penafiel,2009:12:15 08:00:00,0,1,R LAMOSO,,Colisão com outras situações
+"",,,,,,
+Penafiel,2009:04:23 15:30:00,0,1,EN15,"34,900",Colisão frontal
+Penafiel,2009:03:24 23:37:00,0,1,EN106,"30,200",Atropelamento de peões
+Penafiel,2009:07:02 22:30:00,0,1,AV LIBERDADE,,Colisão com outras situações
+"",,,,,,
+Penafiel,2009:09:27 09:00:00,0,1,AV LUIS CAMOES,,Colisão lat. c/outro veíc. mov.
+"",,,,,,
+Penafiel,2009:03:24 10:30:00,0,1,A4,"43,050",Despiste simples
+Penafiel,2009:05:31 12:10:00,2,2,EN106,"31,065",Colisão frontal
+Penafiel,2009:01:29 20:30:00,0,1,EN106,"25,800",Atropelamento de peões
+Penafiel,2009:07:23 07:15:00,0,1,AV PEDREIRAS,,Atropelamento de peões
+"",,,,,,
+Penafiel,2009:05:30 19:00:00,0,1,LUGAR LETRAS,,Colisão lat. c/outro veíc. mov.
+"",,,,,,
+Penafiel,2009:05:11 19:30:00,0,2,EN106-3,"3,200",Colisão lat. c/outro veíc. mov.
+Penafiel,2009:11:02 19:40:00,0,1,EN106,"30,800",Despiste simples
+Penafiel,2009:12:22 14:00:00,0,1,EN106,"23,750",Colisão frontal
+Penafiel,2009:10:29 10:50:00,0,1,EN101,"32,134",Colisão frontal
+Penafiel,2009:05:28 19:15:00,0,1,EN106,"24,100",Despiste c/col. c/veíc. imobil./obst.
+Porto,2009:08:31 08:30:00,0,1,A20,,Atropelamento de peões
+"",,,,,,
+Porto,2009:05:18 21:10:00,1,0,Praça da Batalha,,Atropelamento de peões
+"",,,,,,
+"",,,,Rua do Monte dos Burgos,,
+Porto,2009:06:25 16:35:00,1,0,,,Atropelamento de peões
+"",,,,(Sob A 20),,
+Porto,2009:08:10 11:50:00,0,1,A20,,"13,400",Despiste c/ disp. retenção
+Porto,2009:04:01 09:35:00,0,1,Viaduto da Areosa,,,Colisão frontal
+"",,,,,,,
+Porto,2009:11:09 12:15:00,0,1,Rua Diogo Botelho,,,Atropelamento de peões
+"",,,,,,,
+Porto,2009:05:14 16:35:00,0,1,Rua Costa Cabral,,,Atropelamento de peões
+"",,,,,,,
+Porto,2009:09:08 20:35:00,0,1,Avenida França,,,Atropelamento de peões
+"",,,,,,,
+Porto,2009:08:20 06:20:00,0,1,Alameda de Cartes,,,Atropelamento com fuga
+"",,,,,,,
+"",,,,R EXERCITO LIBERTADOR,,,
+Porto,2009:10:14 22:30:00,0,1,,,,Atropelamento de peões
+"",,,,C/ R ANTONIO ENES,,,
+"",,,,Rua Doutor Manuel Pereira,,,
+Porto,2009:09:29 17:25:00,0,1,,,,Atropelamento de peões
+"",,,,da Silva,,,
+Porto,2009:11:07 08:50:00,0,1,Rua Carrington da Costa,,,Despiste com capotamento
+"",,,,,,,
+Porto,2009:06:30 13:35:00,1,0,A20,,"13,700",Atropelamento de peões
+"",,,,Rua Manuel Pinto de,,,
+Porto,2009:10:17 09:50:00,0,1,,,,Atropelamento com fuga
+"",,,,Azevedo,,,
+Porto,2009:03:27 09:00:00,0,1,Avenida Boavista,,,Atropelamento de peões
+"",,,,,,,
+Porto,2009:12:02 20:25:00,1,0,A1,,"302,800",Atropelamento de peões
+Porto,2009:10:29 17:50:00,0,1,A20,,,Colisão c/veic./obstá. f. rodagem
+"",,,,,,,
+Porto,2009:04:02 13:00:00,0,1,Rua Costa Cabral,,,Atropelamento de peões
+"",,,,,,,
+Porto,2009:01:07 09:00:00,0,2,Avenida Paiva Couceiro,,,Colisão frontal
+"",,,,,,,
+Porto,2009:06:13 11:25:00,0,1,Estrada da Circunvalação,,,Colisão lat. c/outro veíc. mov.
+"",,,,,,,
+"",,,,R D JOAO IV c/ LG,,,
+Porto,2009:10:11 07:25:00,1,0,ESCULTOR JOSE,,,Atropelamento de peões
+"",,,,,,,
+"",,,,MOREIRA,,,
+Porto,2009:07:31 18:00:00,0,1,Largo da Lapa,,,Atropelamento de peões
+"",,,,,,,
+"",,,,Rua Regulo Magoanha-,,,
+Porto,2009:07:28 14:10:00,0,1,,,,Atropelamento de peões
+"",,,,Porto,,,
+Porto,2009:12:16 12:35:00,1,0,EN12,,"4,800",Despiste com capotamento
+"",,,,Estrada Interior da,,,
+Porto,2009:03:27 07:00:00,0,1,,,,Atropelamento de peões
+"",,,,Circunvalação,,,
+"",,,,Rua Professor Bento de,,,
+Porto,2009:12:21 21:40:00,0,1,,,,Colisão lat. c/outro veíc. mov.
+"",,,,Jesus Caraça,,,
+Porto,2009:03:07 12:05:00,0,1,PC GALIZA,,,Atropelamento de peões
+"",,,,,,,
+Porto,2009:10:02 17:45:00,0,1,Rua Boavista,,,Atropelamento de peões
+"",,,,,,,
+Porto,2009:01:04 18:20:00,1,0,Rua Constituição,,,Atropelamento de peões
+"",,,,,,,
+Porto,2009:08:20 10:30:00,0,1,Ava. Montevideu,,,Atropelamento de peões
+"",,,,,,,
+"",,,,Avenida Engenheiro,,,
+Porto,2009:02:19 02:05:00,1,2,,,,Despiste s/ disp. retenção
+"",,,,Gustavo Eifell,,,
+Porto,2009:12:22 22:40:00,1,0,R ALEGRIA,,,Atropelamento de peões
+"",,,,,,,
+Porto,2009:02:17 07:30:00,1,0,Rua João de Barros,,,Colisão lat. c/outro veíc. mov.
+"",,,,,,,
+Povoa de Varzim,2009:11:21 18:00:00,0,1,ACC-A28,,,Colisão frontal
+"",,,,,,,
+"",,,,R PADRE LINO SILVA,,,
+Povoa de Varzim,2009:07:31 18:00:00,0,1,,,,Colisão lat. c/outro veíc. mov.
+"",,,,ARAUJO,,,
+Povoa de Varzim,2009:06:10 02:15:00,0,1,A28,,"34,000",Despiste simples
+Povoa de Varzim,2009:05:29 12:10:00,0,1,R BARROCAS,,,Colisão frontal
+"",,,,,,,
+"",,,,R BELARMINO PEREIRA C/,,,
+Povoa de Varzim,2009:08:02 21:00:00,0,1,,,,Colisão frontal
+"",,,,R PENALVES,,,
+Povoa de Varzim,2009:07:05 03:30:00,1,2,EN13,,"32,150",Colisão com fuga
+Povoa de Varzim,2009:03:10 13:30:00,0,1,AV DO MAR,,,Colisão c/veic./obstá. f. rodagem
+"",,,,,,,
+Povoa de Varzim,2009:03:28 14:00:00,0,1,Rua José Moreira Amorim,,,Atropelamento de peões
+"",,,,,,,
+Povoa de Varzim,2009:06:20 12:10:00,0,2,R IGREJA,,,Despiste simples
+"",,,,,,,
+Povoa de Varzim,2009:03:05 21:30:00,0,2,ACC-A28,,,Colisão lat. c/outro veíc. mov.
+"",,,,,,,
+Povoa de Varzim,2009:05:30 17:30:00,0,1,R ALDEIA,,,Colisão lat. c/outro veíc. mov.
+"",,,,,,,
+Povoa de Varzim,2009:11:12 18:35:00,1,0,A28,,"31,600",Colisão tras. c/ outro veíc. mov.
+Povoa de Varzim,2009:02:18 12:30:00,0,1,R ARTUR AIRES,,,Atropelamento de peões
+"",,,,,,,
+Povoa de Varzim,2009:05:06 17:20:00,0,2,A28,,"33,250",Despiste com capotamento
+Povoa de Varzim,2009:03:02 18:00:00,0,1,R FONTE CABRA RATES,,,Colisão frontal
+"",,,,,,,
+Santo Tirso,2009:07:18 15:40:00,0,1,EN105,,"19,100",Atropelamento de peões
+Santo Tirso,2009:11:28 09:10:00,0,2,Rua Fernando Pires Lima,,,Despiste s/ disp. retenção
+"",,,,,,,
+Santo Tirso,2009:08:27 19:40:00,0,1,EN105,,"29,950",Despiste simples
+Santo Tirso,2009:02:05 08:02:00,0,1,VAR-EN104,,,Despiste com capotamento
+"",,,,,,,
+Santo Tirso,2009:05:03 16:30:00,0,1,EN105,,"27,200",Colisão frontal
+Santo Tirso,2009:05:16 23:00:00,0,1,Rua Fontiscos,,,Atropelamento de peões
+"",,,,,,,
+Santo Tirso,2009:06:19 16:10:00,0,1,R OLIVEIRAS,,,Colisão frontal
+Santo Tirso,2009:06:29 13:45:00,0,1,ROT TIMOR LOROSAE,,Colisão lat. c/outro veíc. mov.
+"",,,,Rua Padre Luís Gonzaga,,
+Santo Tirso,2009:11:08 15:45:00,1,0,,,Colisão tras. c/ outro veíc. mov.
+"",,,,Pinheiro,,
+Santo Tirso,2009:09:19 09:45:00,0,1,EN105,"29,710",Colisão frontal
+Santo Tirso,2009:09:25 22:15:00,0,1,Avenida Unisco Godiniz,,Colisão tras. c/ outro veíc. mov.
+"",,,,,,
+Santo Tirso,2009:03:16 13:00:00,0,1,Rua Padre José Maria Alves,,Colisão com outras situações
+"",,,,,,
+Santo Tirso,2009:03:25 08:00:00,0,1,R CASAL,,Colisão frontal
+"",,,,,,
+Santo Tirso,2009:01:16 18:50:00,2,1,ACC-A41,,Colisão frontal
+"",,,,,,
+Santo Tirso,2009:11:27 18:35:00,0,2,EN105,"15,500",Colisão frontal
+Santo Tirso,2009:10:28 15:15:00,0,1,Rua Fontiscos,,Atropelamento de peões
+"",,,,,,
+Santo Tirso,2009:07:13 22:00:00,1,0,,,Despiste simples
+"",,,,,,
+Trofa,2009:02:09 01:45:00,1,0,A3,"17,390",Desp. c/transp.disp. ret. lateral
+Trofa,2009:12:16 23:50:00,0,1,R D PEDRO,,Atropelamento de peões
+"",,,,,,
+Trofa,2009:11:25 10:10:00,0,1,A3,"16,800",Despiste c/ disp. retenção
+"",,,,R GENERAL HUMBERTO,,
+Trofa,2009:01:25 20:30:00,0,1,,,Atropelamento de peões
+"",,,,DELGADO,,
+Trofa,2009:01:01 17:30:00,0,1,R D PEDRO V,,Atropelamento de peões
+"",,,,,,
+Trofa,2009:11:09 07:30:00,1,0,R 25 ABRIL,,Atropelamento de peões
+"",,,,,,
+Trofa,2009:06:05 10:15:00,0,1,A3,"19,125",Colisão tras. c/ outro veíc. mov.
+Trofa,2009:11:17 06:00:00,1,1,R INFANTE D HENRIQUE,,Atropelamento de peões
+"",,,,,,
+Trofa,2009:07:17 08:00:00,2,0,A3,"18,575",Despiste c/ disp. retenção
+Valongo,2009:10:05 03:10:00,1,0,EN15,"16,665",Despiste simples
+Valongo,2009:12:12 08:15:00,0,1,A4,"15,100",Despiste com capotamento
+Valongo,2009:09:24 06:45:00,0,1,Rua Alves Saldanha,,Atropelamento de peões
+"",,,,,,
+Valongo,2009:05:17 05:50:00,1,0,PQ ELECLERC,,Atropelamento de peões
+"",,,,,,
+Valongo,2009:12:19 16:05:00,0,1,A4,"20,380",Desp. c/transp.disp. ret. lateral
+Valongo,2009:08:21 18:15:00,0,1,A4,"20,400",Despiste com capotamento
+Valongo,2009:08:22 04:30:00,0,1,EN105,"9,370",Colisão tras. c/ outro veíc. mov.
+Valongo,2009:02:22 11:50:00,0,1,Rua Rodrigues de Freitas,,Atropelamento de peões
+"",,,,,,
+Valongo,2009:06:13 18:30:00,0,1,EN209,"17,340",Colisão lat. c/outro veíc. mov.
+Valongo,2009:02:05 16:40:00,0,1,EN209,"18,000",Colisão frontal
+Vila do Conde,2009:09:24 15:15:00,0,1,R LAGOA,,Colisão lat. c/outro veíc. mov.
+"",,,,,,
+Vila do Conde,2009:04:30 16:00:00,0,1,R ALBINO MOREIRA,,Despiste simples
+"",,,,,,
+Vila do Conde,2009:12:27 07:00:00,0,1,R 5 OUTUBRO,,Colisão lat. c/outro veíc. mov.
+"",,,,,,
+Vila do Conde,2009:09:12 12:30:00,0,2,R LAVANDEIRA,,Colisão frontal
+"",,,,,,
+Vila do Conde,2009:07:03 16:45:00,0,1,R JOUDINA,,Colisão lat. c/outro veíc. mov.
+"",,,,,,
+Vila do Conde,2009:05:01 07:30:00,0,1,EN306,"83,400",Despiste simples
+Vila do Conde,2009:11:18 00:20:00,0,1,Rua 5 de Outubro,,Atropelamento de peões
+"",,,,,,
+Vila do Conde,2009:12:21 15:00:00,1,0,A28,"20,800",Colisão c/veic./obstá. f. rodagem
+Vila do Conde,2009:08:08 04:20:00,0,1,R 5 OUTUBRO,,Colisão frontal
+"",,,,,,
+Vila do Conde,2009:03:29 12:45:00,0,1,Rua Bartolomeu Dias,,Atropelamento com fuga
+"",,,,,,
+Vila do Conde,2009:02:06 02:20:00,0,1,EN13,,Atropelamento de peões
+"",,,,,,
+"",,,,Avenida Infante Dom,,
+Vila do Conde,2009:02:21 02:15:00,0,1,,,Despiste c/col. c/veíc. imobil./obst.
+"",,,,Henrique,,
+Vila do Conde,2009:05:02 15:30:00,0,1,EN13,"15,426",Colisão frontal
+Vila do Conde,2009:06:12 17:30:00,0,1,EN104,"7,000",Colisão frontal
+Vila do Conde,2009:07:18 18:45:00,0,1,Rua 5 de Outubro,,Colisão lat. c/outro veíc. mov.
+"",,,,,,
+Vila do Conde,2009:11:30 17:00:00,0,1,R COMBATENTES,,Despiste simples
+"",,,,,,
+Vila do Conde,2009:07:28 20:20:00,0,1,R JOUDINA,,Colisão lat. c/outro veíc. mov.
+"",,,,,,
+"",,,,AV DR FERNANDO,,
+Vila do Conde,2009:03:14 07:50:00,0,1,,,Atropelamento de peões
+"",,,,GOMES,,
+"",,,,AV MOUZINHO,,
+Vila do Conde,2009:08:23 14:45:00,0,1,,,Colisão lat. c/outro veíc. mov.
+"",,,,ALBUQUERQUE,,
+Vila do Conde,2009:12:23 12:40:00,0,1,EN206,"14,500",Colisão frontal
+"",,,,R 5 OUTUBRO C/ AV DR,,
+Vila do Conde,2009:02:14 14:15:00,1,0,ANTONIO BENTO,,Colisão lat. c/outro veíc. mov.
+"",,,,,,
+"",,,,MARTINS JUNIOR,,
+"",,,,Avenida Infante Dom,,
+Vila do Conde,2009:04:01 12:40:00,0,1,,,Colisão tras. c/ outro veíc. mov.
+"",,,,Henrique,,
+Vila Nova de Gaia,2009:04:07 23:10:00,0,1,R S MAMEDE,,Colisão lat. c/outro veíc. mov.
+"",,,,,,
+Vila Nova de Gaia,2009:02:14 16:15:00,0,1,Rua General Torres,,Atropelamento de peões
+"",,,,,,
+Vila Nova de Gaia,2009:12:21 21:45:00,0,1,R BO JAPONES,,Atropelamento de peões
+Vila Nova de Gaia,2009:12:05 18:40:00,0,1,R LAVOURAS,,Colisão frontal
+Vila Nova de Gaia,2009:12:13 22:50:00,0,1,A29,"47,050",Atropelamento de peões
+Vila Nova de Gaia,2009:04:07 19:00:00,0,1,EN222,"8,180",Colisão com fuga
+Vila Nova de Gaia,2009:01:04 15:00:00,0,1,R S MAMEDE SERZEDO,,Colisão lat. c/outro veíc. mov.
+"",,,,,,
+Vila Nova de Gaia,2009:03:15 15:20:00,0,1,Rua Conceiçao Fernandes,,Atropelamento de peões
+"",,,,,,
+Vila Nova de Gaia,2009:07:30 13:30:00,0,1,Avenida Gomes Junior,,Colisão frontal
+"",,,,,,
+Vila Nova de Gaia,2009:12:23 18:10:00,0,1,R LAMACAES,,Colisão lat. c/outro veíc. mov.
+"",,,,,,
+Vila Nova de Gaia,2009:04:13 15:55:00,0,1,EN1,"189,850",Atropelamento de peões
+Vila Nova de Gaia,2009:04:14 07:50:00,0,1,R D DUARTE CORREIA,,Despiste simples
+"",,,,,,
+Vila Nova de Gaia,2009:09:28 08:00:00,0,1,PC INDIA,,Despiste simples
+"",,,,,,
+Vila Nova de Gaia,2009:10:30 09:50:00,0,1,R RIO COSTA,,Colisão lat. c/outro veíc. mov.
+"",,,,,,
+Vila Nova de Gaia,2009:04:17 14:00:00,0,1,Rua Prof. Amadeu Santos,,Atropelamento de peões
+"",,,,,,
+Vila Nova de Gaia,2009:05:04 18:00:00,0,1,Rua Norton de Matos,,Colisão lat. c/outro veíc. mov.
+"",,,,,,
+Vila Nova de Gaia,2009:10:07 12:25:00,0,1,EN222,"10,880",Colisão frontal
+Vila Nova de Gaia,2009:03:03 19:20:00,0,1,Avenida da República,,Colisão lat. c/outro veíc. mov.
+"",,,,,,
+Vila Nova de Gaia,2009:07:25 15:30:00,1,0,R GUARDA,,Colisão lat. c/outro veíc. mov.
+"",,,,,,
+Vila Nova de Gaia,2009:08:04 14:00:00,0,1,A29,"51,590",Despiste s/ disp. retenção
+Vila Nova de Gaia,2009:03:21 08:45:00,0,1,A44,"2,800",Colisão lat. c/outro veíc. mov.
+Vila Nova de Gaia,2009:05:25 18:40:00,1,0,R VINHA,,Colisão com outras situações
+"",,,,,,
+Vila Nova de Gaia,2009:05:16 14:15:00,0,1,EN109,"15,000",Colisão frontal
+Vila Nova de Gaia,2009:04:09 08:00:00,0,1,Avenida Vasco da Gama,,Atropelamento de peões
+"",,,,,,
+Vila Nova de Gaia,2009:02:14 20:45:00,0,1,R DO ERMO,,Atropelamento de peões
+"",,,,,,
+Vila Nova de Gaia,2009:04:20 19:30:00,0,1,Av. Engo Ludgero Marques,,Atropelamento de peões
+"",,,,,,
+Vila Nova de Gaia,2009:01:13 11:50:00,0,1,Av. LIBERDADE,,Colisão frontal
+"",,,,,,
+Vila Nova de Gaia,2009:12:23 11:50:00,0,1,Avenida de República,,Atropelamento de peões
+"",,,,,,
+"",,,,R GEN. HUMBERTO,,
+Vila Nova de Gaia,2009:07:16 00:00:00,0,2,,,Colisão frontal
+"",,,,DELGADO,,
+Vila Nova de Gaia,2009:11:04 00:40:00,0,1,A1,"299,140",Despiste c/ disp. retenção
+Vila Nova de Gaia,2009:07:10 13:15:00,0,1,R SILVINHAS,,Atropelamento de peões
+"",,,,,,
+Vila Nova de Gaia,2009:04:04 18:30:00,0,1,R POVOA LIMA,,Atropelamento de peões
+"",,,,,,
+"",,,,R ENG JOSE ROCHA,,
+Vila Nova de Gaia,2009:11:23 19:10:00,1,0,,,Colisão lat. c/outro veíc. mov.
+"",,,,MELO,,
