@@ -31,6 +31,8 @@ distritos = [
 # define function to process all the districts in a given year
 def process_all_pdfs_in_folder(year):
 
+    print("Processing year", year)
+
     path_pdfs = os.path.join("..", "pdfs", str(year))
 
     # get list of all pdf files inside the folder
@@ -51,6 +53,8 @@ def process_all_pdfs_in_folder(year):
     # for each file, extract the list of accidents and move it to the data folder
     for file in final_list:
 
+        print("Processing file", file)
+
         # convert list of accidents to csv
         path_pdf_file = os.path.join(path_pdfs, file)
         get_list_accidents(path_pdf_file)
@@ -63,6 +67,6 @@ def process_all_pdfs_in_folder(year):
 
 
 # loop through all the years in the data
-for year in range(2013, 2019):
+for year in range(2012, 2013):
     print("Processing year", year)
     process_all_pdfs_in_folder(year)

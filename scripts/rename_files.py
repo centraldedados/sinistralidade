@@ -44,11 +44,15 @@ for filename in list_files:
     # get short name from the first part of the file name
     short_name = filename.split("_")[0]
 
-    # handle typo with viana in the pdf filenames
-    if short_name == "Vianado":
+    # handle potential errors when districts have multiple names
+    if short_name.startswith("Viana"):
         short_name = "Viana"
+    if short_name.startswith("Castelo"):
+        short_name = "Castelo"
+    if short_name.startswith("Vila"):
+        short_name = "Vila"
 
-        # get the long name from the dictionary we created
+    # get the long name from the dictionary we created
     long_name = distritos_dict[short_name]
 
     # get the year with regex
