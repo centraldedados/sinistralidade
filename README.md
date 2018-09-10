@@ -20,5 +20,5 @@ Scripts:
 
 ## A fazer
 - Adaptar script de conversão das tabelas para csv para relatórios anteriores a 2013
-- Corrigir nomes inconsistentes dos csv causados por inconsistência do nome dos pdfs originais
+- ~~Corrigir nomes inconsistentes dos csv causados por inconsistência do nome dos pdfs originais~~
 - Documentar scripts, makefile no final
