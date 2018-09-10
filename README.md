@@ -19,6 +19,6 @@ Scripts:
 
 
 ## A fazer
-- Adaptar script de conversão das tabelas para csv para relatórios anteriores a 2013
+- Adaptar script de conversão das tabelas para csv para relatórios anteriores a 2013 (já há dados no repo para 2012, mas há erros na formatação devido a conversão inconsistente das tabelas pelo tabula-py)
 - ~~Corrigir nomes inconsistentes dos csv causados por inconsistência do nome dos pdfs originais~~
 - Documentar scripts, makefile no final
