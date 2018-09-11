@@ -67,6 +67,6 @@ def process_all_pdfs_in_folder(year):
 
 
 # loop through all the years in the data
-for year in range(2012, 2013):
+for year in range(2017, 2003, -1):
     print("Processing year", year)
     process_all_pdfs_in_folder(year)

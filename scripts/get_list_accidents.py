@@ -45,13 +45,33 @@ def filter_csv(pdf_input):
     # we will filter for those by looking for "Natureza" in the header of the csv
     for file in glob.glob(pdf_input + "_p*.csv"):
         print(file)
-        # print(file)
+
         with open(file, newline="") as f:
             reader = csv.reader(f)
-            try:
-                row1 = next(reader)
-            except StopIteration:
-                row1 = ""
+
+            # issues with tabula-py headers from 2007 backwards
+            if get_year_from_filename(pdf_input)  <= 2007:
+
+                # look for the keyword in the first few rows. some tables are not converted correctly starting from the header
+                notfound = True
+
+                i = 0
+                while notfound and i < 10:
+                    i += 1
+                    try:
+                        row1 = next(reader)
+                    except StopIteration:
+                        row1 = ""
+
+                    print(row1)
+                    if "Natureza" in row1:
+                        notfound = False
+            else:
+                try:
+                    row1 = next(reader)
+                except StopIteration:
+                    row1 = ""
+
         f.close()
         if "Natureza" not in row1:
             os.remove(file)
