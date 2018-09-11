@@ -1,0 +1,88 @@
+"",,
+11. Listagem dos acidentes com mortos e/ou feridos graves,,
+"",,
+"",,
+Concelho Datahora M* FG* Via,km,Natureza
+Alijo 2006:04:17 07:15:00 1 0 EN212,"31,470",Col.lat.c/outro veíc.em mov.
+Alijo 2006:08:23 17:00:00 0 2 EN212,"36,900",Col.lat.c/outro veíc.em mov.
+Alijo 2006:09:01 04:45:00 0 1 EN322-3,"12,000",Despiste com capotamento
+Alijo 2006:09:01 21:00:00 1 1 EN212,"38,960",Col.tras.c/outro veíc.em mov.
+Boticas 2006:06:23 16:00:00 0 1 EN311,"68,200",Despiste com capotamento
+Boticas 2006:07:29 03:10:00 0 2 EM520,,Desp.c/col.c/veíc.imobil.ou obst.
+Chaves 2006:01:18 08:35:00 0 1 Ponte Marechal Carmona,,Col.c/veic.ou obst.na faixa de rod.
+Chaves 2006:01:23 12:00:00 0 1 Av. Pedro Alvares Cabral,,Colisão frontal
+Chaves 2006:01:27 19:02:00 0 1 Av. D. João I,,Despiste simples
+Chaves 2006:01:28 05:00:00 0 1 Lg. S. João,,Desp.c/col.c/veíc.imobil.ou obst.
+Chaves 2006:02:22 17:15:00 0 1 EN103,"169,800",Atropelamento com fuga
+Chaves 2006:03:08 18:25:00 0 1 Av. Luis Chaves,,Atrop.de peões
+Chaves 2006:03:24 20:30:00 1 0 Av. Galiza,,Colisão frontal
+Chaves 2006:04:07 19:00:00 0 1 EN103,"170,590",Col.lat.c/outro veíc.em mov.
+Chaves 2006:04:11 12:25:00 0 1 EN2,"6,100",Despiste com capotamento
+Chaves 2006:04:18 07:50:00 0 1 EN2,"13,200",Atrop.de peões
+Chaves 2006:05:02 18:35:00 0 1 Av. D. João I,,Colisão frontal
+Chaves 2006:06:17 22:45:00 1 1 R. Paz,,Desp.c/col.c/veíc.imobil.ou obst.
+Chaves 2006:06:21 13:30:00 0 1 Av. Galiza/R. D. Jerónimo Ataide,,Colisão frontal
+Chaves 2006:08:16 10:15:00 0 1 EM502,,Despiste simples
+Chaves 2006:09:06 09:00:00 0 1 EN103,"160,967",Col.lat.c/outro veíc.em mov.
+Chaves 2006:09:14 04:30:00 0 1 EN103,"173,600",Desp.c/col.c/veíc.imobil.ou obst.
+Chaves 2006:09:15 10:00:00 0 1 R. Cor. Bento Roma,,Atrop.de peões
+Chaves 2006:10:03 12:07:00 0 1 R. Sobreira,,Atrop.de peões
+Chaves 2006:10:15 15:30:00 0 1 EM537,,Despiste com capotamento
+Chaves 2006:11:15 14:10:00 0 1 Av. Comend. Brenha Fontoura,,Col.lat.c/outro veíc.em mov.
+Chaves 2006:12:25 18:30:00 0 1 Av. Trindade,,Atrop.de peões
+Montalegre 2006:01:24 12:20:00 0 3 EM509,,Despiste com capotamento
+Montalegre 2006:01:31 22:00:00 0 1 EN103,"118,440",Colisão frontal
+Montalegre 2006:05:12 14:00:00 0 1 R. Lages,,Atrop.de peões
+Montalegre 2006:07:15 22:45:00 0 1 EM509,,Col.lat.c/outro veíc.em mov.
+Montalegre 2006:07:30 17:30:00 0 1 Lugar Besado,,Despiste simples
+Montalegre 2006:08:27 18:00:00 1 0 EN103,"95,100",Desp.s/disposi.de ret.
+Montalegre 2006:11:03 20:22:00 2 3 EN103,"117,700",Col.lat.c/outro veíc.em mov.
+Peso da Regua 2006:01:18 12:45:00 0 1 Av. Douro,,Col.c/veic.ou obst.na faixa de rod.
+Peso da Regua 2006:01:19 12:45:00 0 1 Av. Peso Régua,,Col.c/veic.ou obst.na faixa de rod.
+Peso da Regua 2006:01:25 18:10:00 1 0 Av. Douro,,Atrop.de peões
+Peso da Regua 2006:09:23 20:00:00 0 1 Estrada Municipal,,Col.lat.c/outro veíc.em mov.
+Ribeira de Pena 2006:02:10 17:30:00 1 0 EN312,,Desp.s/disposi.de ret.
+Sabrosa 2006:07:10 15:20:00 0 4 Av. Principal,,Despiste com capotamento
+Sabrosa 2006:11:16 10:55:00 0 1 EM579,,Col.lat.c/outro veíc.em mov.
+Valpacos  2006:02:20 10:50:00 1 0 EM552,,Atrop.de peões
+Valpacos  2006:08:03 07:00:00 0 1 EN213,"42,200",Despiste simples
+Valpacos  2006:12:31 15:20:00 0 3 EM543,,Atrop.de peões
+V. P. de Aguiar,2006:04:13 12:35:00,0,2,EN2,"42,965",Col.lat.c/outro veíc.em mov.
+V. P. de Aguiar,2006:05:21 10:30:00,0,1,EN2,"30,500",Col.lat.c/outro veíc.em mov.
+V. P. de Aguiar,2006:06:11 23:00:00,0,1,EN2,"27,584",Desp.c/col.c/veíc.imobil.ou obst.
+V. P. de Aguiar,2006:08:12 21:30:00,1,0,EM548,,Despiste simples
+V. P. de Aguiar,2006:08:23 11:20:00,0,2,Rot. Monte,,Col.lat.c/outro veíc.em mov.
+"",,,,,,,
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+V. P. de Aguiar,2006:09:13 09:30:00,0,1,EM548,,,Despiste simples
+V. P. de Aguiar,2006:11:13 07:50:00,1,1,EN2,,"41,035",Colisão frontal
+V. P. de Aguiar,2006:11:30 02:20:00,1,0,EN206,,"0,000",Desp.c/col.c/veíc.imobil.ou obst.
+Vila Real,2006:01:07 00:30:00,0,1,Ponte,,,Desp.s/disposi.de ret.
+Vila Real,2006:01:24 19:35:00,0,1,IP4,,"82,300",Colisão frontal
+Vila Real,2006:01:29 20:40:00,0,2,IP4,,"79,950",Col.tras.c/outro veíc.em mov.
+Vila Real,2006:01:31 08:30:00,0,1,IP4,,"79,900",Despiste simples
+Vila Real,2006:02:02 10:45:00,0,1,R. Cidade Vila Real,,,Desp.c/col.c/veíc.imobil.ou obst.
+Vila Real,2006:02:12 11:45:00,0,1,EN313,,"45,000",Col.lat.c/outro veíc.em mov.
+Vila Real,2006:02:24 00:45:00,0,1,Rot. Quartel,,,Despiste com capotamento
+Vila Real,2006:03:21 17:55:00,0,1,R. Central,,,Colisão frontal
+Vila Real,2006:03:24 13:30:00,0,1,IP4,,"80,400",Desp.c/col.c/veíc.imobil.ou obst.
+Vila Real,2006:04:02 15:15:00,1,0,A24,,"76,258",Despiste simples
+Vila Real,2006:05:09 14:30:00,0,1,Av. Cidade Guiné,,,Atropelamento com fuga
+Vila Real,2006:05:16 10:05:00,0,1,Rot. Arancaria,,,Col.lat.c/outro veíc.em mov.
+Vila Real,2006:07:07 19:35:00,0,1,EN313,,,Col.lat.c/outro veíc.em mov.
+Vila Real,2006:08:04 16:50:00,0,1,EN313-1,,"7,955",Despiste simples
+Vila Real,2006:08:13 17:15:00,0,1,EM608,,,Desp.c/col.c/veíc.imobil.ou obst.
+Vila Real,2006:08:16 16:00:00,0,1,EN2,,"59,550",Colisão frontal
+Vila Real,2006:08:29 08:20:00,0,1,Av. Cidade Orense,,,Atrop.de peões
+Vila Real,2006:08:29 21:00:00,0,1,R. S. Gonçalo,,,Despiste simples
+Vila Real,2006:10:02 02:00:00,2,1,IP4,,"89,837",Colisão frontal
+Vila Real,2006:10:26 21:30:00,0,1,IP4,,"79,900",Col.lat.c/outro veíc.em mov.
+Vila Real,2006:11:06 21:00:00,1,0,IP4,,"82,300",Colisão frontal
+Vila Real,2006:11:18 00:40:00,0,1,IP4,,"85,700",Despiste com capotamento
+Vila Real,2006:11:21 17:15:00,0,1,R. N. Sra. Prazeres,,,Colisão frontal
+Vila Real,2006:11:22 16:20:00,1,0,Estrada Municipal,,,Despiste com capotamento
+Vila Real,2006:11:23 17:00:00,0,1,Estrada Municipal,,Atrop.de peões
+Vila Real,2006:12:06 10:00:00,1,0,IP4,"80,400",Colisão frontal
+Vila Real,2006:12:22 17:50:00,0,1,R. Fundadores Granito,,Atrop.de peões
+Vila Real,2006:12:31 07:00:00,1,0,IP4,"97,000",Atrop.de peões
+"",,20,81,,,

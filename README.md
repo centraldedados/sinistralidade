@@ -24,4 +24,5 @@ Scripts:
 ## A fazer
 - ~~Corrigir nomes inconsistentes dos csv causados por inconsistência do nome dos pdfs originais~~
 - Corrigir erros nas tabelas, mais frequentes e inconsistentes de 2012 para trás
+- Nos ficheiros de 2007 para trás, há problemas nos cabeçalhos na conversão das tabelas. Em alguns casos, o título da página aparece na tabela convertida, pelo que o código procura pelo cabeçalho correcto nas primeiras linhas do ficheiro csv convertido. Há casos em que o cabeçalho não é convertido e o código acaba por não identificar nenhuma tabela de acidentes, apesar dela existir. É necessário fazer adaptações para este último caso. Existem por isso alguns ficheiros de dados de 2004 e 2005 vazios.
 - Documentar scripts, makefile no final

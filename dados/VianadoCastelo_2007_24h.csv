@@ -1,0 +1,77 @@
+"",,
+11. Listagem dos acidentes com mortos e/ou feridos graves,,
+"",,
+Concelho Datahora M* FG* Via,km,Natureza
+Arc. de Valdevez 2007:09:30 17:30:00 0 1 EN202,"40,100",Colisão frontal
+Arc. de Valdevez 2007:01:11 19:30:00 0 1 EN101,"45,250",Atropelamento peões
+Arc. de Valdevez 2007:10:21 06:20:00 0 1 EN202-2,"46,300",Atropelamento peões
+Arc. de Valdevez 2007:04:13 18:40:00 0 1 EN101,"49,500",Atropelamento peões
+Arc. de Valdevez 2007:02:28 18:15:00 0 1 EN202,"53,453",Atropelamento peões
+Arc. de Valdevez 2007:04:04 14:45:00 0 1 EN202,"55,375",Despiste simples
+Arc. de Valdevez 2007:04:08 18:30:00 0 1 Estrada Municipal,,Despiste simples
+Arc. de Valdevez 2007:07:27 19:30:00 0 1 EM530,,Col. lat. c/ outro veíc. mov.
+Arc. de Valdevez 2007:08:07 12:20:00 0 1 R DR HENRIQUE OLIVEIRA,,Atropelamento peões
+Arc. de Valdevez 2007:10:03 16:15:00 0 1 R JOAQUIM CARLOS CUNHA CEQUEIRA,,Atropelamento peões
+Arc. de Valdevez 2007:10:15 19:15:00 0 1 EM530,,Colisão frontal
+Caminha 2007:09:21 21:30:00 0 1 A28,,Col. lat. c/ outro veíc. mov.
+Melgaço 2007:04:07 14:50:00 0 2 EN202,"13,827",Col. lat. c/ outro veíc. mov.
+Melgaço 2007:09:17 09:30:00 2 1 EN202,"14,896",Colisão frontal
+Melgaço 2007:05:18 12:00:00 2 0 EN202,"24,400",Col. lat. c/ outro veíc. mov.
+Melgaço 2007:04:26 13:10:00 0 1 EN202,"100,650",Despiste simples
+Melgaço 2007:02:18 00:30:00 1 0 EM1138,,Despiste simples
+Melgaço 2007:04:02 15:50:00 0 1 AV 25 ABRIL,,Col. lat. c/ outro veíc . mov.
+Melgaço 2007:10:27 20:00:00 0 1 EM553,,Despiste simples
+Monção 2007:11:02 08:55:00 0 1 EN202,"4,600",Col. tras. c/ outro veíc. mov.
+Par. de Coura 2007:09:25 05:30:00 0 1 EN201,"12,600",Colisão frontal
+Par. de Coura 2007:02:14 08:30:00 1 0 EM521,,Despiste com capotamento
+Ponte da Barca 2007:11:11 18:40:00 0 1 EN203,"33,550",Atropelamento peões
+Ponte da Barca 2007:02:02 19:10:00 1 0 EN101,"59,400",Atropelamento peões
+Ponte da Barca 2007:02:21 17:45:00 0 1 EM304,,Colisão frontal
+Ponte de Lima 2007:04:06 22:00:00 0 1 EN204,"0,700",Atropelamento peões
+Ponte de Lima 2007:01:04 20:00:00 1 1 IC28,"1,800",Colisão frontal
+Ponte de Lima 2007:09:09 21:00:00 1 0 EM524,"2,300",Atropelamento peões
+Ponte de Lima 2007:07:07 11:00:00 0 1 EN204,"6,400",Col. lat. c/ outro veíc. mov.
+Ponte de Lima 2007:01:14 12:30:00 0 1 EN204,"10,250",Colisão frontal
+Ponte de Lima 2007:04:09 19:30:00 1 0 EN308,"13,700",Despiste com capotamento
+Ponte de Lima 2007:07:15 02:35:00 0 3 EN203,"17,100",Colisão frontal
+Ponte de Lima 2007:02:24 09:15:00 0 2 EN202,"18,500",Colisão frontal
+Ponte de Lima 2007:04:19 20:15:00 1 0 EN306,"19,820",Colisão frontal
+Ponte de Lima 2007:01:14 14:05:00 0 1 EN308,"20,300",Desp. c/ col c/ veíc. imob/obst.
+Ponte de Lima 2007:10:28 09:00:00 1 2 EN202,"24,314",Despiste simples
+Ponte de Lima 2007:06:18 14:10:00 0 1 EN201,"37,050",Despiste com capotamento
+Ponte de Lima 2007:08:05 10:15:00 0 1 EN201,"41,150",Atropelamento peões
+Ponte de Lima 2007:04:13 20:40:00 0 2 EN201,"45,600",Desp. c/ col c/ veíc. imob/obst.
+Ponte de Lima 2007:10:11 20:45:00 0 2 EN201,"47,050",Colisão frontal
+Ponte de Lima 2007:05:09 17:00:00 1 0 A3,"83,450",Col. tras. c/ outro veíc. mov.
+Ponte de Lima 2007:06:23 08:10:00 0 1 A3,"84,975",Despiste simples
+Ponte de Lima 2007:01:22 17:40:00 0 1 EN203,,Col. lat. c/ outro veíc. mov.
+Ponte de Lima 2007:09:06 19:00:00 0 1 Estrada Municipal,,Colisão frontal
+Ponte de Lima 2007:11:11 00:30:00 1 0 Estrada Municipal,,Despiste com capotamento
+V. N. de Cerveira 2007:01:18 22:30:00 1 0 Estrada Municipal,,Despiste simples
+V. N. de Cerveira,2007:04:25 10:30:00,1,0,R POUSADO,,Despiste simples
+V. N. de Cerveira,2007:08:21 16:45:00,1,0,Estrada Municipal,,Despiste simples
+Valença,2007:06:03 05:30:00,1,0,EN101,"4,450",Desp. c/ col c/ veíc. imob/obst.
+Valença,2007:11:05 06:30:00,0,2,A3,"104,225",Col. tras. c/ outro veíc. mov.
+Valença,2007:01:21 20:40:00,1,0,EN13,"115,370",Despiste simples
+"",,,,,,,
+"",,,,,,,
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Valença,2007:04:05 22:00:00,1,1,EN13,,"117,260",Colisão frontal
+Valença,2007:03:21 14:20:00,1,0,R AZENHAS,,,Despiste simples
+Viana do Castelo,2007:05:02 12:05:00,0,1,EN308,,"5,974",Atropelamento peões
+Viana do Castelo,2007:06:06 12:45:00,0,1,EN202,,"6,600",Col. lat. c/ outro veíc. mov.
+Viana do Castelo,2007:10:01 19:00:00,0,1,EN203,,"8,500",Atropelamento peões
+Viana do Castelo,2007:09:05 06:20:00,1,0,EN308,,"9,200",Atropelamento peões
+Viana do Castelo,2007:09:26 15:30:00,0,1,EN202,,"9,800",Despiste simples
+Viana do Castelo,2007:11:08 18:15:00,0,1,EN305,,"31,500",Col. lat. c/ outro veíc. mov.
+Viana do Castelo,2007:02:19 15:35:00,0,2,EN302,,"38,700",Colisão frontal
+Viana do Castelo,2007:05:27 21:00:00,0,2,EN13,,"56,500",Despiste simples
+Viana do Castelo,2007:05:05 04:10:00,0,1,AL 5 OUTUBRO,,,Despiste s/ disp. retenção
+Viana do Castelo,2007:05:16 00:30:00,0,1,R SOBREIROS,,,Desp. c/ col c/ veíc. imob/obst.
+Viana do Castelo,2007:05:23 19:20:00,0,1,AV PROVENÇA,,,Atropelamento peões
+Viana do Castelo,2007:06:20 16:00:00,0,1,AV PEDRO VI,,,Despiste simples
+Viana do Castelo,2007:07:05 09:40:00,1,0,EM540,,,Colisão frontal
+Viana do Castelo,2007:08:16 11:40:00,0,1,R ESTRADA VELHA,Atropelamento peões
+Viana do Castelo,2007:11:24 21:00:00,1,0,R SOBREIROS,Despiste simples
+Viana do Castelo,2007:12:29 09:30:00,0,1,R 9 JULHO,Col. lat. c/ outro veíc. mov.
+"",,24,61,,

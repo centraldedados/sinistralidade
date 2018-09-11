@@ -1,0 +1,239 @@
+"",,
+11. Listagem dos acidentes com mortos e/ou feridos graves,,
+"",,
+Concelho Datahora M* FG* Via,km,Natureza
+Abrantes 2006:01:14 16:00:00 0 1 EN3,"113,400",Atrop.de peões
+Abrantes 2006:01:15 15:40:00 0 6 EN2,"420,460",Colisão frontal
+Abrantes 2006:02:07 20:55:00 0 3 EN2,"416,700",Colisão frontal
+Abrantes 2006:04:08 15:45:00 0 1 R. Prof. Silva Leitão,,Col.lat.c/outro veíc.em mov.
+Abrantes 2006:04:11 14:30:00 0 1 EN118,"139,600",Despiste simples
+Abrantes 2006:05:16 14:50:00 0 2 A23,"40,400",Desp.c/capotamento
+Abrantes 2006:06:03 17:20:00 0 1 R. Sto. Antonio,,Despiste simples
+Abrantes 2006:06:10 11:55:00 0 1 Av. Conde Alf errarede,,Atrop.de peões
+Abrantes 2006:06:17 22:30:00 1 0 R. Dr. Francisco Almeida,,Atropelamento com fuga
+Abrantes 2006:07:17 22:30:00 0 1 Av. Forças Armadas3,,Atropelamento com fuga
+Abrantes 2006:07:18 15:00:00 0 1 R. Casas Pretas,,Despiste simples
+Abrantes 2006:08:31 19:45:00 0 1 Av. Forças Armadas,,Atrop.de peões
+Abrantes 2006:09:09 16:05:00 0 1 Estrada Municipal,,Desp.c/col.c/veíc.imobil.ou obst.
+Abrantes 2006:09:11 11:15:00 0 1 Av. Forças Armadas,,Atrop.de peões
+Abrantes 2006:09:26 16:50:00 0 3 EN2,"413,867",Col.lat.c/outro veíc.em mov.
+Abrantes 2006:10:09 11:40:00 0 2 R. Piscinas,,Col.lat.c/outro veíc.em mov.
+Abrantes 2006:11:08 14:25:00 0 1 EN2,"410,800",Desp.s/disposi.de ret.
+Abrantes 2006:12:04 19:30:00 0 1 Av. D. João I,,Col.lat.c/outro veíc .em mov.
+Abrantes 2006:12:18 09:30:00 1 0 R. Comércio,,Colisão com outras situações
+Alcanena 2006:02:25 23:50:00 0 1 A1,"97,360",Despiste simples
+Alcanena 2006:04:08 07:25:00 0 1 R. S. Pedro,,Atropelamento com fuga
+Alcanena 2006:05:02 16:55:00 1 2 A1,"95,950",Colisão choque em cadeia
+Alcanena 2006:05:20 13:35:00 0 1 A1,"98,825",Col.tras.c/outro veíc.em mov.
+Alcanena 2006:07:06 21:45:00 0 1 Estr. Bernardo Santos Calado,,Col.lat.c/outro veíc.em mov.
+Alcanena 2006:08:30 13:15:00 0 3 A1,"89,825",Col.tras.c/outro veíc.em mov.
+Almeirim 2006:07:13 14:15:00 0 1 R. Direita,,Col.lat.c/outro veíc.em mov.
+Almeirim 2006:07:29 04:40:00 0 1 R. Salvaterra,,Despiste simples
+Almeirim 2006:08:11 19:30:00 0 1 R. Guilherme Nunes Godinho,,Atrop.de peões
+Almeirim 2006:08:24 21:15:00 0 1 EN114,"86,300",Col.lat.c/outro veíc.em mov.
+Almeirim 2006:09:15 15:00:00 0 1 Estrada Regional,,Desp.c/col.c/veíc.imobil.ou obst.
+Almeirim 2006:11:10 12:30:00 1 0 EN118,"67,300",Colisão frontal
+Almeirim 2006:12:22 11:55:00 1 0 EN118,"69,908",Colisão frontal
+Alpiarça 2006:09:27 17:20:00 1 2 EN118,"78,182",Colisão frontal
+Benavente 2006:01:04 12:20:00 1 0 EN118,"32,700",Col.lat.c/outro veíc.em mov.
+Benavente 2006:01:17 19:45:00 0 1 EN118,"11,850",Col.lat.c/outro veíc.em mov.
+Benavente 2006:01:23 11:30:00 1 0 EN118,"33,600",Atrop.de peões
+Benavente 2006:02:16 19:00:00 0 1 EN118,"32,400",Col.lat.c/outro veíc.em mov.
+Benavente 2006:04:11 14:20:00 0 2 EN10,"91,400",Desp.c/transp.do disp.de ret.lat.
+Benavente 2006:04:12 06:05:00 1 0 EN10,"107,000",Colisão frontal
+Benavente 2006:04:16 03:50:00 1 2 EN118,"16,200",Desp.c/capotamento
+Benavente 2006:05:13 19:00:00 0 1 EN119,"20,916",Desp.c/capotamento
+Benavente 2006:06:03 07:30:00 0 1 R. Operários Agrícolas,,Col.lat.c/outro veíc.em mov.
+Benavente 2006:07:18 16:40:00 1 0 Estrada Municipal,,Despiste simples
+Benavente 2006:07:25 19:15:00 0 1 EN118,"36,700",Colisão frontal
+Benavente 2006:08:04 19:05:00 0 1 EN10,"109,500",Col.lat.c/outro veíc.em mov.
+Benavente 2006:08:09 17:50:00 0 1 EN118,"38,100",Col.lat.c/outro veíc.em mov.
+Benavente 2006:08:13 04:15:00 1 0 EN119,"12,700",Desp.c/col.c/veíc.imobil.ou obst.
+Benavente 2006:09:03 06:00:00 0 1 EN119,"31,000",Col.tras.c/outro veíc.em mov.
+Benavente,2006:09:23 23:40:00,0,1,EN10,"98,600",Desp.c/col.c/veíc.imobil.ou obst.
+Benavente,2006:10:01 13:30:00,0,1,Qta. Belo Jardim,,Desp.c/col.c/veíc.imobil.ou obst.
+Benavente,2006:10:16 23:35:00,0,1,EN118,"44,600",Atrop.de peões
+Benavente,2006:11:01 01:26:00,0,1,"Av. ""O Século""",,Col.tras.c/outro veíc.em mov.
+Benavente,2006:11:15 13:30:00,0,1,EN118,"16,400",Desp.c/capotamento
+"",,,,,,,
+"",,,,,,,
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Benavente,2006:12:19 13:50:00,0,1,EN10,,"110,700",Colisão choque em cadeia
+Cartaxo,2006:01:23 02:20:00,1,0,EN3,,"28,500",Desp.c/capotamento
+Cartaxo,2006:02:14 13:35:00,0,1,R. 16 Novembro,,,Atrop.de peões
+Cartaxo,2006:02:17 00:05:00,0,2,EN3,,"21,250",Colisão frontal
+Cartaxo,2006:02:28 12:10:00,0,1,A1,,"49,700",Despiste c/dispos. de retenção
+Cartaxo,2006:04:04 15:15:00,0,1,R. Arneiro,,,Col.lat.c/outro veíc.em mov.
+Cartaxo,2006:10:12 10:05:00,0,1,Lg. Valverde/R. Dr. Júlio Montez,,,Atrop.de peões
+Cartaxo,2006:12:02 19:30:00,0,1,A1,,"55,450",Atrop.de peões
+Cartaxo,2006:12:17 17:40:00,1,0,R. Centro Muro,,,Atropelamento com fuga
+Chamusca,2006:01:10 12:30:00,0,1,EN118,,"100,500",Despiste simples
+Chamusca,2006:01:13 10:55:00,0,1,EN118,,"106,000",Col.lat.c/outro veíc.em mov.
+Chamusca,2006:02:14 21:10:00,1,0,EN118,,"86,000",Col.lat.c/outro veíc.em mov.
+Chamusca,2006:02:25 16:45:00,0,1,R. Gamelinha,,,Colisão com outras situações
+Chamusca,2006:04:09 19:10:00,0,1,EN243,,"55,350",Desp.c/capotamento
+Chamusca,2006:05:12 09:20:00,0,1,R. Baixo,,,Col.lat.c/outro veíc.em mov.
+Chamusca,2006:05:15 16:30:00,0,2,Estrada Municipal,,,Desp.c/capotamento
+Chamusca,2006:11:17 18:33:00,0,1,EM577,,,Desp.s/disposi.de ret.
+Chamusca,2006:12:04 07:10:00,0,1,EN118,,"96,400",Colisão frontal
+Constancia,2006:03:10 21:35:00,1,0,A23,,"31,500",Desp.c/capotamento
+Constancia,2006:05:23 23:30:00,0,1,Estrada Municipal,,,Col.lat.c/outro veíc.em mov.
+Constancia,2006:07:09 18:25:00,0,1,EN358-2,,"7,420",Despiste simples
+Coruche,2006:01:02 15:15:00,0,1,EN114,,"112,900",Colisão frontal
+Coruche,2006:03:14 12:30:00,0,1,R. Agolada Cima,,,Colisão frontal
+Coruche,2006:04:08 19:00:00,0,1,R. Retiro Erra,,,Col.lat.c/outro veíc.em mov.
+Coruche,2006:05:01 11:00:00,1,0,EN119,,"53,900",Despiste simples
+Coruche,2006:05:09 13:40:00,0,1,EN114-3,,"4,400",Desp.c/col.c/veíc.imobil.ou obst.
+Coruche,2006:05:13 12:30:00,0,2,EN119,,"44,070",Despiste simples
+Coruche,2006:05:21 02:53:00,1,0,EN119,,"59,400",Desp.c/col.c/veíc .imobil.ou obst.
+Coruche,2006:05:22 08:50:00,0,1,EN114-3,,"4,900",Despiste simples
+Coruche,2006:05:27 21:45:00,0,1,Estrada Municipal,,,Despiste simples
+Coruche,2006:06:05 18:40:00,0,1,EM515,,,Desp.c/col.c/veíc.imobil.ou obst.
+Coruche,2006:06:12 14:40:00,0,1,Av. Parque Sorraia,,,Atrop.de peões
+Coruche,2006:06:19 09:00:00,1,1,EN251,,"41,830",Colisão frontal
+Coruche,2006:08:03 11:00:00,0,1,R. Almirante Reis,,,Despiste simples
+Coruche,2006:08:28 10:30:00,0,2,EN119,,"34,700",Colisão frontal
+Coruche,2006:09:07 13:10:00,1,1,EN114,,"131,700",Desp.c/col.c/veíc.imobil.ou obst.
+Coruche,2006:09:16 18:50:00,1,0,EM590,,,Desp.s/disposi.de ret.
+Coruche,2006:09:29 07:50:00,0,1,EN119,,"43,243",Desp.c/col.c/veíc.imobil.ou obst.
+Coruche,2006:11:04 16:00:00,0,2,EN114,,"109,490",Despiste simples
+Coruche,2006:12:08 17:30:00,0,1,EN114-3,,"3,953",Col.c/veic.ou obst.na faixa de rod.
+Coruche,2006:12:20 15:30:00,1,2,EN119,,"35,600",Despiste simples
+Entroncamento,2006:03:01 20:00:00,0,1,R. Cidade Penafiel,,,Atrop.de peões
+Entroncamento,2006:09:05 20:40:00,0,1,R. Arq Cantinelli Telmo,,,Col.lat.c/outro veíc.em mov.
+Entroncamento,2006:11:20 07:15:00,0,1,A23,,"16,600",Col.c/veic.ou obst.na faixa de rod.
+Ferreira do Zezere,2006:06:04 11:45:00,0,1,R. Manuel Antonio Dias Ferreira,,,Atrop.de peões
+Ferreira do Zez ere,2006:07:20 06:40:00,0,1,EM520,,,Col.lat.c/outro veíc.em mov.
+Ferreira do Zezere,2006:11:14 20:25:00,0,1,EN238,,"11,400",Col.lat.c/outro veíc.em mov.
+Ferreira do Zezere,2006:11:20 20:40:00,2,0,EM520,,,Colisão frontal
+"",2006:02:09 19:00:00,,,,,,
+Golega,2006:02:09 19:00:00,0,1,EN243,"44,120",Col.lat.c/outro veíc.em mov.
+Golega,2006:04:07 14:45:00,0,1,Estrada Municipal,,Colisão frontal
+Golega,2006:04:24 21:00:00,1,0,EN365,"74,900",Colisão frontal
+Golega,2006:05:14 11:00:00,1,0,EN365,"75,150",Desp.c/col.c/veíc.imobil.ou obst.
+Golega,2006:07:13 04:00:00,0,1,EN365,"66,800",Desp.c/col.c/veíc.imobil.ou obst.
+"",,,,,,,
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Ourem,2006:01:10 14:00:00,1,0,R. Principal,,,Col.c/veic.ou obst.na faixa de rod.
+Ourem,2006:02:04 09:25:00,0,1,R. Combatentes,,,Col.lat.c/outro veíc.em mov.
+Ourem,2006:02:05 19:05:00,0,1,EN360,,"77,820",Colisão frontal
+Ourem,2006:02:19 08:00:00,1,3,A1,,"108,300",Colisão frontal
+Ourem,2006:03:03 17:40:00,0,1,EM505,,,Desp.c/capotamento
+Ourem,2006:03:09 20:30:00,1,0,Av. D. Afonso Henriques,,,Atropelamento com fuga
+Ourem,2006:03:13 07:50:00,0,1,R. Amieiros,,,Colisão frontal
+Ourem,2006:04:05 14:30:00,0,1,R. Major,,,Atrop.de peões
+Ourem,2006:04:08 20:55:00,0,1,Av. Beato Nuno,,,Colisão frontal
+Ourem,2006:05:20 06:15:00,0,1,R. Moinhos Fazarda,,,Despiste simples
+Ourem,2006:05:23 15:45:00,0,1,Av. D. Nuno Alvares Pereira,,,Atrop.de peões
+Ourem,2006:07:16 01:10:00,0,1,EN357,,"15,500",Despiste simples
+Ourem,2006:07:28 18:15:00,0,1,Av. D. Nuno Alvares Pereira,,,Colisão frontal
+Ourem,2006:08:06 18:30:00,0,1,A1,,"112,525",Colisão choque em cadeia
+Ourem,2006:08:22 01:50:00,0,2,EN349,,"60,300",Despiste simples
+Ourem,2006:09:10 12:35:00,1,0,A1,,"106,460",Col.lat.c/outro veíc.em mov.
+Ourem,2006:10:07 15:15:00,1,0,R. Matos,,,Col.lat.c/outro veíc.em mov.
+Ourem,2006:11:11 06:45:00,1,0,Estrada Municipal,,,Despiste simples
+Ourem,2006:11:11 21:00:00,1,0,Av. D. José Alves Correia Silva,,,Atrop.de peões
+Ourem,2006:11:17 19:40:00,1,0,R. Principal,,,Atrop.de peões
+Ourem,2006:12:08 12:30:00,0,1,EM501,,,Col.tras.c/outro veíc.em mov.
+Rio Maior,2006:02:23 05:10:00,0,2,EN1,,"78,120",Colisão frontal
+Rio Maior,2006:02:25 01:30:00,0,3,EN114,,"48,500",Desp.c/col.c/veíc.imobil.ou obst.
+Rio Maior,2006:03:10 18:10:00,0,1,R. Principal,,,Despiste simples
+Rio Maior,2006:05:05 15:40:00,0,1,EN114,,"50,500",Colisão frontal
+Rio Maior,2006:05:25 18:00:00,0,1,A15,,"33,600",Despiste c/dispos. de retenção
+Rio Maior,2006:05:31 09:50:00,0,1,EM566,,,Colisão frontal
+Rio Maior,2006:06:01 15:30:00,0,1,EN114,,"42,200",Atrop.de peões
+Rio Maior,2006:06:11 07:00:00,1,2,IC2,,"75,900",Colisão frontal
+Rio Maior,2006:06:26 16:20:00,0,1,EN114,,"47,500",Col.lat.c/outro veíc.em mov.
+Rio Maior,2006:07:19 09:45:00,0,1,Encosta do Sol,,,Desp.c/col.c/veíc.imobil.ou obst.
+Rio Maior,2006:08:03 09:45:00,0,1,EM566,,,Despiste simples
+Rio Maior,2006:08:06 12:00:00,1,0,IC2,,"74,000",Desp.c/transp.do disp.de ret.lat.
+Rio Maior,2006:08:29 20:00:00,0,1,Malaqueijinho,,,Despiste simples
+Rio Maior,2006:11:02 13:45:00,0,1,EM1467,,,Desp.c/capotamento
+Rio Maior,2006:11:27 19:50:00,0,2,Av. Paulo VI,,,Atrop.de peões
+Rio Maior,2006:11:30 11:28:00,0,1,IC2,,"63,800",Col.c/veic.ou obst.na faixa de rod.
+Rio Maior,2006:12:26 11:45:00,4,2,IC2,,"76,500",Colisão frontal
+Salvaterra de Magos,2006:01:31 21:30:00,0,1,EM581,,,Desp.c/capotamento
+Salvaterra de Magos,2006:03:04 16:15:00,0,1,R. Alexandre Herculano,,,Col.lat.c/outro veíc.em mov.
+Salvaterra de Magos,2006:03:06 20:15:00,0,1,EN367,,"1,700",Col.lat.c/outro veíc.em mov.
+Salvaterra de Magos,2006:03:20 05:00:00,0,1,EN367,,,Despiste simples
+Salvaterra de Magos,2006:04:22 15:30:00,0,2,EN118,,"63,520",Colisão frontal
+Salvaterra de Magos,2006:05:04 00:05:00,0,1,R. Antonio Santos,,,Despiste simples
+Salvaterra de Magos,2006:05:05 15:30:00,0,1,Estrada Municipal,,,Col.lat.c/outro veíc.em mov.
+Salvaterra de Magos,2006:08:05 20:30:00,0,1,EN118,,"50,600",Col.tras.c/outro veíc.em mov.
+Salvaterra de Magos,2006:10:09 22:00:00,0,1,EN367,,"2,400",Atrop.de peões
+Salvaterra de Magos,2006:10:12 21:50:00,0,1,Av. D. Dinis,,,Despiste com fuga
+Salvaterra de Magos,2006:10:29 20:15:00,0,1,EN114-3,"16,200",Col.lat.c/outro veíc.em mov.
+Salvaterra de Magos,2006:11:06 15:40:00,0,1,R. Quebrada,,Colisão frontal
+Salvaterra de Magos,2006:11:21 15:05:00,0,1,EN118,"61,700",Col.tras.c/outro veíc.em mov.
+Salvaterra de Magos,2006:11:25 10:15:00,0,1,EN110,"54,500",Col.lat.c/outro veíc.em mov.
+Salvaterra de Magos,2006:12:03 23:30:00,1,0,R. Janeiro Baixo,,Desp.c/col.c/veíc.imobil.ou obst.
+"",,,,,,
+Concelho,Datahora,M*,FG*,Via,km,Natureza
+Salvaterra de Magos,2006:12:21 16:30:00,1,0,R. Imaculada Coração Marvila,,Col.tras.c/outro veíc.em mov.
+Santarem,2006:01:22 22:30:00,0,1,EM583-1,,Desp.c/capotamento
+Santarem,2006:02:08 19:20:00,0,1,Estrada Municipal,,Col.lat.c/outro veíc.em mov.
+Santarem,2006:02:11 09:30:00,0,1,EN3,"36,400",Despiste simples
+Santarem,2006:02:24 10:20:00,0,1,EN3,"35,400",Colisão com outras situações
+Santarem,2006:02:27 09:10:00,0,2,Rot. Portela,,Col.lat.c/outro veíc.em mov.
+Santarem,2006:03:16 12:25:00,0,1,Rot. Candido Reis,,Col.lat.c/outro veíc.em mov.
+Santarem,2006:03:24 01:30:00,0,2,EN3,"31,500",Col.lat.c/outro veíc.em mov.
+Santarem,2006:05:17 20:00:00,0,1,Estr. S. Domingos,,Despiste simples
+Santarem,2006:05:19 11:30:00,1,0,Qta. Sto. Antonio,,Desp.c/capotamento
+Santarem,2006:05:25 19:50:00,0,1,A1,"88,650",Col.tras.c/outro veíc.em mov.
+Santarem,2006:06:01 07:30:00,0,1,Av. Bernardo Santareno,,Col.c/veic.ou obst.na faixa de rod.
+Santarem,2006:06:02 17:00:00,0,1,EN114,"76,000",Col.lat.c/outro veíc.em mov.
+Santarem,2006:06:25 06:40:00,0,1,Av. Sá da Bandeira,,Atrop.de peões
+Santarem,2006:06:25 23:00:00,0,1,Lgo. Cândido Reis,,Atrop.de peões
+Santarem,2006:07:04 19:36:00,0,1,A1,"80,825",Colisão com fuga
+Santarem,2006:07:30 16:00:00,0,1,Moinho Fão,,Colisão frontal
+Santarem,2006:08:06 12:30:00,0,1,EN114,"73,000",Despiste simples
+Santarem,2006:08:08 23:49:00,0,1,EN361,"55,100",Desp.c/col.c/veíc.imobil.ou obst.
+Santarem,2006:08:24 13:25:00,0,1,Pça. Egas Moniz,,Colisão frontal
+Santarem,2006:09:05 17:00:00,0,1,Cç. Sta. Clara,,Desp.c/capotamento
+Santarem,2006:09:11 14:15:00,0,2,R. Nova S. Domingos,,Colisão frontal
+Santarem,2006:09:23 21:50:00,1,0,EN362,"29,000",Col.lat.c/outro veíc.em mov.
+Santarem,2006:10:13 09:30:00,1,0,EN362,"40,138",Colisão frontal
+Santarem,2006:10:18 07:00:00,0,1,EN114,"76,900",Colisão frontal
+Santarem,2006:11:01 02:20:00,0,1,R. Teixeira,,Despiste simples
+Santarem,2006:11:09 19:10:00,0,2,EN3-5,"1,000",Col.lat.c/outro veíc.em mov.
+Santarem,2006:11:24 05:40:00,0,2,Urbana,,Desp.c/transp.do disp.de ret.lat.
+Santarem,2006:11:24 14:27:00,0,1,EN3,"33,300",Colisão frontal
+Santarem,2006:12:13 13:45:00,0,1,Av Central / R. Sa Bandeira,,Atrop.de peões
+Santarem,2006:12:14 07:30:00,1,0,A1,"65,800",Col.tras.c/outro veíc.em mov.
+Santarem,2006:12:14 17:15:00,0,1,EN3,"40,000",Atrop.de peões
+Santarem,2006:12:26 12:50:00,0,1,EN3,"44,600",Colisão frontal
+Sardoal,2006:05:13 00:40:00,0,1,EN244-3,"38,200",Despiste simples
+Tomar,2006:03:12 14:10:00,0,1,Bo. do Colégio,,Atrop.de peões
+Tomar,2006:03:23 18:30:00,0,1,EN110,"107,100",Col.tras.c/outro veíc.em mov.
+Tomar,2006:04:30 00:44:00,1,0,EN110,"106,400",Atrop.de peões
+Tomar,2006:05:12 11:35:00,0,2,EN110,"107,100",Colisão frontal
+Tomar,2006:05:19 13:10:00,1,0,EM533,,Col.lat.c/outro veíc.em mov.
+Tomar,2006:07:06 07:00:00,0,2,EM531,,Col.tras.c/outro veíc.em mov.
+Tomar,2006:09:02 21:15:00,0,1,EN110,"91,300",Atrop.de peões
+Tomar,2006:09:08 15:40:00,0,1,EN358,"19,700",Colisão com outras situações
+Tomar,2006:09:23 18:30:00,0,1,EM530-1,,Desp.c/capotamento
+Tomar,2006:09:25 00:05:00,0,1,EM531,,Desp.c/col.c/veíc.imobil.ou obst.
+Tomar,2006:11:01 17:00:00,0,1,EM541,,Despiste simples
+Tomar,2006:12:14 13:10:00,0,1,Alto Encosta Águas dos Maias,,Colisão frontal
+Torres Novas,2006:03:07 20:00:00,1,0,EN349-3,"8,000",Desp.c/transp.do disp.de ret.lat.
+Torres Novas,2006:03:30 15:30:00,0,1,A23,"11,200",Despiste simples
+Torres Novas,2006:05:07 13:15:00,0,1,Av. Xanana Gusmão,Despiste simples
+Torres Novas,2006:05:30 10:15:00,0,1,EM557-2,Despiste simples
+Torres Novas,2006:06:17 16:45:00,1,0,Estrada Municipal,Colisão frontal
+Torres Novas,2006:07:04 23:00:00,0,1,R. Joaquim Cordeiro Castro,Despiste simples
+Torres Novas,2006:07:09 01:10:00,0,1,Via Panoram.Dr.Carlos A.Mendes,Col.lat.c/outro veíc.em mov.
+"",,,,,,,
+"",,,,,,,
+"",,,,,,,
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Torres Novas,2006:07:25 09:15:00,0,1,EM557-2,,,Col.lat.c/outro veíc.em mov.
+Torres Novas,2006:11:18 09:10:00,0,1,EN349,,"69,900",Desp.c/col.c/veíc.imobil.ou obst.
+Torres Novas,2006:12:17 21:30:00,0,1,EM557-3,,,Despiste simples
+Torres Novas,2006:12:22 20:00:00,0,1,EN349,,"68,050",Desp.c/capotamento
+Torres Novas,2006:12:29 10:15:00,0,1,EN243,,"37,300",Desp.c/col.c/veíc.imobil.ou obst.
+V. N. da Barquinha,2006:01:21 17:55:00,0,1,A23,,"21,400",Desp.c/capotamento
+V. N. da Barquinha,2006:03:17 14:40:00,0,1,EN3,"84,200",Colisão frontal
+V. N. da Barquinha,2006:04:27 21:20:00,0,1,R. Escola Nova,,Despiste simples
+V. N. da Barquinha,2006:10:01 11:30:00,1,1,EN3,"89,500",Despiste simples
+V. N. da Barquinha,2006:10:06 22:35:00,0,1,EN358-1,"9,700",Desp.s/disposi.de ret.
+"",,51,225,,,

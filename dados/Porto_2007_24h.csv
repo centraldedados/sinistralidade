@@ -1,0 +1,383 @@
+"",,
+11. Listagem dos acidentes com mortos e/ou feridos graves,,
+"",,
+Concelho Datahora M* FG* Via,km,Natureza
+Amarante 2007:06:10 00:20:00 1 0 EN210,"33,700",Despiste c/ transp. disp. ret. lateral
+Amarante 2007:02:17 23:25:00 1 0 EN15,"48,300",Col. tras. c/ outro veíc. mov.
+Amarante 2007:05:03 21:30:00 0 1 EN15,"49,939",Col. lat. c/ outro veíc. mov.
+Amarante 2007:03:11 10:20:00 0 2 A4,"51,900",Col. lat. c/ outro veíc. mov.
+Amarante 2007:11:20 11:45:00 0 1 EN115,"55,300",Colisão frontal
+Amarante 2007:01:17 20:15:00 0 1 EN15,"57,300",Col. tras. c/ outro veíc. mov.
+Amarante 2007:07:26 11:30:00 0 1 EN101,"142,210",Col. lat. c/ outro veíc. mov.
+Amarante 2007:07:03 09:00:00 0 1 EN101,"145,900",Col. lat. c/ outro veíc. mov.
+Amarante 2007:02:02 22:30:00 1 0 FONTE MOR,,Colisão frontal
+Amarante 2007:02:06 23:00:00 0 1 R ANTONIO NOBRE,,Colisão frontal
+Amarante 2007:07:02 16:10:00 1 0 Estrada Municipal,,Despiste simples
+Amarante 2007:08:12 17:55:00 1 0 EN211-1,,Despiste com capotamento
+Amarante 2007:10:06 22:00:00 0 1 R IGREJA,,Colisão frontal
+Amarante 2007:12:24 01:30:00 1 0 EM312,,Despiste simples
+Baião 2007:12:08 10:45:00 0 2 EN321-1,"6,550",Colisão frontal
+Baião 2007:08:24 13:45:00 1 0 EN211,"29,600",Col. tras. c/ outro veíc. mov.
+Baião 2007:05:02 17:45:00 0 1 EN108,"70,000",Colisão com outras situações
+Baião 2007:03:29 15:00:00 0 1 EN108,"78,630",Despiste c/ transp. disp. ret. lateral
+Baião 2007:08:11 18:15:00 0 1 EN108,"80,450",Col. lat. c/ outro veíc. mov.
+Baião 2007:01:02 17:10:00 0 1 EN101,"157,200",Colisão frontal
+Baião 2007:08:20 18:50:00 0 1 R CASA NOVA,,Despiste simples
+Felgueiras 2007:02:19 12:15:00 0 1 EN101-4,"1,800",Colisão frontal
+Felgueiras 2007:03:13 10:05:00 1 0 EN101-3,"1,810",Col. lat. c/ outro veíc. mov.
+Felgueiras 2007:05:09 19:40:00 0 1 EN101-3,"5,000",Col. tras. c/ outro veíc. mov.
+Felgueiras 2007:09:29 21:00:00 0 1 EN207,"32,800",Col. tras. c/ outro veíc. mov.
+Felgueiras 2007:12:20 20:30:00 0 1 EN207,"34,800",Atropelamento peões
+Felgueiras 2007:04:15 22:55:00 0 1 EN207,"42,100",Despiste c/ col c/ veíc. imob/obst.
+Felgueiras 2007:10:01 19:30:00 1 0 A11,"59,850",Col. tras. c/ outro veíc. mov.
+Felgueiras 2007:05:30 09:25:00 0 1 EN101,"129,700",Atropelamento peões
+Felgueiras 2007:07:09 19:00:00 0 1 EN104,"133,200",Col. tras. c/ outro veíc. mov.
+Felgueiras 2007:05:12 22:00:00 1 0 EN101,"135,150",Atropelamento peões
+Felgueiras 2007:01:19 12:50:00 1 0 CASAL LOBA,,Colisão frontal
+Felgueiras 2007:01:25 18:20:00 0 1 Estrada Municipal,,Despiste com capotamento
+Felgueiras 2007:05:13 08:20:00 0 1 LUGAR BARRA PEDREIRA,,Despiste simples
+Felgueiras 2007:05:17 19:15:00 0 1 EM562,,Atropelamento peões
+Felgueiras 2007:05:19 18:00:00 0 1 LUGAR REBAÇA,,Atropelamento peões
+Felgueiras 2007:06:21 17:40:00 0 1 LUGAR VARZEA,,Atropelamento peões
+Felgueiras 2007:07:02 16:45:00 0 1 Estrada Municipal,,Colisão frontal
+Felgueiras 2007:07:02 19:05:00 0 1 PARQUE ESTAC M,,Atropelamento peões
+Felgueiras 2007:08:03 00:40:00 0 1 R VITORIAS,,Colisão com fuga
+Felgueiras 2007:08:06 06:45:00 0 1 LUGAR MOUCHINHOS,,Colisão frontal
+Felgueiras 2007:08:25 17:45:00 0 1 LUGAR BARREIRAS,,Despiste c/ col c/ veíc. imob/obst.
+Felgueiras 2007:10:05 11:30:00 1 0 LUGAR TRESCOBA,,Despiste com capotamento
+Felgueiras,2007:10:06 11:15:00,0,1,S ROQUE,,Despiste simples
+Felgueiras,2007:11:09 15:10:00,0,1,R VITORIAS,,Colisão frontal
+Felgueiras,2007:12:01 23:50:00,0,1,R VITORIAS,,Despiste simples
+Gondomar,2007:12:09 20:36:00,0,1,EN15,"3,900",Despiste simples
+Gondomar,2007:11:10 17:00:00,0,1,A43,"5,000",Colisão frontal
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Gondomar,2007:11:10 23:20:00,0,1,EN105,,"5,740",Atropelamento peões
+Gondomar,2007:09:08 14:35:00,1,0,EN108,,"8,610",Despiste c/ col c/ veíc. imob/obst.
+Gondomar,2007:02:23 20:45:00,1,1,EN108,,"9,000",Atropelamento peões
+Gondomar,2007:06:27 14:30:00,0,2,EN108,,"9,950",Col. lat. c/ outro veíc. mov.
+Gondomar,2007:12:22 01:57:00,1,0,EN209,,"12,000",Despiste simples
+Gondomar,2007:07:16 12:00:00,0,1,EN108,,"14,700",Col. lat. c/ outro veíc. mov.
+Gondomar,2007:06:26 18:00:00,0,1,EN108,,"22,300",Colisão frontal
+"",,,,AV DOMINGOS GONÇALVES,,,
+Gondomar,2007:01:20 19:15:00,0,1,DE SÁ/R ANTONIO COSTA,,,Col. lat. c/ outro veíc. mov.
+"",,,,LEITE,,,
+Gondomar,2007:02:05 20:30:00,0,1,R RIO FERREIRA,,,Atropelamento peões
+"",,,,R D ANTONIO CASTRO,,,
+Gondomar,2007:03:05 20:00:00,1,0,MEIRELES/TV TOMAS,,,Colisão frontal
+"",,,,BARBOSA LEÃO,,,
+Gondomar,2007:03:14 19:30:00,0,1,R CHÃO BARREIRINHA,,,Atropelamento peões
+Gondomar,2007:05:03 00:00:00,0,1,R 25 ABRIL,,,Col. lat. c/ outro veíc. mov.
+Gondomar,2007:06:17 23:50:00,0,1,R PEDROGÃO,,,Despiste c/ col c/ veíc. imob/obst.
+Gondomar,2007:07:20 12:15:00,0,1,ESTR D MIGUEL,,,Colisão com outras situações
+Gondomar,2007:07:30 22:25:00,0,1,ESTR D MIGUEL JOVIM,,,Col. lat. c/ outro veíc. mov.
+Gondomar,2007:08:31 18:40:00,0,1,R GUERRA JUNQUEIRO,,,Colisão frontal
+Gondomar,2007:09:05 19:30:00,1,0,ER108,,,Colisão frontal
+Gondomar,2007:09:14 18:10:00,0,1,R FELIX,,,Atropelamento peões
+Gondomar,2007:11:11 04:20:00,1,0,ESTR D MIGUEL,,,Despiste com capotamento
+Gondomar,2007:11:15 19:15:00,1,1,R LUIS CAMÕES,,,Col. lat. c/ outro veíc. mov.
+Gondomar,2007:11:23 20:50:00,0,1,AV D JOÃO I,,,Colisão frontal
+Lousada,2007:09:16 20:20:00,1,0,EN320,,"5,980",Atropelamento peões
+Lousada,2007:01:28 17:20:00,0,1,EN106,,"7,900",Despiste simples
+Lousada,2007:04:20 18:30:00,1,0,A42,,"14,553",Atropelamento peões
+Lousada,2007:07:05 17:00:00,1,0,EN106,,"16,400",Despiste c/ transp. disp. ret. lateral
+Lousada,2007:05:07 19:50:00,0,1,EN106,,"17,600",Col. lat. c/ outro veíc. mov.
+Lousada,2007:03:16 18:15:00,1,0,EN106,,"21,300",Col. lat. c/ outro veíc. mov.
+Lousada,2007:08:16 23:10:00,0,1,EN106,,"21,500",Despiste c/ col c/ veíc. imob/obst.
+Lousada,2007:01:17 21:20:00,1,2,EN106,,"21,800",Colisão frontal
+Lousada,2007:09:05 14:35:00,0,2,EN106,,"21,800",Despiste com capotamento
+Lousada,2007:04:01 22:30:00,0,1,EN207,,"25,500",Atropelamento peões
+Lousada,2007:02:03 15:00:00,1,0,LUGAR IGREJA,,,Atropelamento peões
+Lousada,2007:02:07 18:10:00,1,0,Estrada Municipal,,,Colisão frontal
+Lousada,2007:04:14 14:30:00,0,1,LUGAR PLANICE,,,Col. tras. c/ outro veíc. mov.
+Lousada,2007:05:17 22:30:00,0,1,LUGAR TRAS BOUÇO,,,Despiste simples
+Lousada,2007:11:07 15:00:00,0,1,R BOAVISTA,,,Col. lat. c/ outro veíc. mov.
+M. de Canaveses,2007:09:01 21:30:00,0,2,EN210,,"34,780",Colisão frontal
+M. de Canaveses,2007:05:19 19:15:00,0,1,EN108,,"48,620",Colisão frontal
+M. de Canaveses,2007:11:01 06:25:00,1,0,EN108,,"53,300",Atropelamento c/ fuga
+M. de Canaveses,2007:07:07 15:55:00,0,1,EN108,,"57,130",Despiste simples
+M. de Canaveses,2007:11:11 19:45:00,0,1,EN210,,"65,700",Colisão frontal
+M. de Canaveses,2007:06:02 15:32:00,1,0,R LAGES,,,Colisão frontal
+M. de Canaveses,2007:11:17 20:30:00,0,1,STO ISIDRO,,,Atropelamento peões
+Maia,2007:06:15 10:00:00,0,2,EN105,"2,700",Col. lat. c/ outro veíc. mov.
+Maia,2007:02:04 20:15:00,1,0,A3,"4,400",Atropelamento peões
+Maia,2007:01:01 03:31:00,1,0,A41,"4,600",Atropelamento peões
+Maia,2007:07:07 15:45:00,0,1,A3,"5,264",Despiste simples
+Maia,2007:06:14 03:55:00,1,0,A3,"6,115",Despiste simples
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Maia,2007:02:11 00:10:00,1,0,A3,,"6,130",Despiste com capotamento
+Maia,2007:02:17 02:10:00,0,1,A3,,"6,330",Despiste com dispositivo retenção
+Maia,2007:10:13 17:30:00,0,1,EN13,,"6,500",Colisão frontal
+Maia,2007:08:16 16:35:00,0,1,EN107,,"9,050",Atropelamento peões
+Maia,2007:07:11 17:47:00,1,0,EN318,,"9,500",Colisão com outras situações
+Maia,2007:03:12 22:50:00,0,1,EN14,,"10,500",Colisão com fuga
+Maia,2007:03:15 07:17:00,0,3,A3,,"10,700",Despiste c/ transp. disp. ret. lateral
+Maia,2007:02:05 20:36:00,1,0,A41,,"10,800",Atropelamento peões
+Maia,2007:01:01 19:30:00,0,1,R DR ANTONIO SANTOS,,,Colisão frontal
+Maia,2007:03:22 13:40:00,1,0,R  5 OUTUBRO,,,Col. lat. c/ outro veíc. mov.
+Maia,2007:03:24 22:40:00,0,1,R NOVA BAJOUCA,,,Despiste simples
+Maia,2007:04:05 16:30:00,0,1,R BARREIRO,,,Col. lat. c/ outro veíc. mov.
+Maia,2007:04:30 19:00:00,0,1,R CAVACO,,,Atropelamento peões
+Maia,2007:06:11 10:45:00,0,1,R MOSTEIRO,,,Col. c/ veíc./obst. f. rodagem
+Maia,2007:08:16 14:40:00,0,1,R FREDERICO ULRICH,,,Despiste simples
+Maia,2007:08:25 12:15:00,1,0,AV D JOÃO I,,,Atropelamento peões
+Maia,2007:09:04 15:55:00,0,1,R AGOSTINHO SILVA ROCHA,,,Colisão frontal
+Maia,2007:10:19 07:15:00,0,1,R D AFONSO HENRIQUES,,,Col. lat. c/ outro veíc. mov.
+Maia,2007:12:23 07:30:00,1,0,Outra Via-VE,,,Despiste c/ col c/ veíc. imob/obst.
+Matosinhos,2007:06:17 07:15:00,1,0,EN13,,"0,600",Atropelamento peões
+Matosinhos,2007:04:05 19:20:00,0,1,EN13,,"2,500",Despiste c/ col c/ veíc. imob/obst.
+Matosinhos,2007:06:01 01:10:00,0,1,A4,,"4,980",Despiste simples
+Matosinhos,2007:11:14 06:45:00,0,1,A4,,"6,750",Col. tras. c/ outro veíc. mov.
+Matosinhos,2007:11:30 21:00:00,0,1,A28,,"7,000",Despiste s/ disp. retenção
+Matosinhos,2007:03:08 16:00:00,0,1,A28,,"8,500",Despiste c/ col c/ veíc. imob/obst.
+Matosinhos,2007:12:25 00:30:00,0,2,A28,,"14,067",Despiste c/ transp. disp. ret. lateral
+Matosinhos,2007:01:03 14:30:00,0,2,AV LIBERDADE/R PEDRAS,,,Col. lat. c/ outro veíc. mov.
+"",,,,NOVAIS,,,
+Matosinhos,2007:02:01 18:20:00,0,1,R MONSERRATE,,,Atropelamento peões
+Matosinhos,2007:02:06 20:30:00,0,1,EN107,,,Atropelamento peões
+Matosinhos,2007:03:08 23:00:00,1,0,R VELOSO SALGADO,,,Despiste simples
+Matosinhos,2007:03:09 18:05:00,0,1,AV SRA HORA,,,Atropelamento peões
+Matosinhos,2007:03:19 09:05:00,0,1,R TEOFILO CARVALHO,,,Colisão frontal
+"",,,,SANTOS,,,
+Matosinhos,2007:05:07 21:30:00,0,1,R REGADIO,,,Atropelamento peões
+Matosinhos,2007:05:14 10:30:00,0,1,R SOL POENTE,,,Atropelamento peões
+Matosinhos,2007:05:31 03:40:00,0,1,AV MERIJNAC,,,Despiste com fuga
+Matosinhos,2007:06:25 22:55:00,0,1,AV SRA HORA/R SETE BICAS,,,Col. lat. c/ outro veíc. mov.
+Matosinhos,2007:06:30 11:35:00,0,1,ACC-A28,,,Colisão frontal
+Matosinhos,2007:07:14 20:30:00,0,1,Estrada Municipal,,,Despiste simples
+Matosinhos,2007:07:25 19:20:00,0,1,AV DR SALGADO ZENHA,,,Col. lat. c/ outro veíc. mov.
+Matosinhos,2007:08:06 22:30:00,0,1,R MOSTEIRO,,,Colisão frontal
+Matosinhos,2007:09:04 12:05:00,1,1,AV GEN NORTON MATOS/R SOUSA AROSA,,,Col. tras. c/ outro veíc. mov.
+Matosinhos,2007:09:04 18:10:00,0,1,AV COMERCIO LEIXÕES,,,Colisão com outras situações
+Matosinhos,2007:09:26 09:20:00,0,1,R DR EDUARDO TORRES,,,Atropelamento peões
+Matosinhos,2007:09:29 13:30:00,0,1,R A NORTE,,,Col. tras. c/ outro veíc. mov.
+Matosinhos,2007:10:03 17:45:00,0,1,AV COMERCIO LEIXÕES,,,Colisão frontal
+Matosinhos,2007:10:10 13:15:00,0,1,TV DR BARROS,,,Atropelamento peões
+Matosinhos,2007:11:06 15:10:00,0,1,AV REPUBLICA,,,Col. lat. c/ outro veíc. mov.
+Matosinhos,2007:12:10 15:30:00,0,1,AV ANTUNES GUIMARÃES,,,Colisão frontal
+Matosinhos,2007:12:16 02:45:00,0,2,Estrada Municipal,,,Despiste simples
+Matosinhos 2007:12:27 11:15:00,,0,1,R JOAQUIM ALVES SILVA,,Col. lat. c/ outro veíc. mov.
+Paç. de Ferreira 2007:09:21 18:50:00,,0,1,EN209,"36,040",Atropelamento peões
+Paç. de Ferreira 2007:03:05 08:20:00,,0,1,R S MIGUEL,,Col. lat. c/ outro veíc. mov.
+Paç. de Ferreira 2007:05:04 06:40:00,,1,0,AV N SRA ROSARIO,,Colisão frontal
+Paç. de Ferreira 2007:05:12 21:45:00,,0,1,TV PRESSA DA  RIBEIRA,,Colisão frontal
+"* M=mortos; FG=feridos graves",,,,,,
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Paç. de Ferreira,2007:05:23 20:15:00,0,1,R PEGAS,,,Colisão frontal
+Paç. de Ferreira,2007:06:17 17:30:00,0,1,R NOVA S BENTO,,,Colisão frontal
+Paç. de Ferreira,2007:07:05 23:30:00,0,1,R PROGRESSO,,,Despiste simples
+Paç. de Ferreira,2007:07:17 18:15:00,0,1,PE ANTONIO VIEIRA,,,Atropelamento peões
+Paç. de Ferreira,2007:08:19 11:40:00,0,1,R PISCINAS,,,Colisão frontal
+Paç. de Ferreira,2007:10:07 16:40:00,0,1,R MARCENEIRO,,,Col. lat. c/ outro veíc. mov.
+Paç. de Ferreira,2007:10:31 18:20:00,0,2,AV ALTO PAÇO,,,Colisão frontal
+Paç. de Ferreira,2007:11:29 08:00:00,0,1,R FIJÔ,,,Colisão frontal
+Paredes,2007:11:08 18:15:00,0,2,EN15-3,,"0,500",Colisão frontal
+Paredes,2007:09:15 00:30:00,0,2,EN319-2,,"1,350",Col. tras. c/ outro veíc. mov.
+Paredes,2007:06:12 00:15:00,0,1,EN15,,"13,000",Col. tras. c/ outro veíc . mov.
+Paredes,2007:01:28 02:15:00,1,0,EN15,,"20,200",Colisão frontal
+Paredes,2007:03:24 02:30:00,2,0,EN319,,"21,020",Despiste simples
+Paredes,2007:10:14 19:30:00,1,0,A4,,"25,216",Colisão com outras situações
+Paredes,2007:09:19 13:09:00,0,1,EN319,,"31,900",Despiste com capotamento
+Paredes,2007:01:26 23:30:00,0,1,AV CENTRAL S MIGUEL,,,Despiste c/ col c/ veíc. imob/obst.
+Paredes,2007:02:10 23:30:00,0,1,R ZONA INDUSTRIAL,,,Despiste simples
+Paredes,2007:03:01 08:05:00,0,1,AV FABRICA,,,Col. lat. c/ outro veíc. mov.
+Paredes,2007:05:02 22:30:00,0,1,R S JOSE,,,Atropelamento peões
+Paredes,2007:05:19 18:30:00,1,0,AV JOAQUIM RIBEIRO MOTA,,,Despiste c/ col c/ veíc. imob/obst.
+Paredes,2007:05:20 12:10:00,0,3,AV STA ISABEL,,,Col. tras. c/ outro veíc. mov.
+Paredes,2007:07:11 07:10:00,0,1,ACC-A28,,,Desp. com dispositivo retenção
+Paredes,2007:07:11 18:15:00,0,1,R D'ALEM,,,Despiste com fuga
+Paredes,2007:07:13 19:00:00,0,1,LUGAR BONZIGUNE,,,Despiste simples
+Paredes,2007:07:22 19:00:00,0,1,R ALMINHAS,,,Despiste simples
+Paredes,2007:08:12 15:00:00,0,1,R S SATURIANO,,,Col. lat. c/ outro veíc. mov.
+Paredes,2007:08:29 20:10:00,0,1,R REGUEDOURA,,,Colisão frontal
+Paredes,2007:08:31 23:50:00,1,0,R DAMIÃO,,,Despiste simples
+Paredes,2007:10:13 00:35:00,0,1,R 25 ABRIL,,,Despiste simples
+Paredes,2007:10:27 13:30:00,0,1,AV TELHA,,,Despiste c/ col c/ veíc. imob/obst.
+Penafiel,2007:03:31 10:30:00,0,2,EN211,,"0,500",Despiste c/ col c/ veíc. imob/obst.
+Penafiel,2007:03:03 12:15:00,1,0,EN211-1,,"1,200",Colisão frontal
+Penafiel,2007:05:14 08:35:00,0,1,EN211,,"3,000",Colisão frontal
+Penafiel,2007:03:04 10:30:00,0,1,EN106,,"23,500",Despiste com capotamento
+Penafiel,2007:11:22 09:00:00,1,0,EN108,,"27,700",Desp. c/ transp. disp. ret. lateral
+Penafiel,2007:11:26 10:30:00,0,1,EN106,,"28,070",Colisão com outras situações
+Penafiel,2007:01:11 12:40:00,0,1,EN15,,"28,300",Col. lat. c/ outro veíc. mov.
+Penafiel,2007:12:21 21:15:00,0,1,EN106,,"29,550",Col. c/ veíc./obst. f. rodagem
+Penafiel,2007:06:02 00:20:00,0,1,EN106,,"30,200",Colisão com outras situações
+Penafiel,2007:05:06 22:20:00,0,1,EN106,,"33,200",Atropelamento peões
+Penafiel,2007:11:06 19:20:00,0,1,EN106,,"34,770",Atropelamento peões
+Penafiel,2007:12:13 07:00:00,0,1,EN15,,"35,700",Atropelamento peões
+Penafiel,2007:08:21 17:50:00,0,1,A4,,"36,330",Despiste com capotamento
+Penafiel,2007:04:16 05:15:00,0,2,A4,,"43,250",Col. tras. c/ outro veíc. mov.
+Penafiel,2007:01:10 16:15:00,0,1,R SOUTO,,,Atropelamento peões
+Penafiel,2007:01:13 17:25:00,0,1,SR AFLITOS,,,Col. lat. c/ outro veíc. mov.
+Penafiel,2007:02:02 16:00:00,0,1,Estrada Municipal,,,Atropelamento peões
+Penafiel,2007:03:02 23:20:00,0,1,R 5 OUTUBRO,,,Despiste simples
+Penafiel,2007:04:12 23:55:00,0,1,VILELA CIMA,,,Despiste simples
+Penafiel,2007:07:06 13:30:00,0,1,R ESTAÇÃO,,,Colisão frontal
+Penafiel,2007:07:24 11:40:00,1,0,R DR JOAQUIM COTA,,Atropelamento peões
+Penafiel,2007:08:27 18:50:00,0,1,VAR-CAVAL,,Colisão frontal
+Penafiel,2007:09:10 18:45:00,1,0,R TRINTA E TRES,,Despiste simples
+Porto,2007:12:16 07:25:00,0,1,EN12,"1,000",Despiste simples
+Porto,2007:04:05 08:19:00,1,0,A28,"1,200",Desp. c/ transp. disp. ret. lateral
+"",,,,,,,
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Porto,2007:05:23 14:17:00,0,1,A20,,"12,100",Atropelamento peões
+Porto,2007:01:18 22:45:00,0,1,R ALEGRIA/R D JOÃO IV,,,Colisão com fuga
+Porto,2007:01:26 10:40:00,0,1,R S DINIS/R LUIS,,,Atropelamento peões
+Porto,2007:02:05 16:20:00,0,1,ESTR INT CIRCUNVALAÇÃO,,,Atropelamento peões
+Porto,2007:02:11 08:32:00,0,2,ESTR EXT CIRCUNVALAÇÃO,,,Colisão frontal
+Porto,2007:04:04 00:55:00,0,1,R NATARIA,,,Atropelamento c/ fuga
+Porto,2007:04:09 07:40:00,0,1,AV SIDONIO PAIS/ROT SIDONIO PAIS,,,Atropelamento peões
+Porto,2007:04:11 08:55:00,1,1,R DR ALFREDO MAGALHÃES,,,Despiste c/ col c/ veíc. imob/obst.
+Porto,2007:04:22 18:15:00,0,1,R FIRMEZA/R D JOÃO IV,,,Col. lat. c/ outro veíc. mov.
+Porto,2007:04:26 20:20:00,0,1,EN12,,,Despiste simples
+Porto,2007:05:09 00:30:00,0,1,AV BOAVISTA/R OFELIA DIOGO COSTA,,,Despiste s/ disp. retenção
+Porto,2007:05:30 19:55:00,1,0,ESTR INT CIRCUNVALAÇÃO,,,Despiste simples
+Porto,2007:06:08 07:45:00,1,0,R PLACIDO COSTA,,,Atropelamento peões
+Porto,2007:06:25 17:20:00,0,1,TV S BRAS,,,Atropelamento peões
+Porto,2007:07:13 14:25:00,0,1,R FARIA GUIMARÃES,,,Atropelamento peões
+Porto,2007:08:01 13:10:00,0,1,AV BOAVISTA,,,Atropelamento peões
+Porto,2007:08:09 16:00:00,0,1,CAMPO MARTIRES DA PATRIA,,,Atropelamento peões
+Porto,2007:08:27 19:55:00,1,0,AV FRANÇA,,,Atropelamento peões
+Porto,2007:09:10 02:50:00,0,1,R LIDADOR,,,Atropelamento peões
+Porto,2007:09:13 15:20:00,1,0,R S DINIS/AV AVIADORES,,,Atropelamento c/ fuga
+Porto,2007:10:02 14:05:00,0,1,EN12,,,Colisão frontal
+Porto,2007:10:04 18:25:00,1,0,R PESO REGUA,,,Atropelamento peões
+Porto,2007:10:27 09:45:00,1,0,R LATINO COELHO,,,Atropelamento peões
+Porto,2007:11:13 08:47:00,1,0,AV FERNÃO MAGALHÃES/R,,,Colisão frontal
+"",,,,MERCES,,,
+Porto,2007:11:16 18:00:00,1,0,R MOUTEVIDEM,,,Atropelamento peões
+Porto,2007:11:19 16:05:00,0,1,AV BOAVISTA/ R AZEVEDO COUTINHO,,,Col. lat. c/ outro veíc. mov.
+Porto,2007:11:19 16:35:00,0,1,VIAD AREOSA,,,Colisão frontal
+Porto,2007:12:17 01:35:00,0,1,AV PAIVA COUCEIRO,,,Colisão frontal
+Porto,2007:12:17 14:50:00,0,1,R CAP HENRIQUE GALVÃO/AV FRANÇA,,,Atropelamento peões
+Póvoa de Varzim,2007:03:19 20:45:00,0,1,EN205,,"3,800",Col. tras. c/ outro veíc. mov.
+Póvoa de Varzim,2007:07:23 20:00:00,1,0,EN205,,"8,600",Despiste com capotamento
+Póvoa de Varzim,2007:01:14 02:20:00,1,0,A28,,"30,750",Desp. c/ transp. disp. ret. lateral
+Póvoa de Varzim,2007:11:17 05:00:00,0,1,A28,,"39,000",Desp. c/ transp. disp. ret. lateral
+Póvoa de Varzim,2007:01:12 17:15:00,0,1,R LEONARDO COIMBRA,,,Atropelamento peões
+Póvoa de Varzim,2007:03:16 19:40:00,0,1,AV PESCADORES,,,Atropelamento peões
+Póvoa de Varzim,2007:03:17 20:30:00,1,0,R MANUEL MARTINS,,,Despiste c/ col c/ veíc. imob/obst.
+Póvoa de Varzim,2007:05:09 20:00:00,0,1,AV SRA NEVES/R SILVEIRA,,,Col. lat. c/ outro veíc. mov.
+"",,,,CAMPOS,,,
+Póvoa de Varzim,2007:07:02 13:30:00,0,1,ROT MELECOM/R GOMES A,,,Despiste simples
+Póvoa de Varzim,2007:07:11 12:45:00,0,1,AV MAR,,,Atropelamento peões
+Póvoa de Varzim,2007:08:02 18:30:00,0,1,R VIRIATO BARBOSA,,,Atropelamento peões
+Póvoa de Varzim,2007:10:23 07:45:00,1,0,R GRANJEIRO,,,Despiste simples
+Póvoa de Varzim,2007:11:12 13:40:00,0,1,R SANGUINHAIS,,,Colisão frontal
+Póvoa de Varzim,2007:11:28 13:45:00,0,1,R GOMES AMORIM,,,Col. lat. c/ outro veíc. mov.
+Santo Tirso,2007:06:23 23:45:00,0,1,EN105,,"11,930",Atropelamento peões
+Santo Tirso,2007:06:10 16:40:00,0,1,A3,,"21,075",Despiste com capotamento
+Santo Tirso,2007:12:16 06:30:00,0,1,EN105,,"29,800",Despiste com capotamento
+Santo Tirso,2007:02:07 11:00:00,0,1,R STO ANDRE,,,Colisão frontal
+Santo Tirso,2007:03:11 14:41:00,0,1,ESTR PRESA,,,Col. lat. c/ outro veíc. mov.
+"",,,,,,
+"",,,,,,
+Concelho,Datahora,M*,FG*,Via,km,Natureza
+Santo Tirso,2007:05:12 23:45:00,0,1,VIA INTER MUNICIPAL,,Despiste c/ col c/ veíc . imob/obst.
+Santo Tirso,2007:05:24 08:05:00,0,1,CENTRAL CAMIONAGEM,,Atropelamento peões
+Santo Tirso,2007:05:28 10:00:00,0,1,R PE LUIS PINHEIRO,,Col. tras. c/ outro veíc. mov.
+Santo Tirso,2007:05:31 07:30:00,0,1,VAR-EN104,,Col. lat. c/ outro veíc. mov.
+Santo Tirso,2007:06:18 19:45:00,0,2,R REGO,,Colisão frontal
+Santo Tirso,2007:07:09 13:10:00,1,0,TV MATADOUTO,,Despiste simples
+Santo Tirso,2007:07:13 23:00:00,0,1,R STA MARIA NEGRELOS,,Despiste com capotamento
+Santo Tirso,2007:07:21 21:00:00,0,1,R PROF DR EDUARDO,,Colisão com outras situações
+"",,,,CARNEIRO COELHO,,
+Santo Tirso,2007:08:10 08:45:00,0,1,R DR FRANCISCO SA CARNEIRO,,Despiste s/ disp. retenção
+Santo Tirso,2007:10:12 11:05:00,0,1,R D C PACHECO,,Col. lat. c/ outro veíc. mov.
+Santo Tirso,2007:12:24 04:00:00,0,1,EN204,,Despiste com capotamento
+Trofa,2007:12:04 18:30:00,0,1,EN318,"10,700",Despiste com capotamento
+Trofa,2007:11:19 11:35:00,1,0,A3,"16,850",Despiste s/ disp. retenção
+Trofa,2007:02:05 18:15:00,0,1,A3,"20,500",Col. tras. c/ outro veíc. mov.
+Trofa,2007:03:02 21:40:00,0,1,R ENTRE LINHAS,,Despiste simples
+Trofa,2007:03:15 07:45:00,0,1,R D PEDRO I,,Colisão frontal
+Trofa,2007:04:16 09:30:00,0,1,R JOSE MOURA COUTINHO,,Atropelamento peões
+Trofa,2007:06:06 16:00:00,1,0,R 16 MAIO,,Colisão frontal
+V. N. de Gaia,2007:02:28 08:10:00,0,1,VAR-222,"0,500",Col. lat. c/ outro veíc. mov.
+V. N. de Gaia,2007:07:12 20:30:00,0,1,A20,"1,750",Despiste simples
+V. N. de Gaia,2007:03:16 15:30:00,0,1,EN222,"3,580",Col. tras. c/ outro veíc. mov.
+V. N. de Gaia,2007:07:02 15:15:00,1,0,A44,"3,750",Col. tras. c/ outro veíc. mov.
+V. N. de Gaia,2007:10:09 21:30:00,0,1,EN222,"4,800",Atropelamento peões
+V. N. de Gaia,2007:07:13 16:40:00,1,2,EN109,"7,000",Col. lat. c/ outro veíc. mov.
+V. N. de Gaia,2007:10:11 07:35:00,0,1,EN222,"7,140",Col. lat. c/ outro veíc. mov.
+V. N. de Gaia,2007:03:22 21:20:00,0,1,EN222,"8,950",Col. lat. c/ outro veíc. mov.
+V. N. de Gaia,2007:12:08 11:00:00,0,1,EN222,"9,000",Col. lat. c/ outro veíc. mov.
+V. N. de Gaia,2007:09:29 05:10:00,1,0,EN109,"12,450",Despiste simples
+V. N. de Gaia,2007:04:01 23:55:00,0,1,A29,"47,250",Col. tras. c/ outro veíc. mov.
+V. N. de Gaia,2007:11:16 19:40:00,0,1,EN1,"290,500",Atropelamento peões
+V. N. de Gaia,2007:01:26 20:45:00,1,1,R TABOSA,,Col. lat. c/ outro veíc. mov.
+V. N. de Gaia,2007:02:07 14:00:00,0,1,R DR ADELINO COSTA,,Col. lat. c/ outro veíc. mov.
+V. N. de Gaia,2007:02:13 13:15:00,1,0,R DR GASPAR COSTA LEITE,,Despiste c/ col c/ veíc. imob/obst.
+V. N. de Gaia,2007:02:26 08:10:00,0,1,R BOAVISTA ESTRADA,,Col. lat. c/ outro veíc. mov.
+V. N. de Gaia,2007:02:28 23:00:00,0,1,AV VASCO GAMA,,Colisão frontal
+V. N. de Gaia,2007:03:06 10:07:00,1,0,R ESCOLAS,,Atropelamento peões
+V. N. de Gaia,2007:03:06 14:00:00,0,1,R GUARDA,,Atropelamento peões
+V. N. de Gaia,2007:03:11 00:15:00,0,2,R GUARDA,,Colisão frontal
+V. N. de Gaia,2007:03:14 07:30:00,0,1,AV VASCO GAMA,,Col. lat. c/ outro veíc. mov.
+V. N. de Gaia,2007:04:07 11:15:00,0,1,R GAZEMAS,,Atropelamento c/ fuga
+V. N. de Gaia,2007:04:13 14:50:00,0,1,R JOSE MONTEIRO CASTRO,,Col. lat. c/ outro veíc. mov.
+"",,,,PORTUGAL,,
+V. N. de Gaia,2007:04:27 20:30:00,1,0,R AMERICO OLIVEIRA,,Despiste simples
+V. N. de Gaia,2007:04:29 16:30:00,0,1,R ALTO CHAQUEDAS,,Col. lat. c/ outro veíc. mov.
+V. N. de Gaia,2007:05:05 14:10:00,0,1,R BELA VISTA,,Colisão frontal
+V. N. de Gaia,2007:05:07 19:35:00,1,0,R CARREGAL,,Col. lat. c/ outro veíc. mov.
+V. N. de Gaia,2007:05:13 17:10:00,0,1,R 2 ESCARPA SERRA PILAR,,Colisão frontal
+V. N. de Gaia,2007:05:25 15:20:00,0,1,R VESSADA,Col. lat. c/ outro veíc. mov.
+V. N. de Gaia,2007:05:28 14:30:00,0,3,VIA ENG EDGAR CARDOSO,Col. lat. c/ outro veíc. mov.
+V. N. de Gaia,2007:06:02 22:30:00,0,1,R S CAETANO,Despiste simples
+V. N. de Gaia,2007:06:20 14:05:00,0,1,R GONÇALVES CASTRO,Colisão choque em cadeia
+V. N. de Gaia,2007:07:29 13:20:00,0,1,AV VASCO GAMA,Despiste c/ col c/ veíc. imob/obst.
+"",,,,,,
+Concelho,Datahora,M*,FG*,Via,km,Natureza
+V. N. de Gaia,2007:09:28 12:20:00,1,0,AV D JOÃO II,,Despiste c/ col c/ veíc. imob/obst.
+V. N. de Gaia,2007:10:12 08:20:00,0,1,R S VICENTE FERREIRA,,Atropelamento peões
+V. N. de Gaia,2007:10:27 09:45:00,0,1,AV FRANCELOS,,Col. lat. c/ outro veíc. mov.
+V. N. de Gaia,2007:10:28 20:10:00,0,1,R AGOSTINHO ALBINO,,Despiste simples
+V. N. de Gaia,2007:11:11 17:50:00,1,2,R GULPILHARES,,Colisão frontal
+V. N. de Gaia,2007:12:12 18:40:00,0,1,R DELFIM LIMA,,Atropelamento peões
+V. N. de Gaia,2007:12:23 13:30:00,0,1,R SPORT CLUB DRAGÕES SARDINENSES,,Col. lat. c/ outro veíc. mov.
+Valongo,2007:05:09 17:45:00,0,1,EN15,"10,600",Col. tras. c/ outro veíc. mov.
+Valongo,2007:02:18 09:00:00,0,1,EN15,"11,030",Col. tras. c/ outro veíc. mov.
+Valongo,2007:04:09 12:00:00,0,1,EN15,"11,969",Col. lat. c/ outro veíc. mov.
+Valongo,2007:08:04 20:55:00,0,1,EN15,"12,400",Col. lat. c/ outro veíc. mov.
+Valongo,2007:01:15 08:00:00,0,1,A4,"13,020",Col. c/ veíc./obst. f. rodagem
+Valongo,2007:01:14 20:45:00,1,0,A4,"17,700",Atropelamento c/ fuga
+Valongo,2007:10:24 10:50:00,0,1,A4,"17,800",Desp. c/ transp. disp. ret. lateral
+Valongo,2007:07:29 05:30:00,1,0,A41,"18,800",Despiste com dispositivo de
+"",,,,,,retenção
+Valongo,2007:03:12 08:00:00,1,0,A4,"18,875",Col. tras. c/ outro veíc. mov.
+Valongo,2007:02:25 18:30:00,0,1,LG ESTAÇÃO C/R RODRIGUES DE FREITAS,,Atropelamento peões
+Valongo,2007:03:10 01:30:00,0,2,R RIBEIRO CAMBADO,,Colisão frontal
+Valongo,2007:03:17 19:30:00,0,1,R S VICENTE,,Atropelamento c/ fuga
+Valongo,2007:04:06 22:20:00,1,0,AV ENG DUARTE PACHECO,,Col. lat. c/ outro veíc. mov.
+Valongo,2007:06:14 07:00:00,0,1,R SOUTO PINHEIRO,,Col. lat. c/ outro veíc. mov.
+Valongo,2007:06:26 20:15:00,0,1,R S VICENTE,,Col. lat. c/ outro veíc. mov.
+Valongo,2007:08:13 10:00:00,1,0,R MESIRICORDIA,,Atropelamento peões
+Valongo,2007:08:18 17:25:00,0,1,AV ENG DUARTE PACHECO,,Col. tras. c/ outro veíc. mov.
+Valongo,2007:09:23 19:20:00,1,0,R DR MARIO CAL BRANDÃO,,Despiste simples
+Valongo,2007:10:01 17:50:00,0,1,R DIU,,Despiste simples
+Valongo,2007:11:23 14:40:00,0,1,R ALRO FERNANDES,,Col. lat. c/ outro veíc. mov.
+Valongo,2007:11:30 19:20:00,0,1,R S VICENTE,,Despiste c/ dispositivo retenção
+Valongo,2007:12:05 12:25:00,0,1,AV ENG DUARTE PACHECO FERNANDES,,Col. tras. c/ outro veíc. mov.
+Vila do Conde,2007:12:22 13:00:00,0,2,A7,"4,713",Despiste com capotamento
+Vila do Conde,2007:08:19 00:30:00,0,1,A7,"5,175",Desp. c/ transp. disp. ret. lateral
+Vila do Conde,2007:07:05 00:10:00,0,1,EN104,"5,900",Despiste simples
+Vila do Conde,2007:03:18 10:55:00,0,1,A7,"6,700",Despiste simples
+Vila do Conde,2007:02:27 19:10:00,0,1,EN14,"7,100",Atropelamento peões
+Vila do Conde,2007:08:23 02:15:00,0,2,A7,"7,130",Col. tras. c/ outro veíc. mov.
+Vila do Conde,2007:02:01 20:30:00,0,1,EN13,"12,320",Atropelamento peões
+Vila do Conde,2007:02:14 00:10:00,0,1,EN13,"13,800",Col. lat. c/ outro veíc. mov.
+Vila do Conde,2007:10:28 00:50:00,1,2,A28,"17,400",Col. tras. c/ outro veíc. mov.
+Vila do Conde,2007:03:09 12:20:00,1,1,A28,"20,732",Despiste simples
+Vila do Conde,2007:12:17 01:15:00,0,3,A28,"23,000",Col. lat. c/ outro veíc. mov.
+Vila do Conde,2007:01:09 15:50:00,0,1,R PINDELO,,Col. lat. c/ outro veíc. mov.
+Vila do Conde,2007:01:11 18:20:00,0,1,AV MOUZINHO ALBUQUERQUE,,Col. lat. c/ outro veíc. mov.
+Vila do Conde,2007:01:14 19:45:00,0,1,R MADALENA,,Despiste c/ col c/ veíc. imob/obst.
+Vila do Conde,2007:01:28 14:20:00,1,0,R CIMA,,Despiste c/ col c/ veíc. imob/obst.
+Vila do Conde,2007:02:12 01:00:00,0,1,AV JOSE REGIO,,Despiste c/ col c/ veíc. imob/obst.
+Vila do Conde,2007:02:21 08:35:00,0,1,AV INF D HENRIQUE,,Atropelamento peões
+Vila do Conde,2007:02:23 14:30:00,0,1,R CAP CARLOS FONSECA,,Col. lat. c/ outro veíc. mov.
+Vila do Conde,2007:05:18 07:45:00,0,1,R 5 OUTUBRO,,Col. tras. c/ outro veíc. mov.
+Vila do Conde,2007:05:29 13:00:00,0,1,R PINDELO,Atropelamento peões
+Vila do Conde,2007:09:19 11:45:00,1,0,R PONTE D'AVE,Despiste simples
+Vila do Conde,2007:10:10 13:00:00,0,1,R S MARTINHO,Despiste simples
+Vila do Conde,2007:12:18 10:00:00,0,1,R ESTR VELHA,Colisão com fuga
+"",,89,313,,

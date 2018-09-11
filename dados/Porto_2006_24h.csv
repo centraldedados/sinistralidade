@@ -1,0 +1,418 @@
+"",,
+11. Listagem dos acidentes com mortos e/ou feridos graves,,
+"",,
+Concelho Datahora M* FG* Via,Km,Natureza
+Amarante 2006:02:18 01:40:00 1 0 EN210,"30,000",Desp.c/transp.do disp.de ret.lat.
+Amarante 2006:02:19 14:50:00 0 1 Estrada Municipal,,Col.tras.c/outro veíc.em mov.
+Amarante 2006:03:18 19:45:00 0 1 Av. Gen.Vitorino Laranjeira,,Atrop.de peões
+Amarante 2006:04:11 17:00:00 1 0 Estrada Municipal,,Despiste simples
+Amarante 2006:04:14 12:00:00 0 1 EN211-1,"0,005",Col.lat.c/outro veíc.em mov.
+Amarante 2006:07:18 17:00:00 1 3 S. Gonçalo,,Desp.c/capotamento
+Amarante 2006:07:19 19:00:00 1 1 EN101,"142,430",Colisão frontal
+Amarante 2006:08:05 17:15:00 0 1 R. Igreja,,Col.tras.c/outro veíc.em mov.
+Amarante 2006:08:12 15:00:00 1 0 Estrada Municipal,,Desp.s/disposi.de ret.
+Amarante 2006:08:27 21:30:00 0 2 Var-Tamega,,Atrop.de peões
+Amarante 2006:09:01 23:30:00 0 1 Av. Agua Nova,,Atrop.de peões
+Amarante 2006:09:08 14:00:00 0 1 Estrada Municipal,,Col.c/veic.ou obst.na fxa. de rod.
+Amarante 2006:11:10 11:45:00 1 0 A4,"58,500",Colisão frontal
+Amarante 2006:12:07 16:00:00 0 2 IP4,"65,400",Colisão frontal
+Amarante 2006:12:09 03:20:00 0 1 EN15,"44,200",Col.lat.c/outro veíc.em mov.
+Baião 2006:03:17 09:55:00 0 1 EN321,"3,150",Atrop.de peões
+Baião 2006:04:18 05:30:00 0 2 EM579,,Colisão frontal
+Baião 2006:06:18 17:30:00 0 1 Estrada Municipal,,Colisão frontal
+Baião 2006:08:12 08:00:00 0 2 EN101,"155,800",Desp.s/disposi.de ret.
+Baião 2006:10:15 02:30:00 0 1 EN304-3,"44,700",Desp.s/disposi.de ret.
+Baião 2006:10:25 17:45:00 0 1 EN108,"91,500",Colisão frontal
+Baião 2006:11:21 19:00:00 0 2 Estrada Municipal,,Desp.c/capotamento
+Baião 2006:12:01 19:30:00 1 0 EN108,"79,600",Atropelamento com fuga
+Felgueiras 2006:01:06 10:00:00 1 0 Lugar Bouças,,Desp.c/capotamento
+Felgueiras 2006:01:13 14:30:00 0 1 Lugar Colveeira,,Atrop.de peões
+Felgueiras 2006:01:15 01:15:00 0 1 Av Leonardo Coimbra,,Colisão com outras situações
+Felgueiras 2006:01:21 13:00:00 0 1 EN207,"41,300",Col.lat.c/outro veíc.em mov.
+Felgueiras 2006:02:23 07:40:00 0 1 EN15,"49,200",Colisão frontal
+Felgueiras 2006:02:24 21:10:00 0 1 EN207,"40,500",Despiste simples
+Felgueiras 2006:03:25 19:25:00 0 1 EN101,"137,900",Atrop.de peões
+Felgueiras 2006:04:10 16:30:00 0 1 Lugar Vinha,,Atrop.de peões
+Felgueiras 2006:04:12 19:15:00 0 1 Rot. Bombeiros,,Despiste simples
+Felgueiras 2006:05:16 15:00:00 0 1 Av. Dr. Leonardo Coimbra,,Atrop.de peões
+Felgueiras 2006:05:30 18:45:00 0 1 EN101-4,"0,900",Despiste simples
+Felgueiras 2006:06:04 17:30:00 0 1 Lugar Sé Lagares,,Despiste simples
+Felgueiras 2006:06:29 19:15:00 0 1 Lugar Chautado,,Col.lat.c/outro veíc.em mov.
+Felgueiras 2006:06:29 23:30:00 0 1 Souto Real,,Colisão frontal
+Felgueiras 2006:06:30 07:50:00 0 1 EN207-2,"0,050",Atrop.de peões
+Felgueiras 2006:07:06 22:00:00 0 1 EN101-4,"1,000",Col.lat.c/outro veíc.em mov.
+Felgueiras 2006:07:24 15:15:00 0 1 Av. Ribeiro Magalhães,,Col.c/veic.ou obst.na fxa. de rod.
+Felgueiras 2006:08:07 08:10:00 0 1 EN101,"129,500",Atrop.de peões
+Felgueiras 2006:09:07 20:15:00 0 1 Lugar Quinta,,Atrop.de peões
+Felgueiras 2006:10:01 15:15:00 0 1 EN101,"128,750",Colisão frontal
+Felgueiras 2006:10:03 22:15:00 0 1 Lugar Incados,,Desp.c/capotamento
+Felgueiras 2006:11:11 21:30:00 0 1 Estrada Municipal,,Desp.c/col.c/veíc.imobil.ou obst.
+Felgueiras 2006:11:16 11:30:00 1 0 Av. República,,Atrop.de peões
+Felgueiras 2006:12:05 17:30:00 0 1 Av. Dr. Leonardo,,Atrop.de peões
+Felgueiras,2006:12:14 23:30:00,0,2,Pedras Brancas,,Despiste simples
+Felgueiras,2006:12:30 13:15:00,0,3,Lugar Santiago,,Colisão frontal
+Gondomar,2006:01:17 18:45:00,1,0,ER108,,Atrop.de peões
+Gondomar,2006:01:20 07:30:00,1,0,EN108,"16,300",Atrop.de peões
+Gondomar,2006:01:24 09:40:00,0,1,R. D. Antonio Castro,,Atrop.de peões
+"",,,,,,,
+"",,,,,,,
+"",,,,,,,
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Gondomar,2006:01:31 12:25:00,0,1,R. Tardariz,,,Atrop.de peões
+Gondomar,2006:02:28 16:45:00,0,1,IC29,,"3,500",Despiste c/disp. de retenção
+Gondomar,2006:03:24 10:00:00,0,1,Lgo. Venda Nova,,,Atrop.de peões
+Gondomar,2006:03:30 21:15:00,0,1,Estr. D. Miguel,,,Col.tras.c/outro veíc.em mov.
+Gondomar,2006:04:08 22:00:00,0,1,R Valado,,,Colisão com fuga
+Gondomar,2006:04:14 13:25:00,0,1,R D Afonso Henriques,,,Col.tras.c/outro veíc.em mov.
+Gondomar,2006:04:17 20:00:00,1,0,EN108,,"12,400",Despiste simples
+Gondomar,2006:04:24 01:40:00,0,1,R. Portelinha,,,Despiste simples
+Gondomar,2006:04:27 16:50:00,0,1,EN108,,"15,400",Colisão frontal
+Gondomar,2006:05:18 21:25:00,0,1,Estr. D. Miguel,,,Atrop.de peões
+Gondomar,2006:05:26 08:10:00,0,2,R. D. João Castro/Tva. Xistos,,,Atrop.de peões
+Gondomar,2006:07:22 23:00:00,0,1,R. Inf. D. Henrique,,,Desp.c/capotamento
+Gondomar,2006:09:12 08:00:00,0,1,R. Mimosas,,,Col.lat.c/outro veíc.em mov.
+Gondomar,2006:09:13 14:00:00,0,1,Estrada Municipal,,,Colisão frontal
+Gondomar,2006:09:22 21:40:00,0,1,Av. D. João I,,,Atrop.de peões
+Gondomar,2006:09:23 07:40:00,0,1,R. N. Sra. Amparo,,,Col.lat.c/outro veíc.em mov.
+Gondomar,2006:10:07 10:45:00,0,2,R. D. Antonio Castro Meireles,,,Col.c/veic.ou obst.na fxa. de rod.
+Gondomar,2006:10:10 18:50:00,0,1,R. D. Miguel,,,Despiste simples
+Gondomar,2006:10:21 10:20:00,0,2,Estr. D. Miguel,,,Col.lat.c/outro veíc.em mov.
+Gondomar,2006:11:14 12:30:00,0,1,Av. Conduta,,,Colisão frontal
+Gondomar,2006:11:17 11:45:00,1,0,R. Fernão Magalhães,,,Atrop.de peões
+Gondomar,2006:12:14 01:30:00,0,1,IC29,,,Despiste c/disp. de retenção
+Gondomar,2006:12:21 12:50:00,0,1,R. Vasco Gama/Estr. D. Miguel,,,Col.lat.c/outro veíc.em mov.
+Lousada,2006:02:03 13:05:00,0,1,EN320-2,,"1,000",Col.lat.c/outro veíc.em mov.
+Lousada,2006:02:11 05:15:00,0,1,R. 1 Maio,,,Desp.c/capotamento
+Lousada,2006:03:13 22:00:00,0,1,Estrada Municipal,,,Atrop.de peões
+Lousada,2006:03:30 11:40:00,0,1,IC25,,,Colisão frontal
+Lousada,2006:05:08 12:40:00,0,1,Soutelo Vilar Torno,,,Atrop.de peões
+Lousada,2006:06:29 16:20:00,0,1,Av Piscinas,,,Despiste simples
+Lousada,2006:07:01 23:30:00,0,1,EN106,,"7,300",Colisão frontal
+Lousada,2006:07:20 14:15:00,1,0,Lugar Almeida,,,Despiste simples
+Lousada,2006:07:22 19:00:00,0,1,EN207,,,Colisão frontal
+Lousada,2006:07:26 21:00:00,0,1,Alto Nevogilde,,,Col.lat.c/outro veíc.em mov.
+Lousada,2006:07:28 20:15:00,0,1,Av. Comb. Gr. Guerra,,,Colisão frontal
+Lousada,2006:09:09 15:00:00,0,1,EN15,,"45,400",Col.tras.c/outro veíc.em mov.
+Lousada,2006:09:09 21:15:00,1,1,EN15,,"46,100",Desp.c/capotamento
+Lousada,2006:09:30 20:10:00,0,1,Lugar Meinedo,,,Despiste simples
+Maia,2006:01:01 07:50:00,0,2,EN14,,"10,500",Desp.c/col.c/veíc.imobil.ou obst.
+Maia,2006:01:24 22:20:00,1,0,R. Sandes,,,Colisão frontal
+Maia,2006:05:28 22:50:00,0,1,R. Central,,,Despiste simples
+Maia,2006:06:23 01:30:00,0,1,R. Nova Gandra,,,Desp.c/col.c/veíc.imobil.ou obst.
+Maia,2006:07:28 08:50:00,0,1,R. D. Afonso Henriques,,,Despiste simples
+Maia,2006:07:28 23:45:00,0,1,R. D. Afonso Henriques,,,Col.lat.c/outro veíc.em mov.
+Maia,2006:08:04 21:15:00,0,1,R. Sto. Condestavel,,,Col.lat.c/outro veíc.em mov.
+Maia,2006:08:07 12:15:00,1,0,R. D. Afonso Henriques,,,Atrop.de peões
+Maia,2006:10:01 03:45:00,1,0,A3,,"5,800",Desp.c/transp.do disp.de ret.lat.
+Maia,2006:10:03 19:40:00,0,1,EN13,,"7,550",Col.c/veic.ou obst.na fxa. de rod.
+Maia,2006:10:07 16:00:00,0,1,R. Santos Dias,,Atrop.de peões
+Maia,2006:11:02 07:45:00,0,1,EN14,"9,000",Col.lat.c/outro veíc.em mov.
+Maia,2006:11:07 23:07:00,0,2,A3,"6,150",Desp.c/col.c/veíc.imobil.ou obst.
+Maia,2006:11:15 18:30:00,0,2,Av. Estruturante Crespins,,Despiste simples
+Maia,2006:12:06 08:40:00,0,1,R. Aug. Ferreira Moutinho Ramos,,Colisão frontal
+"",,,,,,,
+"",,,,,,,
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Maia,2006:12:11 07:40:00,0,1,EN13,,"5,765",Colisão frontal
+Maia,2006:12:30 18:05:00,1,0,EN14,,"7,720",Atrop.de peões
+Mco. Canaveses,2006:01:16 18:45:00,0,1,R. Oliveira,,,Atrop.de peões
+Mco. Canaveses,2006:04:13 19:45:00,0,1,Estrada Municipal,,,Atrop.de peões
+Mco. Canaveses,2006:08:05 20:00:00,1,0,EN211,,"14,300",Colisão frontal
+Mco. Canaveses,2006:08:12 12:00:00,1,0,EN210,,"73,850",Col.lat.c/outro veíc.em mov.
+Mco. Canaveses,2006:08:18 14:10:00,0,2,Estrada Municipal,,,Colisão frontal
+Mco. Canaveses,2006:10:07 10:30:00,1,1,EN211,,"3,600",Colisão frontal
+Mco. Canaveses,2006:11:19 11:15:00,1,0,EN211,,"8,150",Colisão frontal
+Matosinhos,2006:01:17 07:30:00,1,0,EN13,,"2,114",Atrop.de peões
+Matosinhos,2006:02:05 01:00:00,2,1,Estr. Ext. Circunvalação,,,Desp.c/col.c/veíc.imobil.ou obst.
+Matosinhos,2006:02:10 02:00:00,0,1,R. Custió,,,Desp.c/col.c/veíc.imobil.ou obst.
+Matosinhos,2006:04:01 10:30:00,0,1,Lgo. Souto,,,Atrop.de peões
+Matosinhos,2006:04:27 11:45:00,0,1,R. S. Gens,,,Atrop.de peões
+Matosinhos,2006:05:02 20:00:00,0,1,R. Antonio Domingos Santos,,,Atrop.de peões
+Matosinhos,2006:05:08 01:07:00,0,1,A28,,"13,100",Col.tras.c/outro veíc.em mov.
+Matosinhos,2006:05:18 10:00:00,0,1,Av. Cor. Helder Ribeiro,,,Desp.c/capotamento
+Matosinhos,2006:05:22 14:55:00,0,1,Av. Comercio Leixões,,,Atrop.de peões
+Matosinhos,2006:05:30 17:15:00,0,1,R. Joaquim Pinto,,,Desp.c/col.c/veíc.imobil.ou obst.
+Matosinhos,2006:05:31 06:00:00,1,0,EN13,,"2,945",Desp.c/capotamento
+Matosinhos,2006:06:03 19:50:00,0,1,R Serra Aroso,,,Colisão frontal
+Matosinhos,2006:06:16 14:15:00,0,1,Av. Nova Seixo,,,Atrop.de peões
+Matosinhos,2006:06:26 21:00:00,0,1,R. Ofélia Cruz Costa,,,Colisão frontal
+Matosinhos,2006:06:28 01:15:00,0,1,R Agudela,,,Col.lat.c/outro veíc.em mov.
+Matosinhos,2006:07:02 05:10:00,1,0,EN13,,"3,300",Desp.c/capotamento
+Matosinhos,2006:08:03 11:30:00,0,1,R. Antonio Fragoso,,,Atrop.de peões
+Matosinhos,2006:08:04 20:00:00,1,0,R. Recarei,,,Col.lat.c/outro veíc.em mov.
+Matosinhos,2006:09:14 18:50:00,0,1,R. Costio,,,Col.lat.c/outro veíc.em mov.
+Matosinhos,2006:09:17 01:05:00,1,0,Estr. Ext. Circunvalação,,,Despiste simples
+Matosinhos,2006:09:20 19:15:00,0,1,Av. Dr. Manuel Teixeira Ruela,,,Atrop.de peões
+Matosinhos,2006:10:12 17:25:00,0,1,IC1,,"314,000",Colisão choque em cadeia
+Matosinhos,2006:10:15 01:20:00,0,2,R. Antonio Pedro,,,Despiste simples
+Matosinhos,2006:10:17 14:00:00,1,0,R. Sobreiro,,,Despiste simples
+Matosinhos,2006:10:20 12:20:00,0,1,R. Araujo,,,Atrop.de peões
+Matosinhos,2006:10:27 12:10:00,0,1,R. 1 Dezembro/R. França Junior,,,Col.lat.c/outro veíc.em mov.
+Matosinhos,2006:11:05 14:00:00,0,1,EN13,,"2,500",Despiste c/disp. de retenção
+Matosinhos,2006:11:10 23:04:00,0,1,Av. Eng. Duarte Pacheco,,,Atrop.de peões
+Matosinhos,2006:11:22 18:20:00,0,1,Av. Joaquim Neves Santos,,,Col.lat.c/outro veíc.em mov.
+Matosinhos,2006:11:24 17:30:00,0,1,Av. Calouste Gulbekian,,,Atrop.de peões
+Matosinhos,2006:11:25 18:50:00,0,1,EN13,,"0,950",Atrop.de peões
+Matosinhos,2006:11:30 14:30:00,0,1,R. Silva Aroso,,,Colisão frontal
+Paços de Ferreira,2006:01:03 18:50:00,0,1,R. Camela,,,Desp.c/col.c/veíc.imobil.ou obst.
+Paços de Ferreira,2006:01:09 18:55:00,1,0,IC25,,"12,093",Col.lat.c/outro veíc.em mov.
+Paços de Ferreira,2006:01:23 10:50:00,0,1,A42,,"2,725",Col.tras.c/outro veíc.em mov.
+Paços de Ferreira,2006:02:26 16:35:00,0,1,Av. XX Maio,,,Col.lat.c/outro veíc.em mov.
+Paços de Ferreira,2006:05:21 03:00:00,0,7,Av. Liberdade,,,Colisão frontal
+Paços de Ferreira,2006:08:05 11:15:00,0,1,A42,"8,100",Colisão frontal
+Paços de Ferreira,2006:08:28 18:00:00,0,2,R. Fonte Madeiros,,Colisão frontal
+Paços de Ferreira,2006:09:10 00:10:00,0,1,R. Antonio Pereira Costa,,Desp.s/disposi.de ret.
+Paços de Ferreira,2006:09:10 00:10:00,0,1,R. Antonio Pereira Costa,,Desp.s/disposi.de ret.
+Paços de Ferreira,2006:09:27 16:40:00,0,1,A42,"9,000",Despiste simples
+"",,,,,,
+Concelho,Datahora,M*,FG*,Via,km,Natureza
+Paços de Ferreira,2006:10:01 20:50:00,0,1,R. S. Domingos,,Col.lat.c/outro veíc.em mov.
+Paços de Ferreira,2006:10:06 03:00:00,0,1,R. Dr. Francisco Sa Carneiro,,Desp.c/col.c/veíc.imobil.ou obst.
+Paços de Ferreira,2006:10:07 11:40:00,0,1,R Além Rio,,Colisão frontal
+Paços de Ferreira,2006:12:25 02:20:00,0,1,Av. S. Domingos,,Colisão frontal
+Paços de Ferreira,2006:12:25 18:20:00,1,0,Lg Co,,Col.lat.c/outro veíc.em mov.
+Paços de Ferreira,2006:12:29 17:37:00,2,0,A42,"7,600",Col.tras.c/outro veíc.em mov.
+Paredes,2006:01:13 21:00:00,0,1,EN15,"24,500",Atrop.de peões
+Paredes,2006:01:15 17:30:00,0,2,EN319-2,"1,800",Atrop.de peões
+Paredes,2006:02:06 06:30:00,0,1,EN15,"12,900",Col.c/veic.ou obst.na fxa. de rod.
+Paredes,2006:04:09 01:55:00,0,1,EN209,"23,800",Despiste simples
+Paredes,2006:05:10 19:00:00,0,1,Av. Central,,Col.lat.c/outro veíc.em mov.
+Paredes,2006:05:18 11:35:00,1,1,Av. Antonio  Beato Lopes,,Colisão frontal
+Paredes,2006:06:01 21:30:00,0,1,R. Dr. G. Pereira Leite,,Desp.c/col.c/veíc.imobil.ou obst.
+Paredes,2006:06:14 19:45:00,0,1,EN15,"25,200",Atrop.de peões
+Paredes,2006:07:09 14:40:00,0,2,Pça. Francisco Sa Carneiro,,Atrop.de peões
+Paredes,2006:07:11 11:50:00,0,1,R Barreto,,Atrop.de peões
+Paredes,2006:07:29 00:15:00,1,1,EN15,"12,800",Col.lat.c/outro veíc.em mov.
+Paredes,2006:08:09 18:15:00,1,0,Av. S. Tome,,Despiste simples
+Paredes,2006:08:13 16:35:00,1,0,A4,"30,600",Desp.c/capotamento
+Paredes,2006:10:13 15:15:00,0,1,R. Cap. Laurinda Vasconcelos,,Colisão frontal
+Paredes,2006:11:26 08:20:00,0,1,A42,"0,600",Despiste simples
+Paredes,2006:11:29 13:10:00,0,1,EN209,"25,900",Col.lat.c/outro veíc.em mov.
+Paredes,2006:12:30 05:50:00,0,1,EN319,"28,930",Despiste simples
+Penafiel,2006:01:06 18:40:00,0,1,EN106,"32,910",Col.lat.c/outro veíc.em mov.
+Penafiel,2006:01:29 22:45:00,0,1,EN15,"36,670",Despiste simples
+Penafiel,2006:02:08 13:20:00,0,1,EN15,"36,185",Col.lat.c/outro veíc.em mov.
+Penafiel,2006:03:03 23:15:00,1,0,A4,"35,680",Col.tras.c/outro veíc.em mov.
+Penafiel,2006:03:17 15:00:00,0,1,EN211,"2,145",Colisão frontal
+Penafiel,2006:04:08 17:10:00,0,1,EN106,"33,200",Desp.c/col.c/veíc.imobil.ou obst.
+Penafiel,2006:04:30 19:10:00,1,1,EN319,"24,900",Despiste simples
+Penafiel,2006:06:06 07:35:00,0,1,EN15,"83,855",Col.c/veic.ou obst.na fxa. de rod.
+Penafiel,2006:06:14 09:00:00,0,1,Var-Cavalu,,Desp.c/capotamento
+Penafiel,2006:07:21 20:45:00,0,3,Estrada Municipal,,Despiste simples
+Penafiel,2006:07:29 18:50:00,1,0,EN106-3,"1,150",Atrop.de peões
+Penafiel,2006:08:14 17:20:00,0,1,EN106,"32,600",Colisão frontal
+Penafiel,2006:11:11 19:30:00,0,1,Av. S. Tome,,Col.c/veic.ou obst.na fxa. de rod.
+Penafiel,2006:12:02 07:15:00,0,1,EN106,"83,300",Colisão frontal
+Penafiel,2006:12:09 00:25:00,0,1,Bustelo,,Desp.c/capotamento
+Penafiel,2006:12:12 15:00:00,0,1,Lugar Igreja,,Col.lat.c/outro veíc.em mov.
+Penafiel,2006:12:21 00:20:00,1,0,EN15,"27,760",Despiste simples
+Porto,2006:01:05 21:45:00,0,1,Ponte da Arrábida,,Col.tras.c/outro veíc.em mov.
+Porto,2006:01:17 19:10:00,0,1,Estr. Ext. Circunvalação,,Atrop.de peões
+Porto,2006:01:18 13:20:00,0,2,R. Arneiros,,Colisão frontal
+Porto,2006:01:18 19:55:00,1,0,Av. Montevideu,,Atrop.de peões
+Porto,2006:01:31 18:23:00,0,1,VCI,,Col.tras.c/outro veíc.em mov.
+Porto,2006:02:05 07:40:00,0,1,VCI,,Col.lat.c/outro veíc.em mov.
+Porto,2006:02:28 07:15:00,1,0,Estr. Ext. Circunvalação,,Despiste c/disp. de retenção
+Porto,2006:03:01 13:00:00,0,1,R. Antonio B. Almeida,,Colisão frontal
+Porto,2006:04:11 01:05:00,0,1,Estr. Int. Circunvalação,Col.lat.c/outro veíc.em mov.
+Porto,2006:05:12 23:10:00,0,1,R. Freixo,Atrop.de peões
+Porto,2006:07:03 09:45:00,0,1,Estr. Ext. Circunvalação,Atrop.de peões
+Porto,2006:07:11 02:00:00,0,1,Av. Paiva Couceiro,Atrop.de peões
+Porto,2006:07:15 02:22:00,0,1,Av. Boavista,Atrop.de peões
+"",,,,,,
+"",,,,,,
+Concelho,Datahora,M*,FG*,Via,km,Natureza
+Porto,2006:07:19 22:00:00,0,1,R. Vale Formoso/R. S. Dinis,,Colisão frontal
+Porto,2006:07:30 10:35:00,0,1,R. Nova Alfandega,,Desp.c/col.c/veíc.imobil.ou obst.
+Porto,2006:08:05 11:15:00,0,2,Estr. Int. Circunvalação,,Col.tras.c/outro veíc.em mov.
+Porto,2006:08:08 04:42:00,1,0,Av. Gustavo Eiffel/R. D. Luis I,,Desp.c/col.c/veíc.imobil.ou obst.
+Porto,2006:08:24 22:35:00,0,1,Pça. Corujeira,,Desp.c/col.c/veíc.imobil.ou obst.
+Porto,2006:09:01 16:05:00,0,1,Av. Fontes P. Melo,,Col.lat.c/outro veíc.em mov.
+Porto,2006:09:01 17:24:00,0,1,Outra Via,,Col.tras.c/outro veíc.em mov.
+Porto,2006:09:03 01:55:00,0,1,Alameda Cortes,,Desp.c/col.c/veíc.imobil.ou obst.
+Porto,2006:09:05 14:20:00,0,1,Estr. Ext. Circunvalação,,Col.lat.c/outro veíc.em mov.
+Porto,2006:09:09 03:55:00,0,1,R. Faria Guimarães,,Col.lat.c/outro veíc.em mov.
+Porto,2006:09:13 15:35:00,0,1,Av. Boavista/R. Guerra Junqueiro,,Atrop.de peões
+Porto,2006:09:21 09:54:00,0,1,Pça. Republica,,Atrop.de peões
+Porto,2006:09:21 19:40:00,0,1,R. Arq. Cassiano Barbosa,,Atrop.de peões
+Porto,2006:09:24 06:10:00,0,1,EN12,,Desp.c/col.c/veíc.imobil.ou obst.
+Porto,2006:10:10 13:20:00,0,1,Viaduto da Areosa,,Colisão frontal
+Porto,2006:10:16 20:25:00,0,1,R. Paz,,Atrop.de peões
+Porto,2006:10:20 15:30:00,0,1,R. S. Roque/R. Ferreira Santos,,Col.lat.c/outro veíc.em mov.
+Porto,2006:10:20 17:55:00,0,1,R. Costa Cabral,,Atrop.de peões
+Porto,2006:10:31 15:13:00,0,1,R. Trindade,,Atrop.de peões
+Porto,2006:11:18 05:20:00,0,2,Av. Boavista,,Col.lat.c/outro veíc.em mov.
+Porto,2006:12:05 09:35:00,0,1,R. Passeio Alegre,,Atrop.de peões
+Porto,2006:12:09 03:30:00,1,0,Al. Basilio Teles,,Desp.c/capotamento
+Porto,2006:12:14 18:20:00,0,1,Pç Poveiras,,Atrop.de peões
+Povoa de Varzim,2006:01:09 15:00:00,0,1,R. D. Maria I,,Atrop.de peões
+Povoa de Varzim,2006:02:07 11:30:00,1,0,R. Luis Antonio,,Atrop.de peões
+Povoa de Varzim,2006:02:13 18:30:00,1,1,EN205,"4,950",Colisão frontal
+Povoa de Varzim,2006:02:13 18:40:00,0,1,EN13,"31,600",Atrop.de peões
+Povoa de Varzim,2006:03:05 01:00:00,0,1,A28,"34,050",Desp.c/capotamento
+Povoa de Varzim,2006:03:15 18:45:00,1,0,Rot. Relogio,,Despiste simples
+Povoa de Varzim,2006:04:13 14:20:00,0,1,R. D. Benta,,Despiste simples
+Povoa de Varzim,2006:05:07 21:30:00,0,1,R. Almirante Reis,,Col.c/veic.ou obst.na fxa. de rod.
+Povoa de Varzim,2006:05:29 21:45:00,1,0,EN206,"9,400",Desp.c/capotamento
+Povoa de Varzim,2006:06:02 18:15:00,0,1,R. Almirante Reis,,Atrop.de peões
+Povoa de Varzim,2006:06:09 13:00:00,0,1,R. Eng. Ezequiel Campos,,Colisão frontal
+Povoa de Varzim,2006:07:07 12:45:00,0,1,R. Familia Bonitos,,Col.lat.c/outro veíc.em mov.
+Povoa de Varzim,2006:07:11 04:45:00,1,0,A28,"33,4",Despiste simples
+Povoa de Varzim,2006:07:11 14:50:00,0,1,R. Paulo Barreto,,Atrop.de peões
+Povoa de Varzim,2006:07:20 07:30:00,1,3,A28,"35,6",Despiste simples
+Povoa de Varzim,2006:08:14 18:35:00,0,1,R. Gomes Amorim/R. Augusto,,Colisão com outras situações
+Povoa de Varzim,2006:09:10 20:25:00,0,1,EN13,,Atrop.de peões
+Povoa de Varzim,2006:09:12 17:00:00,0,1,R. Dr. Leonardo Coimbra,,Despiste simples
+Povoa de Varzim,2006:09:16 14:20:00,0,1,R. Gomes Amorim,,Col.lat.c/outro veíc.em mov.
+Povoa de Varzim,2006:09:17 18:10:00,0,1,R. Almirante Reis,,Col.lat.c/outro veíc.em mov.
+Povoa de Varzim,2006:10:04 20:50:00,0,1,R. Almirante Reis,,Atrop.de peões
+Povoa de Varzim,2006:10:17 20:30:00,0,1,R. Alberto Pinheiro,,Col.lat.c/outro veíc.em mov.
+Povoa de Varzim,2006:10:28 15:00:00,0,1,EN13,"31,5",Col.tras.c/outro veíc.em mov.
+Povoa de Varzim,2006:11:02 17:30:00,0,1,R. Gomes Amorim,,Atrop.de peões
+Povoa de Varzim,2006:11:11 23:00:00,0,2,R. Sanguinhais,,Col.lat.c/outro veíc.em mov.
+Povoa de Varzim,2006:11:18 05:45:00,1,1,EN205,"9,1",Colisão frontal
+Povoa de Varzim,2006:12:09 20:20:00,0,1,EN205,"3,25",Col.lat.c/outro veíc.em mov.
+Povoa de Varzim,2006:12:23 00:30:00,1,0,R. Prof. E. Costa E Silva,,Col.c/veic.ou obst.na fxa. de rod.
+Povoa de Varzim,2006:12:24 15:50:00,0,1,R. Igreja,,Despiste simples
+Santo Tirso,2006:02:05 01:30:00,0,1,R. Cristininha,,Desp.c/col.c/veíc.imobil.ou obst.
+"",,,,,,
+Concelho,Datahora,M*,FG*,Via,km,Natureza
+Santo Tirso,2006:02:10 15:10:00,0,1,Lugar Quinchães,,Atrop.de peões
+Santo Tirso,2006:03:24 12:50:00,0,1,EN105,"17,9",Colisão frontal
+Santo Tirso,2006:04:09 21:40:00,0,4,EN105,"13,5",Colisão frontal
+Santo Tirso,2006:04:15 13:30:00,0,1,R. Pde. Luis G. Pinheiro,,Colisão frontal
+Santo Tirso,2006:04:26 20:15:00,0,1,R Freixieiro,,Colisão com outras situações
+Santo Tirso,2006:04:30 18:10:00,1,0,R. S. Rosendo,,Despiste simples
+Santo Tirso,2006:05:03 19:35:00,1,0,Pç. Gen. Humberto Delgado,,Col.lat.c/outro veíc.em mov.
+Santo Tirso,2006:05:10 21:00:00,0,1,EN105,"30,9",Atrop.de peões
+Santo Tirso,2006:05:12 10:10:00,0,1,R REAL,,Despiste simples
+Santo Tirso,2006:05:25 12:15:00,0,1,EN204,,Colisão com outras situações
+Santo Tirso,2006:06:26 07:55:00,0,2,R. N. Sra. Valinhas,,Colisão com outras situações
+Santo Tirso,2006:06:30 20:50:00,0,1,R. Picoto,,Atrop.de peões
+Santo Tirso,2006:07:15 15:10:00,1,0,R. Real,,Despiste simples
+Santo Tirso,2006:08:10 14:30:00,1,0,EN319,"7,8",Col.lat.c/outro veíc.em mov.
+Santo Tirso,2006:08:20 18:25:00,0,1,A3,"24,4",Despiste c/disp. de retenção
+Santo Tirso,2006:08:26 00:15:00,0,1,R. Carvalhal,,Colisão com outras situações
+Santo Tirso,2006:09:22 18:55:00,0,1,EN319,,Col.lat.c/outro veíc.em mov.
+Santo Tirso,2006:09:23 18:45:00,0,1,R. Macário,,Despiste simples
+Santo Tirso,2006:11:04 14:30:00,0,2,EN105,"13,21",Col.lat.c/outro veíc.em mov.
+Santo Tirso,2006:11:28 21:50:00,0,1,R. Dr. Oliveira Salazar,,Col.lat.c/outro veíc.em mov.
+Santo Tirso,2006:12:05 16:00:00,0,1,EN105,"19,9",Desp.s/disposi.de ret.
+Santo Tirso,2006:12:11 09:55:00,1,0,A3,"23,515",Col.c/veic.ou obst.na fxa. de rod.
+Santo Tirso,2006:12:11 16:55:00,0,1,R. Prof. Dr. Fernando A . Pires,,Atrop.de peões
+Trofa,2006:01:01 08:55:00,0,1,A3,"13,471",Desp.s/disposi.de ret.
+Trofa,2006:01:02 19:00:00,0,1,Estrada Municipal,,Despiste simples
+Trofa,2006:01:16 13:15:00,0,1,EN14,"14,9",Col.lat.c/outro veíc.em mov.
+Trofa,2006:01:23 05:00:00,1,0,R. S. Sebastião,,Atropelamento com fuga
+Trofa,2006:02:10 02:15:00,0,2,A3,"15,65",Col.lat.c/outro veíc.em mov.
+Trofa,2006:03:13 21:50:00,0,1,R. Sra. Lurdes,,Despiste simples
+Trofa,2006:08:20 15:20:00,0,1,R. Aquilino Ribeiro,,Colisão frontal
+Trofa,2006:09:29 22:10:00,0,1,A3,"16,5",Despiste simples
+Trofa,2006:10:01 16:10:00,0,1,A3,"16,385",Colisão choque em cadeia
+Trofa,2006:11:27 02:10:00,1,0,A3,"16,557",Desp.c/capotamento
+Valongo,2006:02:16 18:55:00,0,1,R. S. João Sobrado,,Atrop.de peões
+Valongo,2006:03:09 18:10:00,1,0,R. Cebeda,,Despiste simples
+Valongo,2006:03:14 17:20:00,1,0,A4,"19,93",Colisão frontal
+Valongo,2006:03:14 18:55:00,0,1,A4,"16,1",Col.c/veic.ou obst.na fxa. de rod.
+Valongo,2006:03:19 04:45:00,1,0,A4,"20,1",Desp.c/col.c/veíc.imobil.ou obst.
+Valongo,2006:04:09 23:45:00,0,2,EN105,"8,05",Col.lat.c/outro veíc.em mov.
+Valongo,2006:05:08 04:30:00,2,1,Av. Eng. Duarte Pacheco,,Colisão frontal
+Valongo,2006:05:21 10:45:00,0,1,R. Conde Ferreira,,Col.lat.c/outro veíc.em mov.
+Valongo,2006:06:14 02:00:00,0,1,R. Passarias,,Col.c/veic.ou obst.na fxa. de rod.
+Valongo,2006:06:22 18:20:00,1,0,R. Elias Garcia,,Colisão frontal
+Valongo,2006:07:07 12:45:00,1,0,A4,"18,7",Desp.c/transp.do disp.de ret.lat.
+Valongo,2006:07:16 21:25:00,1,2,R. João Deus,,Despiste simples
+Valongo,2006:08:07 09:32:00,1,0,A4,"14,5",Col.tras.c/outro veíc.em mov.
+Valongo,2006:08:11 18:45:00,1,0,EN105,"10,25",Despiste simples
+Valongo,2006:08:24 22:30:00,0,1,EN15,"11,824",Colisão frontal
+Valongo,2006:09:27 12:40:00,0,1,EN105,"10,7",Col.lat.c/outro veíc.em mov.
+Valongo,2006:09:29 08:05:00,1,0,A4,"18,9",Col.lat.c/outro veíc.em mov.
+Valongo,2006:10:01 01:50:00,1,2,A4,"15,055",Despiste c/disp. de retenção
+Valongo,2006:10:09 09:00:00,0,1,R. Cabeda,,Colisão frontal
+Valongo,2006:10:21 13:00:00,0,1,R. Eduardo J. R. Figueira,,Col.lat.c/outro veíc.em mov.
+"",,,,,,,
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Valongo,2006:10:25 23:30:00,0,2,A4,,"18,9",Desp.c/col.c/veíc.imobil.ou obst.
+Valongo,2006:10:25 23:30:00,0,2,A4,,"18,9",Desp.c/col.c/veíc.imobil.ou obst.
+Valongo,2006:11:13 09:15:00,1,0,R. Dr. Mario Cal Brandão,,,Colisão frontal
+Valongo,2006:11:15 18:00:00,0,1,R. Pde. Américo,,,Atrop.de peões
+Valongo,2006:12:22 16:15:00,1,0,Rua Ribeiro Cambado,,,Atrop.de peões
+Vila do Conde,2006:01:09 18:15:00,0,1,EN13,,14,Col.tras.c/outro veíc.em mov.
+Vila do Conde,2006:02:02 19:20:00,1,0,EN206,,"7,7",Col.tras.c/outro veíc.em mov.
+Vila do Conde,2006:02:06 16:40:00,0,1,R. Dr. Antonio Bento Martins,,,Atrop.de peões
+Vila do Conde,2006:02:11 16:45:00,0,1,Av. Mouzinho Albuquerque,,,Col.lat.c/outro veíc.em mov.
+Vila do Conde,2006:02:22 15:45:00,0,1,R. Ant. Ferreira,,,Atrop.de peões
+Vila do Conde,2006:03:11 16:40:00,0,1,EN104,,"4,75",Atrop.de peões
+Vila do Conde,2006:04:01 22:40:00,1,0,EN13,,"14,925",Colisão frontal
+Vila do Conde,2006:04:05 17:45:00,0,1,R. Gandara,,,Col.lat.c/outro veíc.em mov.
+Vila do Conde,2006:04:28 20:15:00,0,1,R. 5 Outubro,,,Colisão com outras situações
+Vila do Conde,2006:05:25 09:30:00,0,1,R. S. Cristovão,,,Col.lat.c/outro veíc.em mov.
+Vila do Conde,2006:05:28 16:00:00,0,1,R. Pimenta Fornelo,,,Despiste simples
+Vila do Conde,2006:06:08 21:50:00,1,0,EN104,,"0,006",Col.lat.c/outro veíc.em mov.
+Vila do Conde,2006:06:23 15:30:00,0,1,R. Fonte,,,Colisão frontal
+Vila do Conde,2006:06:25 12:00:00,1,0,A28,,"20,7",Despiste simples
+Vila do Conde,2006:06:26 01:05:00,1,0,R. Calvelhe,,,Despiste simples
+Vila do Conde,2006:06:28 00:00:00,0,1,R. Praia,,,Colisão frontal
+Vila do Conde,2006:07:07 11:30:00,1,0,Av. 1 Maio,,,Despiste simples
+Vila do Conde,2006:08:24 19:50:00,0,1,Av. Dr. João Canavarro,,,Col.lat.c/outro veíc.em mov.
+Vila do Conde,2006:08:24 23:10:00,0,2,Av. Dr. José Canavarro,,,Colisão frontal
+Vila do Conde,2006:08:28 13:15:00,0,1,Av. Brasil,,,Atrop.de peões
+Vila do Conde,2006:09:03 03:15:00,0,1,Av. Brasil/R. Frei João,,,Col.tras.c/outro veíc.em mov.
+Vila do Conde,2006:09:17 10:15:00,0,1,R. 5 Outubro,,,Col.lat.c/outro veíc.em mov.
+Vila do Conde,2006:09:24 09:40:00,0,1,Av. Marques Sá Bandeira,,,Desp.s/disposi.de ret.
+Vila do Conde,2006:10:26 10:30:00,1,0,EN104,,"0,23",Col.lat.c/outro veíc.em mov.
+Vila do Conde,2006:10:29 06:30:00,0,1,R. 5 Outubro,,,Colisão frontal
+Vila do Conde,2006:11:01 21:15:00,0,1,R. Sol,,,Despiste simples
+Vila do Conde,2006:11:05 19:45:00,0,1,EN306,,"69,1",Despiste simples
+Vila do Conde,2006:11:17 07:15:00,1,0,EN309,,"2,1",Colisão frontal
+Vila do Conde,2006:12:28 12:00:00,0,1,Av. Dr. Carlos Pinto Ferreira,,,Colisão com fuga
+Vila Nova de Gaia,2006:01:02 23:00:00,0,2,R. Raimundo Carvalho,,,Col.lat.c/outro veíc.em mov.
+Vila Nova de Gaia,2006:01:10 18:30:00,0,1,EN222,,"3,25",Col.lat.c/outro veíc.em mov.
+Vila Nova de Gaia,2006:01:16 14:45:00,0,1,A1,,"289,69",Desp.c/capotamento
+Vila Nova de Gaia,2006:02:10 22:40:00,0,1,R. Mach. Santos/Pç . Manuel Reis,,,Colisão choque em cadeia
+Vila Nova de Gaia,2006:02:13 09:20:00,1,0,R. Bela,,,Col.lat.c/outro veíc.em mov.
+Vila Nova de Gaia,2006:02:24 04:00:00,0,1,EN109,,"11,56",Colisão frontal
+Vila Nova de Gaia,2006:02:27 15:20:00,0,1,Parque Int. Continente,,,Colisão frontal
+Vila Nova de Gaia,2006:03:03 07:45:00,0,1,A29,,"41,8",Atrop.de peões
+Vila Nova de Gaia,2006:03:20 05:50:00,0,1,EN1,,303,Colisão com fuga
+Vila Nova de Gaia,2006:03:29 14:30:00,0,1,ACC-A1,,,Despiste simples
+Vila Nova de Gaia,2006:04:02 21:10:00,0,1,EN222,,"5,5",Col.tras.c/outro veíc.em mov.
+Vila Nova de Gaia,2006:05:03 14:30:00,0,1,Av. D. João II,,,Colisão frontal
+Vila Nova de Gaia,2006:06:12 21:35:00,0,1,R. João Barros,,,Col.lat.c/outro veíc.em mov.
+Vila Nova de Gaia,2006:06:14 16:00:00,0,2,VAR-222,,"3,65",Colisão frontal
+Vila Nova de Gaia,2006:07:03 17:00:00,1,0,EN109,12,Atrop.de peões
+Vila Nova de Gaia,2006:07:06 06:50:00,1,0,R. Rodrigues Freitas,,Atrop.de peões
+Vila Nova de Gaia,2006:07:07 13:15:00,0,1,Av. República,,Atrop.de peões
+Vila Nova de Gaia,2006:07:20 14:30:00,0,1,R. Prof. Amadeu Santos,,Atrop.de peões
+Vila Nova de Gaia,2006:07:24 15:00:00,0,1,EN1,"290,6",Atrop.de peões
+"",,,,,,,
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Vila Nova de Gaia,2006:07:27 11:10:00,0,1,R. Calvario,,,Despiste simples
+Vila Nova de Gaia,2006:08:03 17:05:00,0,1,IC1,,,Atrop.de peões
+Vila Nova de Gaia,2006:08:06 14:15:00,0,1,EN1,,"294,1",Colisão frontal
+Vila Nova de Gaia,2006:08:06 18:00:00,0,1,ACC-A44,,,Despiste simples
+Vila Nova de Gaia,2006:08:07 12:40:00,1,0,EN1,,"302,4",Colisão frontal
+Vila Nova de Gaia,2006:08:20 02:30:00,0,2,EN222,,"14,39",Desp.c/col.c/veíc.imobil.ou obst.
+Vila Nova de Gaia,2006:08:20 10:20:00,0,1,VAR-222,,"5,3",Col.lat.c/outro veíc.em mov.
+Vila Nova de Gaia,2006:09:06 01:50:00,0,2,R. Salvador Brandão,,,Desp.c/col.c/veíc .imobil.ou obst.
+Vila Nova de Gaia,2006:09:09 14:03:00,0,1,Al. Oliveira Salazar,,,Desp.c/col.c/veíc.imobil.ou obst.
+Vila Nova de Gaia,2006:09:09 16:05:00,0,1,R. Cap. Salgueiro Maia,,,Atrop.de peões
+Vila Nova de Gaia,2006:09:22 20:15:00,0,1,IC1,,"299,25",Col.tras.c/outro veíc.em mov.
+Vila Nova de Gaia,2006:09:28 12:15:00,0,1,IC1,,"297,3",Col.tras.c/outro veíc.em mov.
+Vila Nova de Gaia,2006:10:30 10:42:00,0,1,Ponte do Infante,,,Atrop.de peões
+Vila Nova de Gaia,2006:10:30 17:50:00,0,1,R Soares dos Reis,,,Atrop.de peões
+Vila Nova de Gaia,2006:11:03 10:00:00,0,1,Av. Diogo Leite/R. Afonso III,,,Atrop.de peões
+Vila Nova de Gaia,2006:11:05 05:50:00,1,0,A29,,"41,3",Atrop.de peões
+Vila Nova de Gaia,2006:11:15 17:40:00,0,1,R. Camilo Castelo Branco,,,Atrop.de peões
+Vila Nova de Gaia,2006:11:23 17:45:00,1,0,EN1,,292,Atrop.de peões
+Vila Nova de Gaia,2006:11:26 22:15:00,0,1,IC1,,"299,6",Despiste simples
+Vila Nova de Gaia,2006:11:30 23:15:00,0,1,R. Oviva Teles,,,Col.lat.c/outro veíc.em mov.
+Vila Nova de Gaia,2006:12:02 20:30:00,0,2,EN222,,"5,9",Col.lat.c/outro veíc.em mov.
+Vila Nova de Gaia,2006:12:05 19:20:00,0,1,R. 5 Outubro,,,Atrop.de peões
+Vila Nova de Gaia,2006:12:07 11:30:00,1,0,R. Fraternidade,,,Atrop.de peões
+Vila Nova de Gaia,2006:12:08 18:00:00,1,0,Av. Vasco Gama,,,Atrop.de peões
+Vila Nova de Gaia,2006:12:15 00:25:00,0,1,EN1,"291,5",Despiste simples
+Vila Nova de Gaia,2006:12:20 19:00:00,1,0,A1,"287,48",Atrop.de peões
+Vila Nova de Gaia,2006:12:23 15:45:00,0,1,VAR-222,"3,15",Colisão frontal
+Vila Nova de Gaia,2006:12:31 01:30:00,3,1,R. S. Gonçalo,,Desp.c/capotamento
+"",,96,371,,,

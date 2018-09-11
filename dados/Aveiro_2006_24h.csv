@@ -1,0 +1,290 @@
+"",,
+11. Listagem dos acidentes com mortos e/ou feridos graves,,
+"",,
+Concelho Datahora M* FG* Via,km,Natureza
+"Águeda 2006:02:07 08:40:00 0 1 Est. Principal",,Colisão frontal
+"Águeda 2006:02:07 12:30:00 0 1 Estrada Municipal",,Col.lat. c/ veic. em mov.
+"Águeda 2006:02:13 11:00:00 0 1 Estrada Municipal",,Col.lat. c/ veic. em mov.
+"Águeda 2006:03:22 13:40:00 0 1 EN1","236,200",Col. traseira c/ veic. em mov.
+"Águeda 2006:03:24 18:13:00 0 2 IC2","234,020",Colisão frontal
+"Águeda 2006:04:01 02:10:00 1 0 Estrada Municipal",,Desp. s/ dispos. retenção
+"Águeda 2006:05:03 18:50:00 0 1 R. Cores",,Colisão frontal
+"Águeda 2006:05:09 13:20:00 0 1 A25","34,750",Col. traseira c/ veic. em mov.
+"Águeda 2006:05:19 19:30:00 1 0 EN234","34,500",Col.lat. c/ veic. em mov.
+"Águeda 2006:05:29 04:30:00 0 1 R. Eduardo Silva Bastos",,Despiste simples
+"Águeda 2006:05:30 21:22:00 1 0 EN230","13,800",Colisão frontal
+"Águeda 2006:06:22 19:40:00 0 1 R. Sto. António",,Colisão frontal
+"Águeda 2006:07:04 14:30:00 0 1 R. Lapas",,Colisão frontal
+"Águeda 2006:10:12 17:30:00 0 1 EN230","14,100",Col.lat. c/ veic. em mov.
+"Águeda 2006:10:28 18:40:00 0 1 Estrada Municipal",,Despiste simples
+"Águeda 2006:11:06 19:45:00 0 1 R. Silva",,Col.c/ veic. ou obst. faixa rod.
+"Águeda 2006:11:24 18:15:00 1 0 Estrada Municipal",,Atropelamento peões
+"Águeda 2006:12:15 10:30:00 1 0 Estrada Municipal",,Colisão frontal
+Albergaria-a-Velha 2006:02:25 12:00:00 0 1 EN16,"26,500",Desp.c/ col. c/ veic. imob. ou obst.
+Albergaria-a-Velha 2006:05:06 10:15:00 0 1 Estrada Municipal,,Atropelamento peões
+Albergaria-a-Velha 2006:06:24 13:30:00 0 1 R. Costeira,,Atropelamento peões
+Albergaria-a-Velha 2006:07:21 14:00:00 0 1 Estrada Municipal,,Col.lat. c/ veic. em mov.
+Albergaria-a-Velha 2006:08:30 18:55:00 1 0 R. St Cruz-a-Velha,,Atropelamento peões
+Albergaria-a-Velha 2006:08:30 21:45:00 0 1 A25,"21,900",Col. traseira c/ veic. em mov.
+Anadia 2006:01:12 19:45:00 0 1 R. Espinhel,,Col.lat. c/ veic. em mov.
+Anadia 2006:02:25 18:55:00 0 1 R. Biscos,,Despiste simples
+Anadia 2006:04:04 12:38:00 0 1 IC2,"223,000",Col.lat. c/ veic. em mov.
+Anadia 2006:04:09 22:00:00 1 0 A1,"222,850",Col.c/ veic. ou obst. faixa rod.
+Anadia 2006:04:16 16:10:00 0 1 IC2,"213,400",Colisão frontal
+Anadia 2006:04:25 18:30:00 0 1 EN334,"48,000",Colisão frontal
+Anadia 2006:05:12 17:50:00 0 1 R. Castelo,,Col.lat. c/ veic. em mov.
+Anadia 2006:05:15 14:00:00 0 1 EN1,"213,000",Colisão frontal
+Anadia 2006:05:27 16:30:00 0 1 R. Cascalheira,,Colisão frontal
+Anadia 2006:06:24 01:15:00 0 1 EN333-1,"19,050",Colisão frontal
+Anadia 2006:07:05 18:55:00 0 1 R. Camélias,,Colisão frontal
+Anadia 2006:07:21 13:00:00 0 3 R. Liberdade,,Col.lat. c/ veic. em mov.
+Anadia 2006:08:06 19:00:00 0 2 IC2,"223,500",Colisão frontal
+Anadia 2006:08:11 01:58:00 0 1 Estrada Municipal,,Desp.c/ col. c/ veic. imob. ou obst.
+Anadia 2006:08:25 12:20:00 0 1 Pq. Modelo,,Colisão frontal
+Anadia 2006:08:27 04:20:00 0 1 Estrada Municipal,,Desp.c/ col. c/ veic. imob. ou obst.
+Anadia 2006:09:19 18:00:00 0 1 Estrada Municipal,,Colisão frontal
+Anadia 2006:10:03 12:15:00 0 1 EN334,"34,100",Despiste simples
+Anadia 2006:10:26 19:45:00 0 1 R. Flores,,Col.lat. c/ veic. em mov.
+Anadia 2006:10:28 15:10:00 0 1 Av. Dr. Seabra Dinis,,Col.lat. c/ veic. em mov.
+Anadia 2006:10:30 10:10:00 0 1 R. Vale Cide,,Atropelamento peões
+Anadia 2006:11:04 10:30:00 0 1 Estrada Municipal,,Col. c/ outras situações
+Anadia 2006:11:30 09:15:00 0 1 EM612,,Colisão frontal
+Anadia 2006:12:18 17:45:00 0 1 EN235,"28,100",Col.lat. c/ veic. em mov.
+Anadia 2006:12:21 17:00:00 0 1 A1,"221,000",Desp. c/ capotamento
+Anadia 2006:12:21 22:30:00 0 1 A1,"221,370",Col. traseira c/ veic. em mov.
+Anadia 2006:12:23 12:00:00 0 1 R. 21 de Março,,Desp.c/ col. c/ veic. imob. ou obst.
+Anadia 2006:12:25 16:15:00 0 1 R. Principal,,Atropelamento peões
+Arouca,2006:04:01 00:05:00,0,1,EN224,"34,800",Col.lat. c/ veic. em mov.
+Arouca,2006:04:26 02:10:00,0,1,EN224,"31,250",Despiste c/ fuga
+Arouca,2006:04:28 21:35:00,1,0,Estrada Municipal,,Colisão frontal
+Arouca,2006:06:09 15:35:00,1,0,Estrada Municipal,,Desp. c/ capotamento
+Arouca,2006:08:28 20:30:00,0,1,EM504,,Despiste simples
+"",,,,,,
+Concelho,Datahora,M*,FG*,Via,km,Natureza
+Arouca,2006:09:19 18:00:00,1,0,Estrada Municipal,,Desp. c/ capotamento
+Arouca,2006:09:23 11:15:00,0,1,Av. 25 de Abril,,Col.lat. c/ veic. em mov.
+Arouca,2006:11:26 23:00:00,0,1,Estrada Municipal,,Despiste simples
+Aveiro,2006:02:07 17:20:00,0,1,R. Cavalas,,Col.lat. c/ veic. em mov.
+Aveiro,2006:02:26 07:00:00,0,1,EN235,"10,100",Desp. c/ capotamento
+Aveiro,2006:02:27 00:05:00,0,1,A1,"239,800",Desp.c/ transpos. disp. ret. lateral
+Aveiro,2006:02:27 16:25:00,0,1,R. Cónego Maio,,Atropelamento peões
+Aveiro,2006:03:28 22:35:00,0,1,R. República/R. Cabo Luis,,Col.lat. c/ veic. em mov.
+Aveiro,2006:03:31 15:15:00,0,1,R. Direita,,Colisão frontal
+Aveiro,2006:05:04 08:50:00,0,1,R. Dr. Alberto Souto,,Atropelamento peões
+Aveiro,2006:05:15 11:00:00,1,0,R. Brejeira,,Despiste simples
+Aveiro,2006:05:18 09:50:00,0,1,EN109,,Colisão frontal
+Aveiro,2006:05:21 06:50:00,0,1,EN16,"3,050",Desp.c/ col. c/ veic. imob. ou obst.
+Aveiro,2006:05:24 18:50:00,0,1,EN109,"56,800",Col.lat. c/ veic. em mov.
+Aveiro,2006:05:27 20:20:00,0,1,R. Andorinhas,,Desp. c/ capotamento
+Aveiro,2006:05:28 07:15:00,0,1,R. Direita,,Despiste simples
+Aveiro,2006:05:29 19:30:00,0,2,A25,"12,800",Desp. c/ capotamento
+Aveiro,2006:05:31 09:20:00,0,1,A25,"18,272",Despiste simples
+Aveiro,2006:06:21 17:00:00,0,1,R. Alabarium,,Col.lat. c/ veic. em mov.
+Aveiro,2006:06:28 18:00:00,0,1,R. Direita,,Atropelamento c/ fuga
+Aveiro,2006:06:29 12:35:00,0,1,Av. Universidade,,Atropelamento peões
+Aveiro,2006:06:30 16:30:00,0,1,R. D. Francisco,,Col. c/ outras situações
+Aveiro,2006:07:10 19:30:00,0,1,R. Direita,,Colisão frontal
+Aveiro,2006:07:11 16:00:00,0,2,Av. Artur Navarra,,Atropelamento peões
+Aveiro,2006:07:16 20:45:00,0,1,R. Vila Nova,,Colisão frontal
+Aveiro,2006:08:05 14:10:00,0,1,A1,"234,800",Despiste simples
+Aveiro,2006:08:11 08:10:00,0,2,EN109,"56,800",Col.lat. c/ veic. em mov.
+Aveiro,2006:09:01 13:00:00,0,1,Av. Granja,,Col.lat. c/ veic. em mov.
+Aveiro,2006:09:12 01:20:00,0,1,R. Cabreira,,Col.c/ veic. ou obst. faixa rod.
+Aveiro,2006:10:07 12:25:00,0,1,R. Eng. A. Amaro Costa,,Atropelamento peões
+Aveiro,2006:10:28 22:40:00,0,1,EN109,"56,000",Atropelamento peões
+Aveiro,2006:11:13 10:20:00,0,1,R. República,,Col.lat. c/ veic. em mov.
+Aveiro,2006:11:21 01:07:00,1,0,A25,"17,147",Atropelamento peões
+Aveiro,2006:12:12 22:30:00,0,2,EN9-1,,Despiste c/ fuga
+Aveiro,2006:12:14 15:40:00,0,2,EN109,"58,500",Col.lat. c/ veic. em mov.
+Aveiro,2006:12:16 18:00:00,2,0,EN109,"39,500",Colisão frontal
+Aveiro,2006:12:18 13:00:00,0,1,R. Direita,,Col.lat. c/ veic. em mov.
+Castelo de Paiva,2006:04:12 19:45:00,0,1,EN222,"35,580",Atropelamento peões
+Espinho,2006:04:22 22:45:00,1,0,R. Quartel,,Desp.c/ col. c/ veic. imob. ou obst.
+Espinho,2006:06:02 20:50:00,0,1,R. Padre Sá,,Col.lat. c/ veic. em mov.
+Espinho,2006:06:22 20:30:00,0,1,R. Covinha/R. 33,,Col.lat. c/ veic. em mov.
+Espinho,2006:06:29 14:30:00,0,1,Lg. Souto,,Colisão frontal
+Espinho,2006:08:21 19:00:00,0,1,R. 19/R. 36,,Atropelamento peões
+Estarreja,2006:01:25 13:25:00,0,1,A29,"11,900",Colisão choque em cadeia
+Estarreja,2006:02:15 19:45:00,1,0,R. António M. Silva Pinho,,Atropelamento peões
+Estarreja,2006:02:24 06:00:00,1,0,A29,"13,125",Col. traseira c/ veic. em mov.
+Estarreja,2006:02:25 09:30:00,0,1,R. Adou Cima,,Atropelamento peões
+Estarreja,2006:03:03 22:05:00,0,1,R. Moinhos Carvalho,,Col.lat. c/ veic. em mov.
+Estarreja,2006:04:01 18:45:00,0,1,Est. S. Filipe,,Desp.c/ col. c/ veic. imob. ou obst.
+Estarreja,2006:04:21 11:20:00,0,1,R. Dr. Egas Moniz,,Col. traseira c/ veic. em mov.
+Estarreja,2006:06:08 09:00:00,0,1,R. António M. Silva Pinho,,Col.lat. c/ veic. em mov.
+Estarreja,2006:06:08 09:10:00,0,1,R. Dr. Egas Moniz,,Colisão com fuga
+Estarreja,2006:06:26 20:50:00,0,1,R. Dr. António D. Oliveira,,Col.lat. c/ veic. em mov.
+Estarreja,2006:07:11 17:30:00,0,1,EN224,,Col.lat. c/ veic. em mov.
+Estarreja,2006:07:29 21:15:00,0,1,R. Olas,,Despiste simples
+Estarreja,2006:11:05 00:05:00,0,2,EN109,"41,750",Col.lat. c/ veic. em mov.
+"Ílhavo",2006:01:09 09:30:00,0,1,Av. José Estevão,,Col. traseira c/ v eic. em mov.
+"",,,,,,
+Concelho,Datahora,M*,FG*,Via,km,Natureza
+"Ílhavo",2006:03:16 18:20:00,0,2,Av. Cavaleiros,,Col.lat. c/ veic. em mov.
+"Ílhavo",2006:04:25 02:45:00,0,1,Arruamento,,Desp. s/ dispos. retenção
+"Ílhavo",2006:08:05 11:20:00,0,1,R. João Marques,,Atropelamento c/ fuga
+"Ílhavo",2006:08:10 22:00:00,0,1,R. Ílhavo,,Col.lat. c/ veic. em mov.
+"Ílhavo",2006:08:17 02:00:00,2,1,Rot. Barra,,Desp. c/ capotamento
+"Ílhavo",2006:11:25 16:40:00,1,0,R. Camilo Castelo Branco,,Colisão frontal
+"Ílhavo",2006:11:27 19:00:00,1,0,R. Vista Alegre,,Despiste simples
+"Ílhavo",2006:12:08 19:45:00,0,1,R. D. Manuel Trindade,,Col.lat. c/ veic. em mov.
+"Ílhavo",2006:12:16 18:05:00,0,1,R. Ílhavo,,Col.lat. c/ veic. em mov.
+"Ílhavo",2006:12:23 14:30:00,0,1,R. Padre António Diogo,,Col.lat. c/ veic. em mov.
+Mealhada,2006:01:17 23:55:00,1,0,EN327,"50,400",Desp. c/ capotamento
+Mealhada,2006:01:20 14:00:00,0,1,R. Vila,,Despiste simples
+Mealhada,2006:02:02 18:30:00,0,1,Estrada Municipal,,Despiste simples
+Mealhada,2006:02:10 21:00:00,0,1,IC2,"202,400",Atropelamento peões
+Mealhada,2006:02:19 19:40:00,0,1,IC2,"201,000",Colisão frontal
+Mealhada,2006:03:20 14:10:00,0,2,R. Luso,,Col.lat. c/ veic. em mov.
+Mealhada,2006:05:09 13:15:00,0,1,IC2,"202,000",Atropelamento peões
+Mealhada,2006:06:26 11:20:00,0,1,EN234,"30,400",Col.lat. c/ veic. em mov.
+Mealhada,2006:07:28 19:00:00,0,1,R. Sazes,,Desp. s/ dispos. retenção
+Mealhada,2006:08:16 12:45:00,0,1,IC2,"205,000",Col.c/ veic. ou obst. faixa rod.
+Mealhada,2006:10:30 08:20:00,0,1,EN1,"201,500",Col.lat. c/ veic. em mov.
+Mealhada,2006:11:10 16:45:00,0,1,A1,"202,730",Desp. c/ capotamento
+Mealhada,2006:11:13 19:20:00,0,1,R. Fonte,,Col.lat. c/ veic. em mov.
+Mealhada,2006:12:26 23:15:00,0,3,A1,"213,650",Col. traseira c/ veic. em mov.
+Murtosa,2006:05:20 02:00:00,1,0,R. Mestras,,Desp.c/ col. c/ veic. imob. ou obst.
+Murtosa,2006:07:23 19:40:00,0,1,EN327,"40,600",Col.lat. c/ veic. em mov.
+Ol. de Azeméis,2006:01:10 15:20:00,0,1,IC2,"259,720",Col. traseira c/ veic. em mov.
+Ol. de Azeméis,2006:01:19 21:45:00,0,1,R. Conde Penha Longa,,Atropelamento peões
+Ol. de Azeméis,2006:01:21 12:45:00,0,1,EN224,"55,450",Colisão frontal
+Ol. de Azeméis,2006:01:23 08:10:00,1,0,R. Sanfins,,Colisão frontal
+Ol. de Azeméis,2006:02:06 17:10:00,0,1,R. Mosteiro,,Atropelamento peões
+Ol. de Azeméis,2006:02:21 10:05:00,0,1,Av. Ferreira Castro,,Atropelamento peões
+Ol. de Azeméis,2006:03:13 19:25:00,0,1,R. Fundo Lugar,,Despiste simples
+Ol. de Azeméis,2006:03:14 19:10:00,0,1,R. Ribeira Ul,,Atropelamento peões
+Ol. de Azeméis,2006:04:06 15:05:00,1,1,A1,"260,000",Col. traseira c/ veic. em mov.
+Ol. de Azeméis,2006:04:07 09:10:00,1,0,IC2,"268,710",Colisão frontal
+Ol. de Azeméis,2006:04:16 01:45:00,3,1,IC2,"257,000",Colisão frontal
+Ol. de Azeméis,2006:04:28 12:15:00,0,1,R. Mosteiro,,Atropelamento peões
+Ol. de Azeméis,2006:05:07 03:59:00,1,0,R. D. Manuel II,,Despiste simples
+Ol. de Azeméis,2006:05:09 21:00:00,0,1,Est. Principal,,Colisão frontal
+Ol. de Azeméis,2006:05:18 10:00:00,0,1,Estrada Municipal,,Col.lat. c/ veic. em mov.
+Ol. de Azeméis,2006:05:25 18:10:00,0,1,R. Bombeiros Voluntários,,Atropelamento peões
+Ol. de Azeméis,2006:06:25 08:30:00,0,1,IC2,"256,910",Colisão frontal
+Ol. de Azeméis,2006:06:29 13:30:00,0,1,R. Leonardo Azevedo,,Despiste simples
+Ol. de Azeméis,2006:07:16 07:35:00,0,1,R. Misericórdia,,Atropelamento peões
+Ol. de Azeméis,2006:08:02 18:30:00,0,1,R. D. Urraca Moreira,,Desp.c/ col. c/ veic. imob. ou obst.
+Ol. de Azeméis,2006:08:19 22:45:00,0,1,IC2,"267,900",Desp. s/ dispos. retenção
+Ol. de Azeméis,2006:08:29 08:00:00,0,1,Tv. Caminho Moinhos,,Despiste simples
+Ol. de Azeméis,2006:09:13 21:00:00,1,0,R. Avenal,,Colisão frontal
+Ol. de Azeméis,2006:09:30 03:50:00,1,0,R. Dr. Albino Reis,,Despiste simples
+Ol. de Azeméis,2006:09:30 10:15:00,0,2,R. João Fernando Oliveira,,Col.lat. c/ veic. em mov.
+Ol. de Azeméis,2006:10:23 00:20:00,0,1,IC2,"264,700",Desp. c/ capotamento
+Ol. de Azeméis,2006:11:03 15:40:00,0,1,R. D. João I,,Atropelamento peões
+Ol. de Azeméis,2006:11:11 16:00:00,0,1,R. Joaquim A. S. Carvalho,,Despiste simples
+Oliveira do Bairro,2006:01:25 10:45:00,0,1,R. Conde Águeda,,Col.lat. c/ veic. em mov.
+Oliveira do Bairro,2006:02:27 21:00:00,1,0,EN335,"14,900",Atropelamento peões
+Oliveira do Bairro,2006:03:31 03:50:00,0,1,Estrada Municipal,,Despiste simples
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Oliveira do Bairro,2006:04:02 12:15:00,0,1,EN235,,"12,100",Col.lat. c/ veic. em mov.
+Oliveira do Bairro,2006:06:15 22:20:00,1,1,EN333-1,,"6,800",Colisão frontal
+Oliveira do Bairro,2006:07:16 11:10:00,0,1,R. Carro Quebrado,,,Despiste simples
+Oliveira do Bairro,2006:08:16 19:15:00,0,2,EN335,,"15,800",Colisão frontal
+Oliveira do Bairro,2006:10:09 12:40:00,0,1,R. Cabeço,,,Col.lat. c/ veic. em mov.
+Oliveira do Bairro,2006:12:02 11:10:00,0,1,R. Arieiro Baixo,,,Atropelamento peões
+Oliveira do Bairro,2006:12:03 21:45:00,0,1,A1,,"229,950",Desp.c/ col. c/ veic. imob. ou obst.
+Oliveira do Bairro,2006:12:05 17:50:00,0,1,EM596,,,Atropelamento peões
+Ovar,2006:02:15 16:00:00,0,1,A29,,"20,275",Atropelamento peões
+Ovar,2006:02:21 19:10:00,0,1,R. Sebastião M. Ferreira,,,Atropelamento peões
+Ovar,2006:03:16 17:45:00,0,1,R. Ponte Reada,,,Colisão frontal
+Ovar,2006:03:31 00:45:00,0,1,EN223,,"25,850",Colisão frontal
+Ovar,2006:04:02 12:10:00,0,1,EN109,,"39,600",Colisão frontal
+Ovar,2006:05:09 19:45:00,0,1,R. Bragança Andrade,,,Desp.c/ col. c/ veic. imob. ou obst.
+Ovar,2006:07:08 00:50:00,0,1,EN109,,"36,000",Col.c/ veic. ou obst. faixa rod.
+Ovar,2006:08:02 23:00:00,1,0,ACC-A29,,,Colisão frontal
+Ovar,2006:09:02 12:40:00,1,1,A1,,"268,060",Desp.c/ transpos. disp. ret. lateral
+Ovar,2006:09:15 15:45:00,0,2,A29,,"33,800",Col.c/ veic. ou obst. faixa rod.
+Ovar,2006:09:20 08:20:00,0,3,A29,,"18,750",Desp. c/ capotamento
+Ovar,2006:09:27 18:45:00,1,0,R. Manuel Lopes Condes,,,Atropelamento peões
+Ovar,2006:10:11 07:10:00,1,0,AV. Dr. F. Sá Carneiro,,,Col.c/ veic. ou obst. faixa rod.
+Ovar,2006:10:20 14:30:00,0,1,EN109,,"36,600",Col.c/ veic. ou obst. faixa rod.
+Ovar,2006:10:20 17:55:00,1,0,Estrada Municipal,,,Desp.c/ col. c/ veic. imob. ou obst.
+Ovar,2006:11:19 01:20:00,1,0,A29,,"25,100",Col. traseira c/ veic. em mov.
+Ovar,2006:12:03 05:20:00,1,0,A29,,"35,100",Desp. c/ capotamento
+Ovar,2006:12:08 20:10:00,0,1,A1,,"266,080",Despiste simples
+Ovar,2006:12:20 17:50:00,0,1,R. 13 de Maio,,,Atropelamento peões
+Sta. Maria da Feira,2006:02:05 14:20:00,0,1,EN1,,"279,900",Col.c/ veic. ou obst. faixa rod.
+Sta. Maria da Feira,2006:02:09 03:15:00,1,0,R. Pereiro,,,Despiste simples
+Sta. Maria da Feira,2006:02:09 08:11:00,0,1,R. Centro Social,,,Atropelamento peões
+Sta. Maria da Feira,2006:02:11 19:30:00,1,0,Av. Seixa,,,Despiste simples
+Sta. Maria da Feira,2006:02:25 07:30:00,0,1,R. Bernardo F. Pinheiro,,,Desp.c/ col. c/ veic. imob. ou obst.
+Sta. Maria da Feira,2006:03:04 11:15:00,0,1,AV. Dr. F. Sá Carneiro,,,Atropelamento peões
+Sta. Maria da Feira,2006:03:05 03:00:00,0,1,EN1,,"288,000",Despiste simples
+Sta. Maria da Feira,2006:03:06 12:20:00,1,0,A1,,"278,680",Atropelamento peões
+Sta. Maria da Feira,2006:03:26 02:20:00,0,1,EN1,,"279,500",Col. traseira c/ veic. em mov.
+Sta. Maria da Feira,2006:04:03 11:45:00,0,1,R. Pq. S. Pedro,,,Desp.c/ col. c/ veic. imob. ou obst.
+Sta. Maria da Feira,2006:04:08 23:45:00,0,1,R. Comendador Sá Couto,,,Colisão frontal
+Sta. Maria da Feira,2006:04:30 20:50:00,0,1,R. Outeiro,,,Despiste simples
+Sta. Maria da Feira,2006:05:09 19:50:00,0,1,R. S. José,,,Colisão frontal
+Sta. Maria da Feira,2006:05:16 11:20:00,0,1,R. Feira Dez,,,Col. traseira c/ veic. em mov.
+Sta. Maria da Feira,2006:05:27 17:45:00,0,1,EN233,,"15,100",Col.lat. c/ veic. em mov.
+Sta. Maria da Feira,2006:06:03 11:30:00,0,1,R. Estrada Nacional,,,Col. traseira c/ veic. em mov.
+Sta. Maria da Feira,2006:07:07 07:45:00,0,1,EN223,,"17,950",Col.lat. c/ veic. em mov.
+Sta. Maria da Feira,2006:07:07 19:45:00,0,1,Av. Monumentos,,,Col.lat. c/ veic. em mov.
+Sta. Maria da Feira,2006:07:12 12:15:00,1,1,EN223,,"11,800",Desp.c/ col. c/ veic. imob. ou obst.
+Sta. Maria da Feira,2006:07:12 19:40:00,0,1,R. António C. Côrte-Real,,,Col.lat. c/ veic. em mov.
+Sta. Maria da Feira,2006:07:20 13:00:00,0,1,R. Feira Dez,,,Col.lat. c/ veic. em mov.
+Sta. Maria da Feira,2006:07:22 11:15:00,0,1,R. Tapadinha,,,Col.lat. c/ veic. em mov.
+Sta. Maria da Feira,2006:07:29 12:30:00,0,1,EN1,,"281,300",Despiste simples
+Sta. Maria da Feira,2006:07:31 15:50:00,0,1,VE,,,Colisão frontal
+Sta. Maria da Feira,2006:08:06 01:00:00,0,1,EN327,,"23,000",Despiste simples
+Sta. Maria da Feira,2006:08:12 09:00:00,0,1,R. N. Sra. Lib.,Col.lat. c/ veic. em mov.
+Sta. Maria da Feira,2006:08:13 14:45:00,0,1,Av. Padrão,Col.lat. c/ veic. em mov.
+Sta. Maria da Feira,2006:08:26 18:30:00,0,1,R. Dr. Santos Carneiro,Colisão frontal
+Sta. Maria da Feira,2006:08:27 14:30:00,1,1,AV. Dr. F. Sá Carneiro,Colisão frontal
+Sta. Maria da Feira,2006:09:12 12:05:00,0,1,R. Viaduto,Col.lat. c/ veic. em mov.
+Concelho,Datahora,M*,FG*,Via,km,Natureza
+Sta. Maria da Feira,2006:09:14 07:40:00,0,1,T. Manotoce,,Col. c/ outras situações
+Sta. Maria da Feira,2006:10:01 03:10:00,1,2,EN1,"280,500",Desp.c/ col. c/ veic. imob. ou obst.
+Sta. Maria da Feira,2006:10:02 16:30:00,1,0,EN223,"21,100",Colisão frontal
+Sta. Maria da Feira,2006:10:05 04:40:00,0,2,EN1,"279,900",Col. traseira c/ veic. em mov.
+Sta. Maria da Feira,2006:10:08 13:40:00,0,1,A1,"279,450",Desp. c/ capotamento
+Sta. Maria da Feira,2006:10:10 12:40:00,0,1,R. Luis de Camões,,Atropelamento peões
+Sta. Maria da Feira,2006:10:18 12:15:00,0,1,R. Dr. Manuel Laranjeira,,Colisão frontal
+Sta. Maria da Feira,2006:10:24 12:40:00,0,1,R. Estrada Nacional,,Colisão frontal
+Sta. Maria da Feira,2006:11:05 16:10:00,0,1,Lugar Proselho,,Atropelamento peões
+Sta. Maria da Feira,2006:11:25 18:00:00,0,1,VAR-Romar,,Colisão frontal
+Sta. Maria da Feira,2006:12:14 18:30:00,0,1,EN326,"10,100",Atropelamento peões
+Sta. Maria da Feira,2006:12:28 16:20:00,0,1,EN223,"22,350",Atropelamento peões
+Sta. Maria da Feira,2006:12:29 14:00:00,0,1,R. Carvalhosa,,Despiste simples
+S. João da Madeira,2006:01:24 08:25:00,0,1,Av. Vale,,Col.lat. c/ veic. em mov.
+S. João da Madeira,2006:01:31 18:30:00,0,1,Av. Liberdade,,Atropelamento peões
+S. João da Madeira,2006:02:03 17:30:00,0,2,R. Camilo Castelo Branco,,Atropelamento peões
+S. João da Madeira,2006:03:08 18:00:00,0,1,R. Manuel L. Leite Júnior,,Atropelamento peões
+S. João da Madeira,2006:03:13 09:30:00,0,1,Av. Casaldelo,,Col.c/ veic. ou obst. faixa rod.
+S. João da Madeira,2006:03:24 16:00:00,0,1,R. Sapateiras,,Col.lat. c/ veic. em mov.
+S. João da Madeira,2006:04:03 18:05:00,0,1,R. Sto. António,,Atropelamento peões
+S. João da Madeira,2006:04:16 13:00:00,0,2,R. Manuel L. Leite Júnior,,Col.lat. c/ veic. em mov.
+S. João da Madeira,2006:05:30 08:20:00,0,1,Av. Renato Araújo,,Atropelamento peões
+S. João da Madeira,2006:06:08 20:15:00,0,1,Av. Liberdade,,Atropelamento peões
+S. João da Madeira,2006:06:09 08:30:00,1,0,Av. Bombeiros Voluntários,,Atropelamento peões
+S. João da Madeira,2006:06:27 00:30:00,0,1,R. Parrinho,,Atropelamento peões
+S. João da Madeira,2006:10:19 08:10:00,0,1,R. Bartolomeu Dias,,Atropelamento peões
+S. João da Madeira,2006:11:03 07:10:00,0,1,R. D. Afonso Henriques,,Col.lat. c/ veic. em mov.
+S. João da Madeira,2006:11:05 17:10:00,0,1,Av. Liberdade,,Atropelamento peões
+S. João da Madeira,2006:11:08 11:30:00,0,1,R. Prof. A. Amaro da Costa,,Col. traseira c/ veic. em mov.
+S. João da Madeira,2006:11:21 15:10:00,0,1,R. Visconde,,Atropelamento peões
+Sever do Vouga,2006:01:03 13:20:00,1,0,EN328,"25,200",Atropelamento peões
+Sever do Vouga,2006:01:16 08:00:00,0,1,EN328,"24,000",Colisão frontal
+Sever do Vouga,2006:03:11 16:45:00,0,4,EN333,"36,300",Colisão frontal
+Sever do Vouga,2006:03:18 22:25:00,0,1,EN328,"19,015",Atropelamento peões
+Sever do Vouga,2006:05:17 21:43:00,0,2,EN328,"20,050",Desp. c/ dispos. retenção
+Sever do Vouga,2006:07:24 15:05:00,0,1,EN328-1,"4,600",Col.lat. c/ veic. em mov.
+Sever do Vouga,2006:09:10 07:00:00,1,0,A25,"41,400",Atropelamento peões
+Sever do Vouga,2006:12:27 19:00:00,0,1,Estrada Municipal,,Desp. c/ capotamento
+Vagos,2006:02:25 03:45:00,1,0,R. Principal,,Desp. c/ capotamento
+Vagos,2006:03:16 12:15:00,1,0,R. Principal,,Despiste simples
+Vagos,2006:03:26 21:00:00,2,0,EN109,"69,200",Col.lat. c/ veic. em mov.
+Vagos,2006:04:25 18:30:00,1,0,R. Caminho Aveiro,,Desp.c/ col. c/ veic. imob. ou obst.
+Vagos,2006:06:21 06:55:00,1,0,Av. Parque de Campismo,,Col.lat. c/ veic. em mov.
+Vagos,2006:08:22 14:45:00,1,0,R. Fonte,,Desp. c/ capotamento
+Vagos,2006:09:18 18:00:00,0,1,R. Sta. Isabel,,Col.c/ veic. ou obst. faixa rod.
+Vagos,2006:11:15 18:00:00,0,1,R. Sta. Catarina,,Desp. c/ capotamento
+Vagos,2006:12:23 21:35:00,0,1,EN339,"3,000",Col. traseira c/ veic. em mov.
+Vale de Cambra,2006:02:05 21:10:00,0,2,Estrada Municipal,Col.c/ veic. ou obst. faixa rod.
+Vale de Cambra,2006:04:08 22:22:00,0,1,Rot. Moradal,Desp. s/ dispos. retenção
+Vale de Cambra,2006:08:13 22:40:00,0,1,R. Cumieira,Despiste simples
+Vale de Cambra,2006:09:09 14:30:00,0,1,Av. Nova Macinhata,Col.lat. c/ veic. em mov.
+"",,58,262,,

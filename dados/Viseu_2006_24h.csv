@@ -1,0 +1,175 @@
+"",,
+11. Listagem dos acidentes com mortos e/ou feridos graves,,
+"",,
+Concelho Datahora M* FG* Via,km,Natureza
+Armamar 2006:07:01 16:40:00 0 1 EN313,"145,550",Despiste simples
+Armamar 2006:09:26 17:20:00 0 4 Estrada Municipal,,Desp.c/capotamento
+Carregal do Sal 2006:02:24 13:50:00 0 1 Urbano Sul da Vila,,Colisão frontal
+Carregal do Sal 2006:10:14 21:00:00 0 1 R. Afonso Costa,,Despiste simples
+Castro Daire 2006:02:11 19:40:00 1 0 Estrada Municipal,,Col.c/veic.ou obst.na faixa de rod.
+Castro Daire 2006:04:10 05:00:00 0 1 A24,"117,400",Desp.c/capotamento
+Castro Daire 2006:06:15 19:45:00 1 1 Estrada Municipal,,Desp.c/capotamento
+Castro Daire 2006:09:06 13:50:00 0 2 EN2,"138,270",Despiste simples
+Castro Daire 2006:09:21 13:00:00 0 1 Estrada Municipal,,Despiste simples
+Cinfães 2006:03:12 18:30:00 0 1 Estrada Municipal,,Col.lat.c/outro veíc.em mov.
+Cinfães 2006:03:26 10:30:00 0 1 Estrada Municipal,,Colisão frontal
+Cinfães 2006:07:15 12:00:00 0 1 Estrada Municipal,,Desp.c/capotamento
+Cinfães 2006:07:17 17:00:00 0 1 Estrada Municipal,,Desp.c/capotamento
+Cinfães 2006:07:22 14:50:00 0 1 Estrada Municipal,,Col.lat.c/outro veíc.em mov.
+Cinfães 2006:10:31 21:15:00 0 1 EN222,"86,500",Despiste simples
+Cinfães 2006:10:31 22:15:00 0 1 EN222,"86,500",Despiste simples
+Lamego 2006:03:19 08:50:00 0 1 A24,"110,700",Desp.c/capotamento
+Lamego 2006:05:07 17:00:00 1 0 A24,"101,400",Desp.c/col.c/veíc.imobil.ou obst.
+Lamego 2006:07:19 00:20:00 0 1 EN226-1,"0,300",Despiste simples
+Lamego 2006:09:05 00:10:00 0 1 Av. 5 Outubro,,Col.lat.c/outro veíc.em mov.
+Lamego 2006:09:20 22:45:00 0 1 Estrada Municipal,,Despiste simples
+Lamego 2006:10:02 16:50:00 0 1 EM535,,Desp.c/capotamento
+Lamego 2006:12:20 07:30:00 1 0 EM535,,Desp.c/capotamento
+Mangualde 2006:01:15 06:55:00 0 1 IP5,"107,600",Desp.c/col.c/veíc.imobil.ou obst.
+Mangualde 2006:01:25 13:00:00 1 0 IP5,"115,000",Colisão frontal
+Mangualde 2006:03:19 16:10:00 1 0 IP5,"105,500",Colisão frontal
+Mangualde 2006:04:02 04:40:00 0 1 EN16,"114,550",Despiste simples
+Mangualde 2006:05:01 14:40:00 0 1 NO IP5,,Desp.c/capotamento
+Mangualde 2006:05:27 20:50:00 0 1 Sto. Amaro,,Despiste simples
+Mangualde 2006:06:26 00:20:00 0 1 A25,"121,400",Col.lat.c/outro veíc.em mov.
+Mangualde 2006:07:01 20:15:00 0 1 Qta. Lavoeira,,Desp.c/col.c/veíc.imobil.ou obst.
+Mangualde 2006:07:26 01:50:00 0 1 EM645,,Despiste simples
+Mangualde 2006:07:28 22:20:00 0 1 EN232,"3,200",Colisão frontal
+Mangualde 2006:08:20 19:00:00 0 1 EN234,"104,100",Col.lat.c/outro veíc.em mov.
+Mangualde 2006:09:12 05:25:00 1 0 A25,"100,500",Col.lat.c/outro veíc.em mov.
+Mangualde 2006:09:18 19:10:00 0 1 EN16,"118,600",Despiste simples
+Mangualde 2006:10:05 21:05:00 0 1 R. Principal,,Despiste simples
+Mangualde 2006:10:24 17:00:00 0 1 A25,"102,000",Despiste simples
+Mangualde 2006:11:13 13:15:00 0 1 R. Principal,,Despiste simples
+Mangualde 2006:12:28 14:30:00 0 1 EN232,"5,170",Atrop.de peões
+Moimenta da Beira 2006:01:21 20:15:00 1 0 EN226,"47,151",Atrop.de peões
+Moimenta da Beira 2006:03:05 02:30:00 1 0 EN323,"79,400",Atrop.de peões
+Moimenta da Beira 2006:07:30 16:30:00 1 1 EN226,"39,000",Col.lat.c/outro veíc.em mov.
+Moimenta da Beira 2006:09:17 15:15:00 1 0 R. Joaquim Guilherme Abreu,,Col.lat.c/outro veíc.em mov.
+Mortagua 2006:02:18 09:00:00 0 1 Tva. S. Cristóvão,,Atrop.de peões
+Mortagua 2006:04:08 11:35:00 1 0 R. Pau Mata,,Desp.c/capotamento
+Mortagua 2006:05:23 08:45:00 0 1 EN334-1,"9,400",Col.lat.c/outro veíc.em mov.
+Mortagua,2006:07:08 00:50:00,0,1,EN234,"51,300",Despiste simples
+Mortagua,2006:07:08 01:58:00,0,1,Estrada Municipal,,Desp.c/col.c/veíc.imobil.ou obst.
+Mortagua,2006:08:08 05:00:00,0,1,Estrada Municipal,,Desp.c/col.c/veíc.imobil.ou obst.
+Mortagua,2006:08:29 07:20:00,0,1,EN228,"76,900",Col.c/veic.ou obst.na faixa de rod.
+Mortagua,2006:08:29 07:20:00,0,1,EN228,"76,900",Col.tras.c/outro veíc.em mov.
+"",,,,,,,
+"",,,,,,,
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Mortagua,2006:09:20 18:45:00,0,1,EN334-1,,"7,000",Despiste simples
+Mortagua,2006:10:19 19:07:00,1,0,EN234,,"56,800",Colisão frontal
+Mortagua,2006:11:24 18:15:00,0,1,Av. Bombeiros Voluntários,,,Col.c/veic.ou obst.na faixa de rod.
+Mortagua,2006:11:26 15:30:00,0,1,EN234,,"47,000",Despiste simples
+Nelas,2006:02:06 17:10:00,0,1,EN234,,"86,500",Atrop.de peões
+Nelas,2006:04:05 19:10:00,1,0,EM644,,,Desp.c/capotamento
+Nelas,2006:07:20 15:45:00,1,0,Estrada Florestal,,,Desp.c/capotamento
+Nelas,2006:08:20 22:00:00,1,0,EM641-2,,,Despiste simples
+Nelas,2006:09:21 12:00:00,0,2,EN234,,"86,000",Desp.c/col.c/veíc.imobil.ou obst.
+Nelas,2006:09:29 12:30:00,0,1,IC12,,"21,200",Col.lat.c/outro veíc.em mov.
+Nelas,2006:10:05 12:00:00,0,2,IC12,,"21,200",Desp.c/capotamento
+Nelas,2006:12:23 12:30:00,0,1,EN231,,"14,400",Despiste simples
+Oliveira de Frades,2006:07:26 01:10:00,1,0,Estrada Municipal,,,Desp.c/capotamento
+Oliveira de Frades,2006:12:28 07:45:00,0,1,EM617,,,Colisão com fuga
+Penedono,2006:04:23 05:10:00,0,2,EN229,,"9,450",Col.c/veic.ou obst.na faixa de rod.
+Penedono,2006:10:03 08:10:00,0,1,Rampinha,,,Colisão frontal
+Resende,2006:01:08 16:40:00,1,0,Estrada Municipal,,,Despiste simples
+Resende,2006:04:02 08:20:00,1,2,EN222,,"116,037",Desp.c/transp.do disp.de ret.lat.
+Resende,2006:05:26 17:15:00,0,2,EN222,,"94,724",Colisão frontal
+Resende,2006:08:18 10:50:00,0,1,EN222,,"109,580",Col.lat.c/outro veíc.em mov.
+Resende,2006:09:17 11:00:00,0,4,EN222,,"100,084",Desp.c/capotamento
+Resende,2006:10:22 02:15:00,0,1,EN222,,"106,988",Despiste simples
+Santa Comba Dao,2006:04:07 16:20:00,0,1,Estrada Municipal,,,Despiste simples
+Santa Comba Dao,2006:12:07 16:20:00,0,1,IP3,,"80,900",Desp.c/capotamento
+S.J.Pesqueira,2006:04:26 21:15:00,0,1,R. do Caminho Velho,,,Colisão frontal
+S.J.Pesqueira,2006:07:19 16:00:00,0,2,EM504,,"2,000",Despiste simples
+S.J.Pesqueira,2006:11:13 12:20:00,0,1,EN222,,"160,646",Colisão frontal
+Sao Pedro do Sul,2006:02:11 16:20:00,0,1,EM1223,,,Colisão frontal
+Sao Pedro do Sul,2006:02:17 19:30:00,0,1,EN228,,"19,750",Atrop.de peões
+Sao Pedro do Sul,2006:03:04 17:40:00,0,1,EN227,,"62,012",Despiste simples
+Sao Pedro do Sul,2006:08:14 14:50:00,0,1,R. Cimo Vila,,,Colisão frontal
+Sao Pedro do Sul,2006:12:25 14:45:00,0,1,EN227,,"62,400",Despiste simples
+Satao,2006:07:31 23:30:00,0,1,EM581,,,Despiste simples
+Satao,2006:12:07 18:30:00,0,2,EN229,,"74,000",Col.lat.c/outro veíc.em mov.
+Sernancelhe,2006:06:22 23:55:00,0,1,EN229,,"24,986",Desp.c/col.c/veíc.imobil.ou obst.
+Tabuaco,2006:03:31 18:20:00,1,0,EN222,,"149,015",Col.lat.c/outro veíc.em mov.
+Tabuaco,2006:06:08 21:00:00,1,0,EN222,,"149,400",Desp.c/capotamento
+Tarouca,2006:04:09 20:00:00,0,1,EN329,,"2,500",Col.lat.c/outro veíc.em mov.
+Tondela,2006:03:05 03:20:00,0,2,Estrada Municipal,,,Despiste simples
+Tondela,2006:03:06 19:55:00,1,0,EN228,,"39,900",Atrop.de peões
+Tondela,2006:03:08 09:30:00,1,0,Estrada Municipal,,,Atrop.de peões
+Tondela,2006:03:16 23:26:00,1,0,EN337,,"35,900",Despiste simples
+Tondela,2006:03:24 19:00:00,0,1,EM627,,,Despiste simples
+Tondela,2006:03:25 08:55:00,0,1,Rot. Vila Rosa,,,Col.lat.c/outro veíc.em mov.
+Tondela,2006:04:09 10:15:00,0,1,Rot. Molelos,,,Col.lat.c/outro veíc.em mov.
+Tondela,2006:04:13 10:20:00,0,2,IP3,,"94,600",Colisão frontal
+Tondela,2006:04:20 09:50:00,0,1,IP3,,"102,700",Colisão frontal
+Tondela,2006:05:03 12:15:00,0,1,R S Brás,,,Colisão frontal
+Tondela,2006:05:07 15:35:00,0,1,EN328,,"45,200",Col.lat.c/outro veíc.em mov.
+Tondela,2006:05:26 18:10:00,0,1,EM627,,,Despiste simples
+Tondela,2006:05:26 22:50:00,0,2,EN230,,"69,000",Colisão frontal
+Tondela,2006:05:27 15:00:00,0,1,Av. Vela,,,Colisão frontal
+Tondela,2006:07:10 00:00:00,0,3,IP3,"102,700",Col.lat.c/outro veíc.em mov.
+Tondela,2006:07:14 16:45:00,0,1,IP3,"102,130",Desp.c/capotamento
+Tondela,2006:08:07 20:30:00,0,1,R. 25 Abril,,Desp.c/capotamento
+Tondela,2006:08:22 19:25:00,1,0,EM623-1,,Desp.c/capotamento
+Tondela,2006:08:25 01:30:00,1,0,EM628,,Desp.c/transp.do disp.de ret.lat.
+"",,,,,,
+Concelho,Datahora,M*,FG*,Via,km,Natureza
+Tondela,2006:08:27 00:40:00,0,5,Estrada Municipal,,Colisão frontal
+Tondela,2006:08:30 16:45:00,1,0,Estrada Municipal,,Desp.s/disposi.de ret.
+Tondela,2006:10:08 20:15:00,0,2,Variante,,Col.lat.c/outro veíc.em mov.
+Tondela,2006:10:09 16:02:00,1,0,Estrada Municipal,,Desp.c/capotamento
+Tondela,2006:10:11 19:00:00,1,0,R. Alagoa,,Desp.c/capotamento
+Tondela,2006:10:14 11:00:00,0,1,Av. Marques Costa,,Col.tras.c/outro veíc.em mov.
+Tondela,2006:10:14 17:30:00,0,1,R. S. Silvestre,,Desp.c/col.c/veíc.imobil.ou obst.
+Tondela,2006:10:25 10:50:00,0,1,IP3,"113,400",Colisão frontal
+Tondela,2006:11:19 01:00:00,0,2,Av. Abel Lacerda,,Desp.c/capotamento
+Tondela,2006:11:19 14:00:00,1,0,IP3,"104,100",Colisão frontal
+Tondela,2006:12:06 07:30:00,0,3,EN2,,Col.lat.c/outro veíc.em mov.
+Tondela,2006:12:31 16:20:00,0,1,EM632,,Despiste simples
+Vila Nova de Paiva,2006:01:12 19:20:00,0,1,EN329,"28,180",Colisão frontal
+Vila Nova de Paiva,2006:10:16 16:20:00,0,1,EN225,"86,700",Desp.s/disposi.de ret.
+Viseu,2006:01:07 10:08:00,0,1,R. do Casimiro / Alberto Sampaio,,Atrop.de peões
+Viseu,2006:01:21 20:30:00,0,1,EN16,"81,000",Despiste simples
+Viseu,2006:02:09 15:40:00,0,2,R. Principal,,Col.lat.c/outro veíc.em mov.
+Viseu,2006:02:20 08:20:00,0,1,Estr Silgueiros,,Atrop.de peões
+Viseu,2006:02:27 12:45:00,0,1,Estr. de Nelas,,Atropelamento com fuga
+Viseu,2006:04:06 13:30:00,0,2,EN2,"167,000",Col.lat.c/outro veíc.em mov.
+Viseu,2006:04:06 14:45:00,0,1,IP5,"81,822",Col.tras.c/outro veíc.em mov.
+Viseu,2006:04:28 07:50:00,1,0,Estrada Municipal,,Col.tras.c/outro veíc.em mov.
+Viseu,2006:05:06 23:20:00,1,0,Estrada Municipal,,Atrop.de peões
+Viseu,2006:05:21 03:00:00,0,1,Estr. Sátão,,Desp.c/capotamento
+Viseu,2006:05:28 02:20:00,0,1,R Heróis Lusitanos,,Colisão frontal
+Viseu,2006:06:01 07:00:00,0,1,EN337-1,"3,000",Atrop.de peões
+Viseu,2006:06:13 10:00:00,0,1,Av. Cid. Peniche/Pç Carlos Lopes,,Atrop.de peões
+Viseu,2006:06:16 16:15:00,1,1,EN229,"81,800",Colisão frontal
+Viseu,2006:06:23 08:55:00,0,1,Estrada Municipal,,Colisão com outras situações
+Viseu,2006:07:01 19:45:00,0,1,R. Cónego Barreiros,,Despiste simples
+Viseu,2006:07:18 00:55:00,0,2,Estr. de Nelas,,Col.tras.c/outro veíc.em mov.
+Viseu,2006:07:27 23:50:00,0,2,R. Pedro Álvares Cabral,,Col.tras.c/outro veíc.em mov.
+Viseu,2006:07:30 21:30:00,0,1,EN337,"17,000",Colisão frontal
+Viseu,2006:08:02 16:00:00,0,1,Pç. República,,Col.lat.c/outro veíc.em mov.
+Viseu,2006:08:03 16:00:00,1,0,IP5,"77,900",Colisão frontal
+Viseu,2006:08:03 16:25:00,1,0,Estrada Municipal,,Despiste simples
+Viseu,2006:08:12 21:00:00,1,1,Estr. Sátão,,Colisão frontal
+Viseu,2006:08:18 06:20:00,2,7,IP5,"81,570",Colisão frontal
+Viseu,2006:08:29 16:30:00,0,3,EN337-1,"3,300",Colisão frontal
+Viseu,2006:10:02 08:50:00,0,1,EN229,"82,100",Col.lat.c/outro veíc.em mov.
+Viseu,2006:10:23 19:00:00,0,1,EN16,"90,300",Atrop.de peões
+Viseu,2006:11:06 17:00:00,3,2,IP3,"113,000",Colisão frontal
+Viseu,2006:11:25 07:30:00,3,2,IP3,"113,600",Col.lat.c/outro veíc.em mov.
+Viseu,2006:11:30 08:55:00,0,1,Estr. de Nelas,,Col.lat.c/outro veíc.em mov.
+Viseu,2006:12:20 10:50:00,0,1,Rot. Vagueiros,,Col.lat.c/outro veíc.em mov.
+Viseu,2006:12:23 18:45:00,0,1,Av. Luis Martins,,Colisão choque em cadeia
+Viseu,2006:12:26 17:35:00,0,1,Av. Luis Martins,,Col.lat.c/outro veíc.em mov.
+Vouzela,2006:01:07 10:25:00,1,0,Estrada Municipal,,Desp.c/capotamento
+Vouzela,2006:01:23 08:40:00,0,1,EN228,"35,550",Col.lat.c/outro veíc.em mov.
+Vouzela,2006:01:29 18:15:00,1,0,EM602,,Desp.c/col.c/veíc.imobil.ou obst.
+Vouzela,2006:04:14 16:50:00,0,1,Estrada Municipal,,Desp.c/capotamento
+"",2006:06:07 19:45:00,,,,,
+Vouzela,2006:06:07 19:45:00,1,0,R. Antonio Correia,,Desp.c/capotamento
+Vouzela,2006:06:16 08:50:00,0,1,EN333,"2,905",Despiste simples
+Vouzela,2006:06:23 16:40:00,0,1,R. da Estação,,Atrop.de peões
+Vouzela,2006:10:13 19:30:00,1,0,EN332-2,"1,700",Atrop.de peões
+"",,48,170,,,

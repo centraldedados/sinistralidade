@@ -1,0 +1,126 @@
+"",,
+11. Listagem dos acidentes com mortos e/ou feridos graves,,
+"",,
+Concelho Datahora M* FG* Via,km,Natureza
+Belmonte 2007:11:25 16:30:00 0 1 A23,"92,700",Col. tras. c/ outro veíc. mov.
+Belmonte 2007:06:30 01:30:00 0 1 A23,"194,300",Despiste simples
+Castelo Branco 2007:03:06 18:15:00 0 2 EN18-8,"9,650",Colisão frontal
+Castelo Branco 2007:05:24 08:50:00 0 2 EM553,"16,700",Despiste c/ transp. disp. ret. lateral
+Castelo Branco 2007:12:18 20:30:00 1 1 EN352,"31,650",Despiste simples
+Castelo Branco 2007:11:29 20:40:00 0 1 EN352,"37,100",Despiste com capotamento
+Castelo Branco 2007:12:09 14:40:00 0 1 EN112,"82,000",Despiste c/ transp. disp. ret. lateral
+Castelo Branco 2007:10:11 15:50:00 0 1 EN112,"88,650",Colisão frontal
+Castelo Branco 2007:06:22 15:25:00 1 3 EN233,"91,200",Colisão frontal
+Castelo Branco 2007:07:05 10:15:00 0 2 EN233,"91,800",Colisão frontal
+Castelo Branco 2007:02:04 08:16:00 0 1 EN18,"92,020",Despiste simples
+Castelo Branco 2007:09:23 04:00:00 1 2 EN112,"92,400",Despiste com capotamento
+Castelo Branco 2007:07:24 11:30:00 0 1 EN18,"100,000",Despiste com capotamento
+Castelo Branco 2007:06:20 22:00:00 1 0 EN233,"100,100",Despiste simples
+Castelo Branco 2007:12:10 17:05:00 0 4 EN233,"100,100",Despiste com capotamento
+Castelo Branco 2007:12:04 19:15:00 0 1 EN233,"105,200",Despiste simples
+Castelo Branco 2007:06:24 09:00:00 0 1 EN233,"114,000",Col. lat. c/ outro veíc. mov.
+Castelo Branco 2007:04:15 01:45:00 0 1 EN233,"115,400",Col. c/ veíc./obst. f. rodagem
+Castelo Branco 2007:11:14 21:48:00 0 1 EN233,"115,400",Despiste simples
+Castelo Branco 2007:08:15 17:30:00 0 1 EN233,"119,300",Despiste com capotamento
+Castelo Branco 2007:10:21 18:30:00 1 0 EN233,"125,785",Col. tras. c/ outro veíc. mov.
+Castelo Branco 2007:08:25 07:25:00 0 3 A23,"127,900",Col. tras. c/ outro veíc. mov.
+Castelo Branco 2007:08:07 14:55:00 0 1 EN233,"130,800",Despiste simples
+Castelo Branco 2007:02:27 15:30:00 0 1 AV GEN HUMBERTO DELGADO,,Atropelamento peões
+Castelo Branco 2007:03:12 19:40:00 0 1 AV SRA ALTOS CEUS,,Despiste simples
+Castelo Branco 2007:04:24 18:30:00 0 1 R SRA ALTOS CEUS,,Atropelamento peões
+Castelo Branco 2007:04:27 13:45:00 0 1 R TAPADA,,Despiste c/ col c/ veíc. imob/obst.
+Castelo Branco 2007:05:25 16:40:00 0 1 R JOÃO LOPES,,Despiste simples
+Castelo Branco 2007:07:18 20:00:00 1 0 Estrada Municipal,,Despiste c/ col c/ veíc. imob/obst.
+Castelo Branco 2007:10:01 16:30:00 0 1 R S SEBASTIÃO,,Atropelamento peões
+Castelo Branco 2007:10:06 11:40:00 0 1 Estrada Municipal,,Despiste com capotamento
+Castelo Branco 2007:10:21 19:20:00 0 1 R PE CURA,,Despiste simples
+Castelo Branco 2007:11:08 19:10:00 0 1 AV GEN HUMBERTO DELGADO,,Atropelamento peões
+Castelo Branco 2007:11:15 11:15:00 0 1 AV 1 MAIO,,Atropelamento peões
+Castelo Branco 2007:11:17 18:10:00 0 2 EM1230,,Colisão frontal
+Castelo Branco 2007:12:15 13:55:00 0 1 EM1230,,Despiste simples
+Castelo Branco 2007:12:28 18:00:00 0 1 R ANTONIO SERGIO,,Col. c/ veíc./obst. f. rodagem
+Covilhã 2007:08:27 11:56:00 1 1 A23,"168,200",Col. tras. c/ outro veíc. mov.
+Covilhã 2007:02:26 13:00:00 0 1 EN230,"170,800",Despiste com capotamento
+Covilhã 2007:02:26 22:00:00 1 1 EN343-1,,Despiste simples
+Covilhã 2007:03:31 20:20:00 0 1 Estrada Florestal,,Despiste simples
+Covilhã 2007:08:25 18:30:00 0 1 EM506,,Despiste simples
+Covilhã 2007:08:29 02:10:00 0 1 ACC-EN18,,Atropelamento peões
+Covilhã 2007:10:08 18:10:00 0 1 AV S ROMÃO,,Atropelamento peões
+Fundão 2007:10:27 15:50:00 0 1 EN346,"18,974",Despiste c/ col c/ veíc. imob/obst.
+Fundão 2007:07:23 14:10:00 1 0 EN346,"34,000",Despiste com capotamento
+Fundão 2007:07:23 13:05:00 0 1 EN343,"46,817",Col. lat. c/ outro veíc. mov.
+Fundão,2007:01:12 14:40:00,0,4,EN343,"49,150",Colisão frontal
+Fundão,2007:09:14 21:00:00,0,2,A23,"148,200",Col. tras. c/ outro veíc. mov.
+Fundão,2007:09:14 21:58:00,0,1,A23,"149,600",Despiste com capotamento
+Fundão,2007:02:01 14:05:00,1,0,Outra Via - FERREA,"149,700",Despiste c/ col c/ veíc. imob/obst.
+Fundão,2007:10:13 00:10:00,1,0,A23,"162,600",Col. tras. c/ outro veíc. mov.
+"",,,,,,,
+"",,,,,,,
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Idanha-a-Nova,2007:08:14 13:20:00,0,1,EN353,,"10,000",Atropelamento peões
+Idanha-a-Nova,2007:05:19 12:15:00,0,1,EN353,,"13,300",Atropelamento peões
+Idanha-a-Nova,2007:06:30 16:50:00,0,1,EN240,,"14,600",Despiste simples
+Idanha-a-Nova,2007:07:29 04:00:00,1,0,EN354,,"30,800",Despiste simples
+Idanha-a-Nova,2007:08:30 17:00:00,0,1,EN353,,"32,450",Despiste simples
+Idanha-a-Nova,2007:12:10 22:30:00,0,1,EN353,,"35,800",Despiste simples
+Idanha-a-Nova,2007:03:17 05:15:00,1,0,EN233,,"78,400",Despiste simples
+Idanha-a-Nova,2007:01:13 03:05:00,0,1,AV PALMEIRAS,,,Despiste c/ col c/ veíc.
+"",,,,,,,imob/obst.
+Idanha-a-Nova,2007:04:09 12:35:00,0,1,Estrada Municipal,,,Colisão frontal
+Idanha-a-Nova,2007:07:19 08:20:00,0,1,Estrada Municipal,,,Colisão frontal
+Idanha-a-Nova,2007:12:13 08:30:00,1,0,Estrada Municipal,,,Despiste simples
+Oleiros,2007:08:03 19:40:00,0,1,EM538,,"3,100",Despiste com capotamento
+Oleiros,2007:05:19 10:30:00,0,1,EN351,,"7,600",Colisão frontal
+Oleiros,2007:03:08 20:45:00,1,0,R PRINCIPAL,,,Despiste simples
+Oleiros,2007:06:27 12:00:00,0,1,EM582,,,Colisão frontal
+Oleiros,2007:08:20 16:20:00,0,2,Estrada Florestal,,,Despiste com capotamento
+Oleiros,2007:11:28 23:30:00,0,1,EM538,,,Despiste simples
+Penamacor,2007:06:29 22:00:00,0,1,EM566,,"2,600",Despiste simples
+Penamacor,2007:06:25 16:35:00,0,1,EN233,,"52,200",Col. lat. c/ outro veíc. mov.
+Penamacor,2007:07:15 13:00:00,0,1,EN233,,"64,200",Despiste com capotamento
+Penamacor,2007:08:15 14:00:00,0,1,EN233,,"70,800",Despiste simples
+Penamacor,2007:07:06 20:35:00,0,1,EN332,,"155,857",Col. tras. c/ outro veíc. mov.
+Penamacor,2007:04:06 16:50:00,0,1,Estrada Municipal,,,Despiste simples
+Penamacor,2007:04:22 20:50:00,0,1,EM566-1,,,Col. tras. c/ outro veíc. mov.
+Penamacor,2007:06:21 20:00:00,0,1,Estrada Municipal,,,Colisão frontal
+Penamacor,2007:11:08 10:11:00,1,0,Estrada Municipal,,,Atropelamento peões
+Proença-a-Nova,2007:10:19 08:20:00,0,1,EM1325,,"0,400",Col. tras. c/ outro veíc. mov.
+Proença-a-Nova,2007:08:23 11:50:00,0,2,EN351,,"0,500",Despiste com capotamento
+Proença-a-Nova,2007:11:29 14:55:00,0,1,EM536,,"1,600",Colisão frontal
+Proença-a-Nova,2007:02:15 20:40:00,0,1,EN241,,"35,500",Col. c/ veíc./obst. f. rodagem
+Proença-a-Nova,2007:08:05 16:36:00,0,1,EN233,,"142,730",Despiste simples
+Proença-a-Nova,2007:11:18 00:05:00,0,2,EN233,,"149,000",Colisão frontal
+Proença-a-Nova,2007:06:03 17:40:00,0,1,EM1322,,,Col. lat. c/ outro veíc. mov.
+Sertã,2007:07:02 05:15:00,0,1,EN238,,"36,500",Despiste com capotamento
+Sertã,2007:08:06 14:30:00,0,1,EN238,,"43,400",Despiste simples
+Sertã,2007:03:12 18:15:00,1,1,IC8,,"109,523",Despiste c/ transp. disp. ret. lateral
+Sertã,2007:11:13 18:15:00,0,1,EN2,,"339,050",Atropelamento peões
+Sertã,2007:12:08 20:00:00,1,0,EN2,,"355,500",Col. lat. c/ outro veíc. mov.
+Sertã,2007:02:15 23:25:00,1,0,R PE JOSE M PATRICO,,,Despiste simples
+Sertã,2007:02:19 19:15:00,0,1,AV GONÇALO RODRIGUES,,,Atropelamento peões
+"",,,,CALDEIRA,,,
+Sertã,2007:04:04 07:55:00,0,1,EN2,,,Despiste c/ col c/ veíc. imob/obst.
+Sertã,2007:04:10 11:30:00,0,1,R PINHEIROS,,,Col. lat. c/ outro veíc. mov.
+Sertã,2007:04:11 19:00:00,0,1,EN238,,,Col. lat. c/ outro veíc. mov.
+Sertã,2007:04:29 14:00:00,0,1,Estrada Municipal,,,Despiste com capotamento
+Sertã,2007:08:08 00:50:00,0,1,Estrada Municipal,,,Despiste simples
+Sertã,2007:09:06 17:00:00,0,1,EM1241,,,Despiste simples
+Sertã,2007:09:08 03:30:00,0,1,ESTR MONTE,,,Colisão com fuga
+Sertã,2007:10:10 18:00:00,0,1,Estrada Municipal,Col. lat. c/ outro veíc. mov.
+Sertã,2007:10:20 13:50:00,0,1,Estrada Municipal,Despiste simples
+Sertã,2007:10:21 12:30:00,0,1,Estrada Florestal,Despiste simples
+Sertã,2007:10:21 16:40:00,0,1,Estrada Municipal,Despiste s/ disp. retenção
+Sertã,2007:10:24 10:44:00,1,0,Estrada Municipal,Col. lat. c/ outro veíc. mov.
+"",,,,,,,
+"",,,,,,,
+"",,,,,,,
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Sertã,2007:11:21 10:00:00,0,1,EM531-1,,,Atropelamento peões
+Sertã,2007:12:09 14:30:00,0,1,Estrada Municipal,,,Despiste simples
+Vila de Rei,2007:08:04 21:50:00,2,1,EN2,,"368,880",Colisão frontal
+Vila Velha Ródão,2007:11:05 19:15:00,13,7,A23,,"77,200",Col. lat. c/ outro veíc. mov.
+Vila Velha Ródão,2007:04:11 08:50:00,0,1,A23,"82,100",Despiste simples
+Vila Velha Ródão,2007:10:30 06:00:00,1,0,A23,"99,100",Atropelamento peões
+Vila Velha Ródão,2007:02:09 09:10:00,0,1,A23,"100,900",Col. tras. c/ outro veíc. mov.
+Vila Velha Ródão,2007:12:15 23:00:00,0,1,EM1373,,Despiste com capotamento
+"",,36,122,,,

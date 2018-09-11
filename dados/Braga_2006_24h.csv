@@ -1,0 +1,257 @@
+"",,
+11. Listagem dos acidentes com mortos e/ou feridos graves,,
+"",,
+Concelho Datahora M* FG* Via,km,Natureza
+Amares 2006:04:29 22:40:00 1 0 EM535,,Desp.c/ col. c/ veic. imob. ou obst.
+Amares 2006:05:10 15:05:00 0 1 EM1239,,Atropelamento peões
+Amares 2006:08:07 06:50:00 1 1 EN205,"46,957",Despiste simples
+Amares 2006:08:10 19:20:00 0 1 EM1247,,Col.lat. c/ veic. em mov.
+Amares 2006:11:27 19:45:00 0 1 EN205,"45,650",Colisão frontal
+Barcelos 2006:01:22 17:45:00 0 1 EN103,"20,900",Col.c/ veic. ou obst. faixa rod.
+Barcelos 2006:02:17 15:30:00 1 0 EN103,"14,100",Colisão frontal
+Barcelos 2006:03:12 03:15:00 1 0 R. Faial,,Desp.c/ col. c/ veic. imob. ou obst.
+Barcelos 2006:04:01 15:45:00 0 1 Rot. Oliveira,,Col.lat. c/ veic. em mov.
+Barcelos 2006:04:26 19:30:00 0 1 EN205,"19,600",Colisão frontal
+Barcelos 2006:04:30 19:30:00 0 2 EN204,"14,300",Desp.c/ transpos. disp. ret. lateral
+Barcelos 2006:05:11 00:20:00 0 1 EN205,"25,650",Desp. c/ capotamento
+Barcelos 2006:07:01 04:20:00 2 0 EN204,"18,900",Colisão frontal
+Barcelos 2006:07:01 15:55:00 1 0 EN103,"23,300",Col.lat. c/ veic. em mov.
+Barcelos 2006:07:23 09:30:00 0 1 Estrada Nacional,,Col.lat. c/ veic. em mov.
+Barcelos 2006:07:30 00:20:00 0 1 Estrada Nacional,,Colisão frontal
+Barcelos 2006:08:11 13:45:00 1 0 EN103,"31,200",Col.lat. c/ veic. em mov.
+Barcelos 2006:08:16 18:15:00 0 1 EN103-1,"2,400",Atropelamento peões
+Barcelos 2006:09:16 16:15:00 0 1 EN103,"43,650",Atropelamento peões
+Barcelos 2006:10:30 00:01:00 1 0 Outra Via,,Desp. c/ dispos. retenção
+Barcelos 2006:11:05 11:10:00 1 0 EM543,,Atropelamento peões
+Barcelos 2006:11:14 16:40:00 1 0 EN205,"30,850",Despiste simples
+Barcelos 2006:11:19 14:15:00 0 2 EN205,"30,900",Col.lat. c/ veic. em mov.
+Barcelos 2006:12:03 17:30:00 1 0 Lugar Quintela,,Atropelamento c/ fuga
+Barcelos 2006:12:06 15:15:00 2 3 EN103,"30,100",Colisão frontal
+Barcelos 2006:12:11 19:00:00 0 1 EN205,"25,100",Col. traseira c/ veic. em mov.
+Braga 2006:01:07 12:30:00 0 1 R. Naia,,Atropelamento peões
+Braga 2006:01:14 05:45:00 0 2 Via da Falperra,,Col.lat. c/ veic. em mov.
+Braga 2006:01:14 11:30:00 0 1 EN103,"47,350",Colisão frontal
+Braga 2006:01:15 13:40:00 0 1 Av. Padre Júlio Fragata,,Despiste simples
+Braga 2006:02:14 08:30:00 0 1 R. Bombeiros Voluntários,,Atropelamento peões
+Braga 2006:02:16 22:35:00 0 1 EN205-4,"14,100",Desp.c/ col. c/ veic. imob. ou obst.
+Braga 2006:02:21 15:15:00 0 1 Variante Real,"2,000",Despiste simples
+Braga 2006:02:27 13:30:00 0 1 R. Barbosas,,Col.lat. c/ veic. em mov.
+Braga 2006:03:03 10:40:00 0 1 R. S. Martinho/R. Ferraz,,Atropelamento peões
+Braga 2006:03:12 08:50:00 1 6 EN101,"90,100",Desp. c/ capotamento
+Braga 2006:03:14 10:10:00 0 1 Pç. do Comércio,,Atropelamento peões
+Braga 2006:03:27 18:45:00 0 1 EN205-4,"10,400",Atropelamento peões
+Braga 2006:03:31 06:25:00 0 1 R. P. Cruz/Pcta. E. Magistério,,Col.lat. c/ veic. em mov.
+Braga 2006:04:06 09:00:00 0 1 EN103,"46,100",Colisão frontal
+Braga 2006:04:20 09:50:00 0 1 R. Ten. Cor. Dias Pereira,,Col. traseira c/ veic. em mov.
+Braga 2006:04:30 02:00:00 0 1 EN205-4,,Col. traseira c/ veic. em mov.
+Braga 2006:05:02 10:45:00 0 1 R. Américo Ferreira Carvalho,,Atropelamento peões
+Braga 2006:05:21 20:30:00 0 1 EN205-4,"4,000",Colisão frontal
+Braga 2006:05:24 00:30:00 1 0 R. Portela,,Desp. c/ capotamento
+Braga 2006:05:28 00:20:00 0 1 Pq. Est. Estádio Mun. Braga,,Atropelamento c/ fuga
+Braga 2006:05:28 19:30:00 0 1 EN102,"134,750",Col.lat. c/ veic. em mov.
+Braga 2006:05:28 21:45:00 1 0 EN103,"37,150",Col.lat. c/ veic. em mov.
+Braga 2006:05:29 19:00:00 0 1 R. Bernardo Sequeira,,Atropelamento peões
+Braga 2006:06:01 16:00:00 0 1 Av. Barros Soares,,Atropelamento c/ fuga
+Braga 2006:06:07 19:15:00 0 1 R. Cidade do Porto,,Col.lat. c/ veic. em mov.
+Braga 2006:06:29 02:40:00 0 1 Av. Cávado,,Colisão frontal
+Braga,2006:06:30 19:45:00,0,1,R. Nova Naval,Atropelamento peões
+Braga,2006:07:02 21:30:00,0,1,Av. João XXI,Atropelamento peões
+Braga,2006:07:05 18:30:00,0,1,Lg. Monte D'arcos,Atropelamento peões
+Braga,2006:07:28 12:10:00,0,1,Av. João XXI,Col.lat. c/ veic. em mov.
+Braga,2006:07:28 21:45:00,0,1,Av. Estádio Mun. de Braga,Atropelamento peões
+"",,,,,,,
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Braga,2006:07:31 19:30:00,0,1,EN14,,"44,100",Despiste simples
+Braga,2006:08:05 03:18:00,1,0,EN14,,"38,815",Despiste simples
+Braga,2006:08:05 04:05:00,0,1,Av. João XXI/Av. 31 Janeiro,,,Despiste simples
+Braga,2006:08:05 14:04:00,0,2,EN102,,"47,068",Desp. c/ capotamento
+Braga,2006:08:06 01:40:00,0,2,EN103,,"33,700",Colisão frontal
+Braga,2006:08:09 18:45:00,0,1,Lg. Bombeiros de Nogueira,,,Atropelamento peões
+Braga,2006:08:17 17:30:00,0,1,EN101,,,Despiste c/ fuga
+Braga,2006:08:25 19:30:00,0,1,R. Nova Sacouteiro,,,Atropelamento peões
+Braga,2006:08:26 08:00:00,0,1,R. Andrade Corvo,,,Atropelamento peões
+Braga,2006:08:30 08:00:00,0,1,Av. I. Conceição/R. M. Airosa,,,Atropelamento peões
+Braga,2006:09:06 12:45:00,0,1,R. Burgo,,,Atropelamento peões
+Braga,2006:09:08 17:20:00,0,1,R. Espadanido,,,Atropelamento peões
+Braga,2006:09:12 11:10:00,0,1,R. Caires,,,Atropelamento peões
+Braga,2006:09:21 11:25:00,0,1,Estr. S. Martinho,,,Atropelamento peões
+Braga,2006:09:22 08:30:00,0,1,EN101,,,Desp.c/ col. c/ veic. imob. ou obst.
+Braga,2006:09:25 22:00:00,0,1,Av. Cávado,,,Col.lat. c/ veic. em mov.
+Braga,2006:10:08 12:15:00,0,1,Av. Liberdade,,,Atropelamento peões
+Braga,2006:10:16 11:10:00,1,0,R. Areal,,,Atropelamento peões
+Braga,2006:10:25 19:30:00,0,1,R. Outeiro,,,Atropelamento peões
+Braga,2006:10:30 17:45:00,0,1,Av. Artur Soares,,,Atropelamento peões
+Braga,2006:11:05 01:30:00,0,1,Rot. Parretas,,,Despiste simples
+Braga,2006:11:10 19:15:00,0,1,R. Caires/Tv. Caires,,,Atropelamento peões
+Braga,2006:12:03 22:15:00,0,1,Av. Padre Júlio Fragata,,,Despiste simples
+Braga,2006:12:08 12:20:00,0,1,Variante Sul,,,Colisão frontal
+Braga,2006:12:13 17:15:00,0,1,Av. João XXI,,,Atropelamento peões
+Braga,2006:12:15 10:30:00,0,1,R. Caires,,,Atropelamento peões
+Cabec. de Basto,2006:05:14 19:00:00,0,3,EN311,,"28,300",Desp. s/ dispos. retenção
+Cabec. de Basto,2006:11:12 00:55:00,0,1,EN205,,"102,080",Col.lat. c/ veic. em mov.
+Cabec. de Basto,2006:12:25 18:20:00,1,2,EM519,,,Colisão frontal
+Celorico de Basto,2006:05:28 10:40:00,1,0,EN210,,"29,250",Atropelamento peões
+Celorico de Basto,2006:06:04 18:30:00,0,1,EN206,,"69,300",Col.lat. c/ veic. em mov.
+Celorico de Basto,2006:09:14 09:30:00,0,2,EN210,,"14,468",Colisão frontal
+Esposende,2006:02:21 12:10:00,0,1,EN13,,"48,000",Col.lat. c/ veic. em mov.
+Esposende,2006:02:22 13:00:00,0,1,EN13,,"40,900",Col. traseira c/ veic. em mov.
+Esposende,2006:03:18 02:00:00,0,1,EN13,,"53,100",Despiste simples
+Esposende,2006:03:20 19:15:00,0,1,A28,,"51,100",Col. traseira c/ veic. em mov.
+Esposende,2006:04:14 13:00:00,0,1,EN13,,"47,000",Col. traseira c/ veic. em mov.
+Esposende,2006:07:30 15:00:00,1,1,R. S. Miguel,,,Desp.c/ col. c/ veic. imob. ou obst.
+Esposende,2006:08:13 03:30:00,0,1,R. Foz do Neiva,,,Despiste simples
+Esposende,2006:10:07 21:15:00,0,1,Rot. Apúlia,,,Desp. c/ capotamento
+Esposende,2006:11:06 07:50:00,0,1,EN13,,"40,700",Col.lat. c/ veic. em mov.
+Esposende,2006:11:26 15:55:00,1,1,A28,,"56,300",Desp.c/ transpos. disp. ret. lateral
+Esposende,2006:12:06 06:15:00,1,0,EN103,,"6,700",Despiste simples
+Fafe,2006:01:14 19:50:00,2,0,EN207,,"48,200",Desp.c/ col. c/ veic. imob. ou obst.
+Fafe,2006:02:17 18:30:00,0,1,Lugar Novo,,,Atropelamento peões
+Fafe,2006:03:13 10:30:00,0,1,EN207,,"46,800",Desp. c/ dispos. retenção
+Fafe,2006:03:30 19:20:00,0,1,R. Freiras,,,Colisão frontal
+Fafe,2006:04:16 16:00:00,0,1,Estrada Municipal,,,Col. traseira c/ veic. em mov.
+Fafe,2006:05:15 22:30:00,0,1,Lugar Damas,,,Desp. s/ dispos. retenção
+Fafe,2006:05:23 23:30:00,0,1,Estrada Municipal,,,Desp. c/ capotamento
+Fafe,2006:05:27 20:20:00,0,1,Estrada Municipal,,,Desp.c/ col. c/ veic. imob. ou obst.
+Fafe,2006:06:06 21:00:00,0,1,EN311,,"4,200",Desp.c/ transpos. disp. ret. lateral
+Fafe,2006:06:22 22:15:00,0,1,Estrada Municipal,,,Despiste simples
+Fafe,2006:07:04 17:30:00,1,0,Av. S. Jorge,,Col.lat. c/ veic. em mov.
+Fafe,2006:07:17 14:20:00,2,0,EN206,"55,538",Colisão frontal
+Fafe,2006:07:28 22:00:00,0,1,Lugar Novo,,Despiste simples
+Fafe,2006:08:04 22:45:00,1,0,Av. Sta. Comba,,Atropelamento peões
+Fafe,2006:08:08 18:00:00,1,0,EN311,"7,200",Desp. s/ dispos. retenção
+"",,,,,,,
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Fafe,2006:08:16 20:10:00,1,2,EN311,,"2,250",Colisão frontal
+Fafe,2006:08:21 21:30:00,0,1,R. Sabugal,,,Desp.c/ col. c/ veic. imob. ou obst.
+Fafe,2006:12:07 19:10:00,1,0,EN311,,"1,850",Atropelamento peões
+Fafe,2006:12:14 17:00:00,1,0,R. P. Gordo,,,Atropelamento peões
+Fafe,2006:12:15 19:00:00,0,1,EN201,,"65,250",Atropelamento peões
+Guimarães,2006:01:16 12:35:00,1,0,EN206,,"40,200",Desp. c/ capotamento
+Guimarães,2006:01:20 08:05:00,0,1,Estrada Municipal,,,Atropelamento peões
+Guimarães,2006:01:21 18:45:00,0,1,EN101,,"103,530",Atropelamento peões
+Guimarães,2006:01:22 13:30:00,0,1,R. Segade,,,Desp. c/ capotamento
+Guimarães,2006:01:29 07:30:00,0,1,Circular Urbana Guimarães,,,Desp. c/ capotamento
+Guimarães,2006:02:01 14:30:00,0,2,Variante,,,Col.lat. c/ veic. em mov.
+Guimarães,2006:02:03 21:00:00,0,1,R. 5 de Outubro,,,Colisão frontal
+Guimarães,2006:02:04 02:00:00,1,0,EN101,,"115,480",Atropelamento peões
+Guimarães,2006:02:06 23:00:00,1,0,EN310,,"16,065",Desp.c/ col. c/ veic. imob. ou obst.
+Guimarães,2006:02:08 12:15:00,0,1,EN103,,"40,600",Col.lat. c/ veic. em mov.
+Guimarães,2006:02:19 22:50:00,0,1,Variante,,,Desp.c/ transpos. disp. ret. lateral
+Guimarães,2006:02:27 17:30:00,0,1,R. D. Nuno Álvares Pereira,,,Col.lat. c/ veic. em mov.
+Guimarães,2006:03:03 18:40:00,0,1,A11,,"43,650",Colisão frontal
+Guimarães,2006:03:14 09:15:00,0,1,A7,,"37,538",Col. traseira c/ veic. em mov.
+Guimarães,2006:03:22 20:15:00,0,1,Av. Sta. Marta,,,Col.lat. c/ veic. em mov.
+Guimarães,2006:03:22 20:30:00,0,1,R. Cortes,,,Col.c/ veic. ou obst. faixa rod.
+Guimarães,2006:03:30 10:00:00,0,1,EN101,,"122,450",Colisão frontal
+Guimarães,2006:03:31 19:10:00,0,2,EN105,,"40,000",Col.lat. c/ veic. em mov.
+Guimarães,2006:04:09 04:00:00,0,1,EN310,,"7,820",Despiste simples
+Guimarães,2006:04:14 14:00:00,0,1,R. Sto. André,,,Col.c/ veic. ou obst. faixa rod.
+Guimarães,2006:04:21 07:20:00,0,1,EN101,,"44,000",Col. traseira c/ veic. em mov.
+Guimarães,2006:04:22 16:45:00,0,2,EN105,,,Desp.c/ col. c/ veic. imob. ou obst.
+Guimarães,2006:04:22 19:00:00,0,1,R. S. João,,,Colisão frontal
+Guimarães,2006:04:24 08:00:00,1,0,Al. S. Dionísio,,,Atropelamento peões
+Guimarães,2006:04:24 10:45:00,0,1,Rot. Escolheiro,,,Atropelamento peões
+Guimarães,2006:04:28 08:30:00,1,0,EN105,,"41,100",Colisão frontal
+Guimarães,2006:05:01 22:00:00,0,1,R. Outinho,,,Desp. c/ capotamento
+Guimarães,2006:05:09 19:30:00,0,1,R. Emílio Castelar,,,Despiste simples
+Guimarães,2006:05:14 18:30:00,0,1,Rot. Paço Vieira,,,Col.lat. c/ veic. em mov.
+Guimarães,2006:06:03 22:30:00,0,1,EN206,,,Despiste simples
+Guimarães,2006:06:10 23:35:00,0,1,EN105,,,Colisão frontal
+Guimarães,2006:06:17 16:10:00,0,2,Urbana,,,Colisão frontal
+Guimarães,2006:06:27 19:30:00,0,1,R. S. Cristóvão,,,Atropelamento peões
+Guimarães,2006:06:28 16:20:00,0,1,R. Sta. Justa,,,Colisão frontal
+Guimarães,2006:07:05 20:00:00,0,1,R. Belmiro Oliveira,,,Desp. c/ capotamento
+Guimarães,2006:07:07 23:15:00,1,0,EN310,,"8,800",Desp. c/ capotamento
+Guimarães,2006:07:25 14:45:00,0,1,EN101-2,,"7,900",Colisão frontal
+Guimarães,2006:08:10 21:50:00,0,1,R. Coaleia,,,Desp.c/ transpos. disp. ret. lateral
+Guimarães,2006:08:14 09:45:00,0,1,Qta. Requião,,,Atropelamento peões
+Guimarães,2006:08:19 05:50:00,0,1,R. N. Sra. Conceição,,,Col.lat. c/ veic. em mov.
+Guimarães,2006:08:21 08:55:00,0,2,R. Josefa Amaral Freitas,,,Col.lat. c/ veic. em mov.
+Guimarães,2006:08:25 08:50:00,0,1,Nó Castanheiro,,,Colisão frontal
+Guimarães,2006:09:07 21:10:00,0,1,Al. Alfredo Pimenta,,,Atropelamento peões
+Guimarães,2006:09:10 03:20:00,1,0,EN207-4,,"12,530",Atropelamento peões
+Guimarães,2006:09:23 13:25:00,1,0,Variante,,,Desp. c/ capotamento
+Guimarães,2006:09:27 00:00:00,0,1,R. Sto. António,,,Despiste simples
+Guimarães,2006:10:21 16:00:00,1,1,EN101,,,Despiste simples
+Guimarães,2006:10:25 22:45:00,0,1,R. António Costa,,,Colisão frontal
+Guimarães,2006:10:30 19:30:00,0,1,R. Sra. Misericórdia,Colisão frontal
+Guimarães,2006:10:30 20:30:00,0,1,R. Santos M. Costa,Atropelamento peões
+Guimarães,2006:11:06 18:00:00,1,0,R. S. João Baptista,Atropelamento peões
+Guimarães,2006:11:08 18:30:00,0,1,R. Salvado,Colisão com fuga
+Guimarães,2006:11:10 09:55:00,0,1,R. Cruz d' Argola,Atropelamento peões
+"",,,,,,,
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Guimarães,2006:11:11 20:30:00,0,1,EN101,,"103,250",Col.lat. c/ veic. em mov.
+Guimarães,2006:11:24 17:40:00,0,1,R. Rómulo de Carvalho,,,Atropelamento peões
+Guimarães,2006:11:26 00:00:00,0,1,R. Casas Novas,,,Atropelamento c/ fuga
+Guimarães,2006:12:13 17:00:00,0,1,R. Ribeira da Ponte,,,Atropelamento peões
+Guimarães,2006:12:19 17:30:00,0,1,R. António Costa,,,Atropelamento peões
+Guimarães,2006:12:20 13:00:00,0,1,P. Padre Francisco Rodrigues,,,Col.lat. c/ veic. em mov.
+Guimarães,2006:12:31 16:10:00,0,1,R. Arq. Marques da Silva,,,Col. traseira c/ veic. em mov.
+Póvoa de Lanhoso,2006:02:28 16:37:00,2,0,EN205,,"57,220",Col.lat. c/ veic. em mov.
+Póvoa de Lanhoso,2006:04:05 17:30:00,0,3,EN103,,"64,100",Colisão frontal
+Póvoa de Lanhoso,2006:04:29 15:30:00,0,1,Lugar Cruzeiro,,,Col.lat. c/ veic. em mov.
+Póvoa de Lanhoso,2006:05:28 17:30:00,0,1,EM600,,,Atropelamento animais
+Póvoa de Lanhoso,2006:06:09 04:00:00,1,1,EN205,,"66,520",Despiste simples
+Póvoa de Lanhoso,2006:08:02 07:20:00,0,1,EN205,,"58,600",Atropelamento peões
+Póvoa de Lanhoso,2006:10:07 10:00:00,0,1,EN103,,"53,750",Colisão frontal
+Póvoa de Lanhoso,2006:10:26 13:30:00,0,1,EN205,,"72,900",Despiste simples
+Póvoa de Lanhoso,2006:11:09 23:55:00,0,2,EN205,,"62,800",Colisão frontal
+Póvoa de Lanhoso,2006:12:12 17:40:00,0,1,EN103,,"54,090",Desp.c/ col. c/ veic. imob. ou obst.
+Terras de Bouro,2006:12:18 23:10:00,0,1,EN307,,"30,415",Atropelamento peões
+Vieira do Minho,2006:07:18 01:30:00,0,3,EN304,,,Despiste simples
+Vieira do Minho,2006:07:21 13:10:00,0,1,EM527,,,Col.lat. c/ veic. em mov.
+Vieira do Minho,2006:08:26 00:40:00,0,2,Estrada Municipal,,,Col.lat. c/ veic. em mov.
+Vieira do Minho,2006:11:22 18:23:00,1,0,EN304,,"86,300",Col.lat. c/ veic. em mov.
+V. N. de Famalicão,2006:01:01 06:30:00,0,1,EN206,,"25,700",Desp.c/ col. c/ veic. imob. ou obst.
+V. N. de Famalicão,2006:01:08 09:15:00,0,1,R. Joaquim José Oliveira,,,Desp. c/ dispos. retenção
+V. N. de Famalicão,2006:01:15 00:30:00,0,1,EN206,,"35,850",Col.lat. c/ veic. em mov.
+V. N. de Famalicão,2006:02:02 13:15:00,1,0,EN206,,"27,800",Despiste simples
+V. N. de Famalicão,2006:02:20 07:20:00,0,1,A3,,"37,400",Col.lat. c/ veic. em mov.
+V. N. de Famalicão,2006:03:03 00:15:00,0,1,R. P. Domingos Joaq. Pereira,,,Despiste simples
+V. N. de Famalicão,2006:03:13 14:15:00,0,1,EN204,,"43,400",Col.lat. c/ veic. em mov.
+V. N. de Famalicão,2006:03:14 08:10:00,0,1,R. Sampaio,,,Despiste simples
+V. N. de Famalicão,2006:03:17 17:00:00,0,2,EN204,,"40,500",Col.lat. c/ veic. em mov.
+V. N. de Famalicão,2006:03:26 19:11:00,0,2,Av. Principal Telhado,,,Desp. s/ dispos. retenção
+V. N. de Famalicão,2006:04:29 17:30:00,0,1,R. Sub-Carreira,,,Despiste simples
+V. N. de Famalicão,2006:05:02 17:30:00,0,1,Estrada Municipal,,,Atropelamento peões
+V. N. de Famalicão,2006:05:03 18:55:00,0,1,Estrada Municipal,,,Atropelamento peões
+V. N. de Famalicão,2006:05:15 10:00:00,0,1,R. Lumieiro,,,Colisão frontal
+V. N. de Famalicão,2006:05:25 15:10:00,0,1,EN204,,"34,500",Desp.c/ col. c/ veic. imob. ou obst.
+V. N. de Famalicão,2006:06:10 04:30:00,0,1,EN206,,"24,300",Despiste simples
+V. N. de Famalicão,2006:06:11 20:05:00,0,1,R. Fontaínhas,,,Atropelamento peões
+V. N. de Famalicão,2006:07:12 12:40:00,1,0,EN204,,"40,150",Colisão frontal
+V. N. de Famalicão,2006:07:29 23:30:00,1,1,Av. Marc. Humberto Delgado,,,Colisão frontal
+V. N. de Famalicão,2006:08:04 18:22:00,0,1,EN304,,"85,520",Colisão frontal
+V. N. de Famalicão,2006:08:06 04:00:00,0,1,EN14,,"21,000",Col.lat. c/ veic. em mov.
+V. N. de Famalicão,2006:08:11 20:15:00,0,1,EN206,,"13,838",Despiste simples
+V. N. de Famalicão,2006:08:12 16:15:00,0,1,EN206,,"15,030",Col. traseira c/ veic. em mov.
+V. N. de Famalicão,2006:08:12 20:00:00,0,1,EN14,,"34,300",Colisão frontal
+V. N. de Famalicão,2006:08:22 15:40:00,1,1,A3,,"34,760",Col.lat. c/ veic. em mov.
+V. N. de Famalicão,2006:08:22 17:00:00,0,1,EN206,,"14,300",Atropelamento peões
+V. N. de Famalicão,2006:09:27 18:00:00,0,1,R. Papa João Paulo II,,,Desp. c/ dispos. retenção
+V. N. de Famalicão,2006:10:03 12:30:00,1,0,EN14,,"21,200",Atropelamento peões
+V. N. de Famalicão,2006:10:14 12:20:00,0,1,Av. Dr. Carlos Bacelar,,,Col. traseira c/ veic. em mov.
+V. N. de Famalicão,2006:12:08 11:30:00,0,1,EN14,,"36,643",Colisão frontal
+V. N. de Famalicão,2006:12:23 14:30:00,0,2,EN14,,"33,100",Atropelamento peões
+V. N. de Famalicão,2006:12:24 13:20:00,0,2,R. Camilo Castelo Branco,,Colisão frontal
+V. N. de Famalicão,2006:12:25 02:30:00,0,1,EN14,"26,350",Despiste simples
+Vila Verde,2006:01:19 20:25:00,1,0,EN101,"80,600",Atropelamento peões
+Vila Verde,2006:01:31 08:05:00,0,1,Lugar Airo Pedregais,,Colisão frontal
+Vila Verde,2006:02:05 07:00:00,2,2,Lugar Senhor,,Desp. s/ dispos. retenção
+"",,,,,,,
+Concelho,Datahora,M*,FG*,,Via,km,Natureza
+Vila Verde,2006:03:05 12:15:00,1,0,EN201,,"55,164",Col.lat. c/ veic. em mov.
+Vila Verde,2006:06:19 11:00:00,0,1,EN205,,"37,650",Col.lat. c/ veic. em mov.
+Vila Verde,2006:07:15 20:40:00,1,0,R. Ribeirinha,,,Desp. c/ capotamento
+Vila Verde,2006:11:10 17:30:00,0,1,EN101,,"80,400",Atropelamento peões
+Vila Verde,2006:11:20 18:50:00,0,1,EN101,,"84,000",Atropelamento peões
+Vila Verde,2006:12:04 16:00:00,1,0,Lugar Cobrosa,,,Desp. c/ capotamento
+Vizela,2006:01:30 23:40:00,0,1,Estrada Municipal,,,Despiste simples
+Vizela,2006:02:18 18:10:00,0,1,VIM,,,Atropelamento peões
+Vizela,2006:04:10 14:45:00,1,0,Fórum Mercado Municipal,,,Col.lat. c/ veic. em mov.
+Vizela,2006:06:02 18:30:00,0,1,R. Com. João P. Magalhães,,Col. c/ outras situações
+Vizela,2006:12:14 14:20:00,0,1,EN207-1,"12,700",Colisão frontal
+Vizela,2006:12:16 22:04:00,0,3,R. Vila,,Despiste simples
+Vizela,2006:12:21 17:50:00,0,1,Variante,,Colisão frontal
+"",,60,237,,,

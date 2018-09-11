@@ -1,0 +1,63 @@
+"",
+11. Listagem dos acidentes com mortos e/ou feridos graves,
+"",
+Concelho Datahora M* FG* Km Via,Natureza
+"Almeida 2004:10:16 18:15:00 0 2 90,250 EN324",Despiste c/capotamento
+"Almeida 2004:10:01 04:30:00 2 0 63,800 EN332",Col. lat. c/veic. em mov.
+"Almeida 2004:10:21 13:30:00 1 0 1,750 EM1086",Despiste c/capotamento
+"Almeida 2004:09:01 10:15:00 0 2 65,200 EN322",Colisão frontal
+Almeida 2004:03:17 07:40:00 1 1 Acesso parque TIR,Despiste simples
+Almeida 2004:04:10 03:30:00 0 1 Av. das Tílias,Despiste simples
+"Almeida 2004:08:27 20:00:00 0 1 7,394 EN332",Despiste simples
+Almeida 2004:08:01 13:35:00 0 1 EM567,Despiste s/disp. de retenção
+Celorico Beira 2004:09:26 15:00:00 1 0 EM557-2,Despiste c/capotamento
+Celorico Beira 2004:10:17 16:00:00 0 1 EM554-3,Despiste simples
+"Celorico Beira 2004:02:26 16:45:00 1 1 136,800 IP5",Despiste simples
+"Celorico Beira 2004:01:31 06:00:00 0 1 155,400 EN16",Despiste s/disp. de retenção
+Celorico Beira 2004:06:25 18:30:00 0 2 EM554,Colisão frontal
+"Celorico Beira 2004:08:21 01:30:00 3 2 140,037 IP5",Colisão frontal
+"Celorico Beira 2004:10:08 16:15:00 0 1 134,100 EN102",Colisão frontal
+Figueira Castelo,
+Rodrigo 2004:04:22 16:45:00 1 0 EM604-1,Despiste c/capotamento
+Figueira Castelo,
+"Rodrigo 2004:07:25 00:45:00 0 1 115,650 EN221",Despiste c/capotamento
+Figueira Castelo,
+Rodrigo 2004:05:29 12:20:00 0 2 EM601,Despiste c/capotamento
+Figueira Castelo,
+Rodrigo 2004:04:26 17:10:00 1 0 EM604-1,Col. lat. c/veic. em mov.
+Figueira Castelo,
+"Rodrigo 2004:05:23 13:00:00 1 0 126,800 EN221",Despiste c/capotamento
+Figueira Castelo,
+"Rodrigo 2004:08:05 08:15:00 1 0 128,055 EN221",Despiste c/capotamento
+Fornos Algodres  2004:01:02 11:45:00 0 1 EM1094,Colisão com fuga
+"Fornos Algodres  2004:10:19 09:45:00 0 1 132,620 IP5",Colisão frontal
+"Fornos Algodres  2004:07:06 01:00:00 0 1 130,722 EN16",Despiste simples
+Gouveia 2004:11:18 17:30:00 0 1 R. Cerca,Colisão frontal
+"Gouveia 2004:01:21 14:05:00 1 0 118,800 EN17",Col. lat. c/veic. em mov.
+Gouveia 2004:02:15 19:00:00 0 1 R. Pe. Adelino Oliveira,Desp.c/colisão c/veíc.imob./obst.
+"Gouveia 2004:03:13 01:45:00 0 1 34,250 EN232",Despiste simples
+Gouveia 2004:03:11 21:30:00 0 2 EM523,Despiste simples
+"Gouveia 2004:03:20 16:15:00 0 1 0,200 EN330-1",Despiste simples
+"Gouveia 2004:03:25 09:15:00 0 1 105,927 EN17",Colisão frontal
+"Gouveia 2004:06:27 17:00:00 0 1 18,400 EN232",Despiste simples
+"Gouveia 2004:06:10 07:45:00 0 1 45,950 EN330",Despiste c/capotamento
+Gouveia 2004:10:12 16:00:00 0 1 Parque Intermarché,Atropelamento de peões
+"Gouveia 2004:10:15 10:55:00 0 1 37,700 EN330",Col. lat. c/veic. em mov.
+"Gouveia 2004:10:31 18:30:00 0 1 27,900 EN338-1",Despiste simples
+"Gouveia 2004:10:06 16:10:00 1 0 108,619 EN17",Desp.c/colisão c/veíc.imob./obst.
+"Gouveia 2004:11:18 23:15:00 0 1 4,500 EM532",Desp.c/colisão c/veíc.imob./obst.
+"Gouveia 2004:11:08 23:40:00 0 1 116,000 EN17",Colisão com fuga
+"Gouveia 2004:09:28 00:25:00 0 1 103,900 EN17",Desp.c/colisão c/veíc.imob./obst.
+"Gouveia 2004:07:10 22:30:00 0 3 115,600 EN17",Despiste c/capotamento
+"Gouveia 2004:07:20 20:55:00 1 0 34,945 EN330",Colisão frontal
+"Guarda 2004:01:10 23:30:00 1 2 159,450 IP5",Col. lat. c/veic. em mov.
+Guarda 2004:01:21 08:50:00 0 1 EM530,Col. lat. c/veic. em mov.
+"Guarda 2004:03:20 15:00:00 1 0 161,170 IP5",Desp.c/colisão c/veíc.imob./obst.
+"Guarda 2004:05:09 04:30:00 0 1 154,400 IP5",Desp. c/transp. disp. ret. lateral
+"Guarda 2004:08:16 08:00:00 0 1 153,650 IP5",Col. lat. c/veic. em mov.
+"Guarda 2004:11:23 00:00:00 0 2 5,452 EM531",Colisão frontal
+"Guarda 2004:12:14 02:40:00 1 0 177,780 EN221",Desp.c/colisão c/veíc.imob./obst.
+"Guarda 2004:12:10 08:30:00 0 2 170,330 A25",Despiste c/capotamento
+"Guarda 2004:12:19 00:50:00 0 1 159,600 IP5",Col. lat. c/veic. em mov.
+Guarda 2004:08:12 23:00:00 0 1 EM545,Despiste c/capotamento
+Guarda 2004:07:02 22:10:00 1 0 EM531,Colisão frontal

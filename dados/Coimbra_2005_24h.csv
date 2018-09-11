@@ -1,0 +1,61 @@
+"",
+11. Listagem dos acidentes com mortos e/ou feridos graves,
+"",
+Concelho Datahora M* FG* Km Via,Natureza
+"Arganil 2005:03:21 12:45:00 0 1 64,6 EN342",Col. lat.c/outro veíc.em mov.
+Arganil 2005:04:28 15:30:00 2 1 EM - Estrada Municipal,Desp. c/capotamento
+Arganil 2005:07:30 15:45:00 1 0 EM - Estrada Municipal,Desp. c/capotamento
+Cantanhede 2005:01:01 18:45:00 1 0 R. Casal,Atropel. peões
+"Cantanhede 2005:01:09 20:20:00 1 0 15,900 EN234",Despiste simples
+"Cantanhede 2005:01:21 15:40:00 0 1 5,100 EN335-1",Colisão frontal
+Cantanhede 2005:02:11 14:15:00 0 1 R. Principal,Col. lat.c/outro veíc.em mov.
+Cantanhede 2005:03:15 14:20:00 0 1 EM618,Colisão frontal
+"Cantanhede 2005:03:31 15:00:00 1 1 3,000 EN335-1",Col. lat.c/outro veíc.em mov.
+"Cantanhede 2005:04:21 12:15:00 0 1 2,300 EN234-1",Colisão frontal
+Cantanhede 2005:04:28 07:30:00 0 2 EN335-1,Col. lat.c/outro veíc.em mov.
+"Cantanhede 2005:05:16 15:45:00 2 0 203,820 A1",Col.tras.c/outro veíc.em mov.
+"Cantanhede 2005:06:01 14:20:00 1 0 7,265 EM583",Desp. c/capotamento
+"Cantanhede 2005:06:21 03:35:00 1 0 93,200 EN109",Col.c/veic.ou obst.na f.de rod.
+Cantanhede 2005:07:12 18:00:00 1 0 R. Valmoinho,Desp. c/capotamento
+"Cantanhede 2005:07:24 02:45:00 1 0 95,700 EN109",Col.tras.c/outro veíc.em mov.
+"Cantanhede 2005:08:03 14:20:00 0 1 25,700 EN234",Col. lat.c/outro veíc.em mov.
+Cantanhede 2005:08:29 02:15:00 1 0 EM583,Despiste simples
+Cantanhede 2005:09:05 21:35:00 0 1 R. N. Sra. Montouro,Desp.c/col.c/veíc.imobil.ou obst.
+Cantanhede 2005:09:18 08:30:00 1 0 R. Prof. Fern. Seara Oliveira,Col.tras.c/outro veíc.em mov.
+Cantanhede 2005:09:26 15:10:00 0 1 EM – Estrada Municipal,Col. lat.c/outro veíc.em mov.
+Cantanhede 2005:10:03 10:15:00 1 0 R. Encarnação,Desp. c/capotamento
+Cantanhede 2005:10:15 12:45:00 0 1 R. João Ruas,Col.c/veic.ou obst.na f.de rod.
+"Cantanhede 2005:10:27 11:10:00 0 1 2,100 EN234-1",Colisão frontal
+Coimbra 2005:01:03 20:20:00 0 1 R. Ceramica Ceres,Despiste simples
+Coimbra 2005:02:02 14:10:00 0 1 R. Miguel Torga,Col.tras.c/outro veíc.em mov.
+Coimbra 2005:02:07 12:45:00 0 1 Açude Ponte,Despiste simples
+"Coimbra 2005:02:09 06:25:00 0 1 6,210 EN17",Desp. c/capotamento
+Coimbra 2005:02:16 19:30:00 0 1 R. Principal,Atropel. peões
+"Coimbra 2005:02:23 19:45:00 2 0 185,976 A1",Col. lat.c/outro veíc.em mov.
+Coimbra 2005:02:24 18:00:00 0 1 Ac. Conimbriga,Col. lat.c/outro veíc.em mov.
+"Coimbra 2005:02:26 08:00:00 0 1 48,970 IP3",Colisão frontal
+"Coimbra 2005:02:27 02:25:00 0 1 177,400 EN1",Desp.c/col.c/veíc.imobil.ou obst.
+Coimbra 2005:03:05 20:15:00 1 0 EM536,Colisão frontal
+Coimbra 2005:03:13 22:00:00 1 0 Férrea,Col. lat.c/outro veíc.em mov.
+"Coimbra 2005:03:26 08:30:00 0 2 178,790 EN1",Colisão frontal
+Coimbra 2005:04:10 21:20:00 1 0 EN341,Atropel. peões
+Coimbra 2005:05:04 08:30:00 0 1 R. Carolina Micaelles,Atropel. peões
+"Coimbra 2005:05:10 06:10:00 1 0 183,150 EN1",Atropel. peões
+"Coimbra 2005:05:18 11:00:00 0 1 197,301 A1",Atropel. peões
+"Coimbra 2005:05:22 17:55:00 0 1 187,500 A1",Col.c/outras situações
+Coimbra 2005:05:22 22:06:00 0 1 R. Brigadeiro C. Cardoso,Despiste simples
+"Coimbra 2005:06:07 08:50:00 0 2 43,250 IP3",Col.choque em cadeia
+Coimbra 2005:06:13 11:45:00 0 1 Rua D. João III,Atropel. peões
+"Coimbra 2005:06:18 05:25:00 0 1 182,040 A1",Desp.c/disp.de ret.
+"Coimbra 2005:07:08 15:00:00 0 1 196,900 IC2",Atropel. peões
+Coimbra 2005:07:14 19:20:00 0 1 R. Pinheiro Chagas,Col. lat.c/outro veíc.em mov.
+Coimbra 2005:07:16 22:00:00 0 1 Av. António Portugal,Despiste simples
+"Coimbra 2005:09:05 13:05:00 0 1 27,200 EN111",Col.tras.c/outro veíc.em mov.
+"Coimbra 2005:09:20 06:15:00 0 1 194,425 A1",Col.tras.c/outro veíc.em mov.
+"Coimbra 2005:10:09 01:20:00 0 5 3,000 EN111-1",Colisão frontal
+"Coimbra 2005:10:12 16:45:00 0 1 177,150 EN1",Atropel. peões
+"Coimbra 2005:10:30 12:40:00 0 1 43,500 IP3",Desp. c/capotamento
+Coimbra 2005:11:04 18:30:00 1 0 IC2,Colisão frontal
+Coimbra 2005:11:14 18:50:00 1 0 R. Manuel Madeira,Col. lat.c/outro veíc.em mov.
+Coimbra 2005:12:23 18:20:00 0 1 R. Sto. Antonio,Despiste simples
+"Cond.-a-Nova 2005:01:23 23:15:00 0 1 28,800 EN342",Despiste simples

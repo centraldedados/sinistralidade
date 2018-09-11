@@ -1,0 +1,61 @@
+"",
+11. Listagem dos acidentes com mortos e/ou feridos graves,
+"",
+Concelho Datahora M* FG* Km Via,Natureza
+Albufeira 2005:02:20 05:45:00 0 4 EM526,Despiste c/ disp. de retenção
+Albufeira 2005:02:27 18:30:00 0 1 EM1287,Colisão frontal
+Albufeira 2005:03:02 08:15:00 0 1 Estrada Caliços,Atropelamento de peões
+Albufeira 2005:03:06 22:00:00 0 1 Av. Descobrimentos,Despiste simples
+Albufeira 2005:03:16 07:00:00 0 1 R. Sacadura Cabral,Atropelamento de peões
+"Albufeira 2005:04:24 06:30:00 1 1 70,300 EN125",Col.traseira c/veíc. em mov.
+"Albufeira 2005:05:23 16:00:00 3 2 234,200 A2",Despiste c/capotamento
+Albufeira 2005:06:02 18:45:00 0 1 EM526,Atropelamento de peões
+Albufeira 2005:07:12 18:00:00 0 1 EM - Estrada Municipal,Col. lateral c/veículo em mov.
+"Albufeira 2005:07:24 01:15:00 0 1 61,500 EN395",Despiste simples
+Albufeira 2005:07:31 10:00:00 0 2 EM526,Atropelamento de peões
+Albufeira 2005:08:02 11:30:00 0 1 Av. Inf. D. Henrique,Col. lateral c/veículo em mov.
+"Albufeira 2005:08:07 22:05:00 0 1 69,500 EN125",Col. lateral c/veículo em mov.
+Albufeira 2005:08:14 13:30:00 0 1 EM1289,Despiste s/disp. de retenção
+Albufeira 2005:08:17 20:05:00 0 1 R. 5 Outubro,Atropelamento de peões
+Albufeira 2005:08:20 19:30:00 0 1 Av. Inf. D. Henrique,Atropelamento de animais
+"Albufeira 2005:08:23 22:04:00 0 1 69,300 EN125",Col.traseira c/v eíc. em mov.
+"Albufeira 2005:09:02 17:50:00 0 1 57,800 EN395",Atropelamento de peões
+Albufeira 2005:09:07 02:45:00 0 1 EM526,Atropelamento de peões
+Albufeira 2005:09:17 20:29:00 0 1 EM1287,Atropelamento de peões
+"Albufeira 2005:09:24 15:10:00 1 0 51,000 A22",Colisão frontal
+Albufeira 2005:09:25 00:05:00 0 2 EM1281,Atropelamento de peões
+"Albufeira 2005:09:27 19:50:00 0 1 7,850 EN270",Despiste c/capotamento
+Albufeira 2005:10:02 03:48:00 0 1 C. Comercial Modelo,Colisão com outras situações
+"Albufeira 2005:10:15 07:00:00 0 1 20,100 EN269",Atropelamento de peões
+Albufeira 2005:10:20 22:30:00 1 0 EM - Estrada Municipal,Desp. c/col. c/veíc. imobil./obst.
+"Albufeira 2005:11:01 19:10:00 1 0 69,300 EN125",Colisão frontal
+Albufeira 2005:11:18 11:30:00 0 1 R. Dumferline,Atropelamento de peões
+Albufeira 2005:11:18 18:30:00 0 2 EM526,Colisão frontal
+"Albufeira 2005:12:06 12:40:00 1 0 75,850 EN125",Atropelamento com fuga
+Albufeira 2005:12:21 14:20:00 0 1 EM526,Despiste simples
+Albufeira 2005:12:21 20:33:00 1 0 EM1287,Despiste c/capotamento
+"Alcoutim 2005:01:11 19:15:00 1 0 88,100 EN122",Atropelamento de peões
+"Alcoutim 2005:03:07 19:15:00 1 0 113,700 EN124",Despiste com capotamento
+Alcoutim 2005:03:09 19:40:00 0 1 EM514,Col. lateral c/veículo em mov.
+Aljezur 2005:01:22 12:50:00 0 1 R. Praia Odeceixe,Col. c/veic.ou obst. faixa rod.
+"Aljezur 2005:04:04 11:45:00 0 1 150,800 EN120",Col. lateral c/veículo em mov.
+"Aljezur 2005:05:07 15:00:00 0 1 145,500 EN120",Despiste c/capotamento
+"Aljezur 2005:05:11 10:45:00 0 1 145,300 EN120",Despiste c/capotamento
+"Aljezur 2005:05:11 18:00:00 0 1 129,350 EN120",Colisão frontal
+"Aljezur 2005:06:10 01:15:00 0 1 136,000 EN120",Desp. c/col. c/veíc. imobil./obst.
+"Aljezur 2005:07:21 18:00:00 0 2 129,339 EN120",Colisão frontal
+"Aljezur 2005:09:26 19:10:00 0 3 137,800 EN120",Despiste c/capotamento
+Aljezur 2005:09:27 18:30:00 0 1 EM - Estrada Municipal,Despiste s/disp. de retenção
+"Aljezur 2005:12:05 23:10:00 0 1 127,950 EN120",Despiste s/disp. de retenção
+"Aljezur 2005:12:12 18:30:00 0 1 140,000 EN120",Despiste simples
+"Aljezur 2005:12:12 19:00:00 1 0 13,300 EN268",Colisão frontal
+"Castro Marim 2005:03:06 20:45:00 0 1 151,130 EN125",Atropelamento de peões
+"Castro Marim 2005:05:23 22:37:00 0 1 4,000 IC27",Atropelamento de animais
+"Castro Marim 2005:05:28 02:05:00 1 0 100,000 EM512",Despiste c/capotamento
+Faro 2005:01:15 15:10:00 1 0 EN125-10,Despiste simples
+"Faro 2005:01:30 02:30:00 0 3 108,500 EN125",Despiste com fuga
+"Faro 2005:01:30 07:33:00 1 0 106,800 EN125",Despiste simples
+"Faro 2005:02:03 15:45:00 0 1 3,100 EN2-6",Despiste c/capotamento
+Faro 2005:02:06 08:20:00 0 1 R. do Alpendre,Despiste simples
+"Faro 2005:02:07 11:10:00 1 0 98,400 EN125",Atropelamento de peões
+Faro 2005:02:13 06:20:00 0 3 EM520-2,Despiste c/capotamento

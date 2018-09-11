@@ -1,0 +1,61 @@
+"",
+11. Listagem dos acidentes com mortos e/ou feridos graves,
+"",
+Concelho Datahora M* FG* Km Via,Natureza
+"Albufeira 2004:01:14 09:45:00 0 2 61,500 EN395",Colisão frontal
+Albufeira 2004:02:28 15:30:00 0 1 EM526,Despiste simples
+Albufeira 2004:02:21 22:45:00 0 1 Lg. Ferreiras,Despiste simples
+"Albufeira 2004:02:27 16:55:00 0 1 68,200 EN125",Col. lat. c/veic. em mov.
+"Albufeira 2004:03:23 10:10:00 0 2 735,500 IC1",Col. lat. c/veic. em mov.
+"Albufeira 2004:03:29 09:10:00 1 2 233,400 A2",Despiste c/capotamento
+"Albufeira 2004:03:13 19:50:00 0 1 68,500 EN125",Atropelamento de peões
+Albufeira 2004:03:10 16:30:00 0 1 Estrada Pateo / Guia,Atropelamento de peões
+Albufeira 2004:04:15 07:30:00 1 0 Av. Infante D. Henrique,Despiste c/capotamento
+Albufeira 2004:04:08 20:50:00 0 1 Av. Sá Carneiro Norte,Atropelamento de peões
+"Albufeira 2004:05:23 17:30:00 1 0 47,057 A22",Despiste c/disp. de retenção
+Albufeira 2004:05:27 08:50:00 0 1 EM526,Colisão frontal
+Albufeira 2004:06:23 19:15:00 0 1 EM526,Colisão frontal
+"Albufeira 2004:06:25 23:35:00 1 0 56,800 EN395",Colisão frontal
+"Albufeira 2004:06:01 19:30:00 0 2 6,400 EN270",Colisão frontal
+Albufeira 2004:08:02 18:45:00 0 1 EM1285,Colisão frontal
+Albufeira 2004:09:04 00:00:00 0 1 EN395,Atropelamento de peões
+Albufeira 2004:11:22 18:30:00 0 1 Rua António Aleixo,Atropelamento de peões
+Albufeira 2004:10:15 21:45:00 0 1 Cruzamento Vale Parra,Col. lat. c/veic. em mov.
+Albufeira 2004:10:31 21:15:00 0 1 EM1281,Col. lat. c/veic. em mov.
+"Albufeira 2004:10:23 21:30:00 1 0 6,850 EN125",Colisão c/outras situações
+Albufeira 2004:10:09 22:30:00 1 0 R. do Cemitério Velho,Colisão frontal
+Acesso ao Parque Clube da,
+Albufeira 2004:10:21 08:45:00 1 0 Praia,Atropelamento de peões
+Albufeira 2004:11:26 18:30:00 1 0 EM526-1,Col. traseira c/veic. em mov.
+"Albufeira 2004:11:25 17:40:00 0 1 68,500 EN125",Colisão frontal
+Albufeira 2004:09:04 01:10:00 0 1 Caminho das Almas,Despiste simples
+"Albufeira 2004:08:13 17:00:00 0 2 69,500 EN125",Col. traseira c/veic. em mov.
+Albufeira 2004:01:17 19:05:00 0 1 Terminal Rodoviário Eva,Atropelamento de peões
+"Albufeira 2004:07:09 15:30:00 0 1 59,500 EN395",Col. lat. c/veic. em mov.
+"Albufeira 2004:07:13 06:00:00 0 1 51,650 A22",Despiste c/capotamento
+"Albufeira 2004:07:18 00:10:00 0 1 75,700 EN125",Col. c/veic. ou obst. faixa rod.
+Albufeira 2004:07:25 21:15:00 0 2 EM1281,Col. lat. c/veic. em mov.
+Albufeira 2004:07:24 08:00:00 0 1 Av. Infante D. Henrique,Desp.c/colisão c/veíc.imob./obst.
+Albufeira 2004:07:22 20:30:00 0 1 Av. 25 de Abril,Atropelamento de peões
+Albufeira 2004:07:17 20:30:00 1 0 Av. Dos Descobrimentos,Despiste simples
+"Albufeira 2004:06:01 12:15:00 0 2 55,000 EN395",Colisão frontal
+Albufeira 2004:06:15 16:15:00 0 1 EM1287,Col. c/veic. ou obst. faixa rod.
+"Alcoutim 2004:08:04 15:47:00 0 1 101,550 EN124",Colisão frontal
+"Alcoutim 2004:06:03 18:00:00 0 3 77,200 EN122",Desp.c/colisão c/veíc.imob./obst.
+"Alcoutim 2004:06:29 01:20:00 0 1 107,150 EN124",Despiste simples
+Alcoutim 2004:05:27 13:35:00 0 1 EM506,Despiste simples
+"Aljezur 2004:05:20 10:55:00 1 0 151,200 EN120",Despiste c/capotamento
+Aljezur 2004:03:20 20:15:00 2 0 EM,Colisão frontal
+"Aljezur 2004:05:20 14:30:00 0 2 130,300 EN120",Col. lat. c/veic. em mov.
+"Aljezur 2004:08:31 17:00:00 0 1 129,380 EN120",Colisão choque em cadeia
+"Aljezur 2004:08:30 08:30:00 1 0 137,650 EN120",Col. lat. c/veic. em mov.
+"Aljezur 2004:05:07 07:00:00 0 1 142,100 EN120",Colisão frontal
+"Aljezur 2004:01:04 15:45:00 0 2 150,300 EN120",Colisão frontal
+"Castro Marim 2004:01:30 17:30:00 0 1 7,000 EM1063",Colisão frontal
+"Castro Marim 2004:03:28 14:55:00 0 1 149,900 EN125",Col. traseira c/veic. em mov.
+Castro Marim 2004:10:24 00:00:00 0 2 Av. 24 Junho,Despiste simples
+Castro Marim 2004:10:24 10:30:00 1 0 R. da Volta,Despiste c/capotamento
+"Faro 2004:11:06 20:45:00 1 0 10,000 EM520-2",Despiste simples
+"Faro 2004:11:25 21:30:00 0 1 102,500 EN125",Despiste c/capotamento
+"Faro 2004:09:08 21:30:00 1 1 0,010 EM527",Colisão com fuga
+Faro 2004:07:03 14:30:00 0 1 EM2010,Atropelamento de peões
