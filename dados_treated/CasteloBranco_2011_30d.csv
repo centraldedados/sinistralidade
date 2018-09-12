@@ -1,0 +1,131 @@
+Concelho,Datahora,M,FG,Via,km,Natureza
+Covilhã,2011:09:01 06:45:00,0,1,Av. Viriato,,Desp.c/colis. c/veíc. imobil./obst.
+Covilhã,2011:09:02 22:00:00,0,1,R Escola Velha,,Atropelamento de peões
+Covilhã,2011:09:11 03:30:00,0,1,EM506-1,,Despiste simples
+Covilhã,2011:09:15 12:00:00,0,1,Alameda da Europa,,Colisão c/veic./obst.f. rodagem
+Covilhã,2011:09:19 08:15:00,0,1,Ribeira de Água Alta,,At r o  p  e  l a  me  n  t od  ep  e  õ es
+Covilhã,2011:09:20 01:10:00,0,1,R Acesso à Estação,,Desp.c/colis. c/veíc. imobil./obst.
+Covilhã,2011:11:09 16:00:00,0,1,EN230,,Despiste simples
+Covilhã,2011:12:26 23:30:00,0,1,EN18,"36,85",Despiste c/capotamento
+Fundão,2011:03:25 18:00:00,1,0,Prop. Privada (EN 238),,Atropelamento de peões
+Fundão,2011:03:29 17:50:00,0,1,EstR Enguias,,Colisão frontal
+Fundão,2011:04:03 13:10:00,1,0,EN238,"137,166",Despiste c/capotamento
+Fundão,2011:05:02 10:35:00,0,1,Pq. Estac R B I,,Atropelamento de peões
+Fundão,2011:05:24 16:15:00,0,1,A23,"156,900",Colisão tras. c/outro veíc. mov.
+Fundão,2011:06:02 18:30:00,0,1,EN346,"19,200",Colisão frontal
+Fundão,2011:06:12 23:12:00,0,1,R Conde de Idanha-a-Nova,,Atropelamento de peões
+Fundão,2011:06:26 20:00:00,0,1,EN238,"138,400",Desp.c/colis. c/veíc. imobil./obst.
+Fundão,2011:07:02 05:45:00,1,0,EN343,"45,800",Colisão com fuga
+Fundão,2011:07:26 08:00:00,0,1,EN18,"52,731",Colisão lat. c/outro veíc. mov.
+Fundão,2011:09:19 07:40:00,0,1,EN343,,Atropelamento de peões
+Fundão,2011:09:22 23:40:00,1,0,EN346,"6,700",Despiste simples
+Fundão,2011:11:28 08:30:00,0,1,Estrada Municipal,,Colisão lat. c/outro veíc. mov.
+Fundão,2011:12:26 08:10:00,0,4,EN238,"98,7",Despiste c/capotamento
+Idanha-a-Nova,2011:02:20 14:20:00,0,1,R Fontanhão,,Colisão lat. c/outro veíc. mov.
+Idanha-a-Nova,2011:05:02 21:05:00,1,1,EN233,"80,300",Desp.c/colis. c/veíc. imobil./obst.
+Idanha-a-Nova,2011:06:22 09:00:00,1,0,EM566,"12,600",Atropelamento de peões
+Idanha-a-Nova,2011:06:28 18:00:00,0,1,R Valcabeiro,,Colisão lat. c/outro veíc. mov.
+Idanha-a-Nova,2011:07:30 05:00:00,0,2,VAR - Variante,,Despiste s/dispositivo retenção
+Idanha-a-Nova,2011:08:22 06:30:00,0,1,EM557,,Despiste simples
+Idanha-a-Nova,2011:09:06 09:45:00,0,1,Estrada Municipal,,Colisão lat. c/outro veíc. mov.
+Idanha-a-Nova,2011:10:23 21:49:00,0,1,EN240,"24,000",Desp.c/colis. c/veíc. imobil./obst.
+Oleiros,2011:01:23 14:30:00,0,1,R Outeiro,,Atropelamento de peões
+Oleiros,2011:03:04 23:00:00,0,1,EN351,"17,800",Despiste simples
+Oleiros,2011:05:21 18:20:00,1,0,R Principal,"0,001",Despiste simples
+Oleiros,2011:08:08 19:15:00,0,1,Outra Via,,Despiste c/capotamento
+Oleiros,2011:11:16 13:30:00,1,0,Estrada Municipal,,Despiste c/capotamento
+Oleiros,2011:12:14 15:00:00,0,1,Estrada Municipal,,Despiste simples
+Penamacor,2011:03:26 11:00:00,0,1,EN233,"34,9",Despiste simples
+Penamacor,2011:06:19 20:10:00,0,1,R Lagariça - Aldeia do Bispo,,Despiste simples
+Penamacor,2011:07:30 11:05:00,0,1,Outra Via,,Despiste c/capotamento
+Penamacor,2011:08:24 18:00:00,0,1,Estrada Regional,"7,600",Despiste simples
+P.-a-Nova,2011:03:01 19:13:00,1,0,EN233,"150,2",Despiste simples
+P.-a-Nova,2011:05:15 03:20:00,0,1,IC8,"121,200",Despiste c/capotamento
+P.-a-Nova,2011:07:23 02:35:00,1,0,IC8,"122,600",Atropelamento de peões
+P.-a-Nova,2011:07:30 06:00:00,0,1,EM545,,Despiste simples
+P.-a-Nova,2011:07:31 18:00:00,0,2,Estrada Florestal,,Despiste c/capotamento
+P.-a-Nova,2011:08:08 06:45:00,0,1,EN233,"150,6",Colisão lat. c/outro veíc. mov.
+P.-a-Nova,2011:08:09 19:20:00,0,1,IC8,"125,237",Colisão tras. c/outro veíc. mov.
+P.-a-Nova,2011:09:19 16:18:00,0,1,1aCIRCULAR,,Despiste simples
+P.-a-Nova,2011:10:25 08:30:00,0,1,EN241,"30,3",Colisão frontal
+Sertã,2011:01:13 10:25:00,0,1,EN2,"349,460",Colisão lat. c/outro veíc. mov.
+Sertã,2011:02:26 22:00:00,0,1,EM538,"0,001",Despiste simples
+Sertã,2011:03:12 18:40:00,0,1,EM529,"0,001",Colisão frontal
+Sertã,2011:03:19 14:40:00,0,1,Estrada Municipal,"0,001",Despiste simples
+Sertã,2011:03:22 08:20:00,0,1,Estrada Regional,"31,350",Colisão lat. c/outro veíc. mov.
+Sertã,2011:05:13 04:00:00,0,1,EN2,"338,000",Despiste simples
+Sertã,2011:06:27 21:20:00,0,1,EM533,"0,001",Colisão lat. c/outro veíc. mov.
+Sertã,2011:07:03 12:05:00,0,1,Estrada Florestal,Despiste c/capotamento
+Sertã,2011:07:15 13:25:00,0,1,"EN23836,4",Colisão lat. c/outro veíc. mov.
+Sertã,2011:07:17 18:30:00,0,1,"EN2339,100",Despiste simples
+Sertã,2011:07:17 19:16:00,0,1,Estrada Municipal,Despiste s/dispositivo retenção
+Sertã,2011:07:24 20:53:00,0,1,R Carqueijal,Colisão lat. c/outro veíc. mov.
+Sertã,2011:07:27 17:00:00,0,1,"IC8109,700",Despiste c/dispositivo de retenção
+Sertã,2011:08:05 09:20:00,0,1,R Pinheiros,Despiste simples
+Sertã,2011:08:19 20:08:00,0,1,Estrada Municipal,Despiste c/capotamento
+Sertã,2011:08:29 23:30:00,0,1,EM532,Despiste simples
+Sertã,2011:10:03 12:30:00,0,1,Estrada Municipal,Despiste c/capotamento
+Sertã,2011:11:19 21:20:00,0,1,"IC896,468",Colisão c/veic./obst.f. rodagem
+Vila de Rei,2011:01:25 08:26:00,1,0,"EN348102,835",Despiste c/capotamento
+Vila de Rei,2011:03:13 18:00:00,0,1,"EN24413,1",Despiste c/capotamento
+Vila de Rei,2011:07:02 16:00:00,1,0,Estrada Florestal,Despiste c/capotamento
+V. V. de Rodão,2011:02:09 17:40:00,2,1,"EN18110,8",Desp. c/colis. c/veíc. imobil./obst.
+V. V. de Rodão,2011:06:19 21:45:00,0,1,"EN18119,5",Despiste c/transp.disp. ret.lateral
+V. V. de Rodão,2011:08:13 16:10:00,0,1,"A2397,8",Despiste simples
+V. V. de Rodão,2011:09:02 21:05:00,0,1,"EN24141,45",Despiste c/transp.disp. ret.lateral
+V. V. de Rodão,2011:10:27 07:50:00,0,1,"EN24151,75",Despiste simples
+V. V. de Rodão,2011:11:22 16:35:00,1,0,"A2392,7",Colisão tras. c/outro veíc. mov.
+,,23,118,,
+Belmonte,2011:01:06 21:00:00,1,0,EN345,"6,643",Despiste simples
+Belmonte,2011:01:20 18:50:00,0,1,EN345,"6,920",Colisão tras. c/outro veíc. mov.
+Castelo Branco,2011:01:05 19:15:00,0,1,Var Carapalha/Socorro,,Atropelamento com fuga
+Castelo Branco,2011:01:07 17:45:00,0,1,IP2,"114,900",Colisão frontal
+Castelo Branco,2011:01:09 07:45:00,0,1,Interior do Hospital,,Atropelamento de peões
+Castelo Branco,2011:01:17 01:40:00,1,1,EN233,"103,300",Despiste s/dispositivo retenção
+Castelo Branco,2011:02:03 18:45:00,0,1,R Piscina,,Co  li s  ã  of r o  n  t a  l
+Castelo Branco,2011:02:04 14:00:00,0,1,R Portas do Sol,,De  s p  i s  t es  i mp  le  s
+Castelo Branco,2011:02:05 19:43:00,0,1,EN112,"86,870",Colisão frontal
+Castelo Branco,2011:02:19 07:25:00,0,1,EM558,,Despiste simples
+Castelo Branco,2011:02:27 14:10:00,0,1,EN112,"92,5",Colisão lat. c/outro veíc. mov.
+Castelo Branco,2011:03:18 19:00:00,1,0,EM558,"1,9",Despiste c/capotamento
+Castelo Branco,2011:03:23 06:55:00,2,1,EN18,"92,200",Despiste simples
+Castelo Branco,2011:03:25 16:05:00,0,1,Av. Europa,,Atropelamento de peões
+Castelo Branco,2011:04:27 18:20:00,1,0,Caminho Agrícola,,Despiste c/capotamento
+Castelo Branco,2011:05:03 16:30:00,0,1,R Bonfim,,Atropelamento de peões
+Castelo Branco,2011:05:09 00:45:00,0,1,EM572,"5,100",Despiste c/capotamento
+Castelo Branco,2011:05:16 17:15:00,0,1,Av. 1o de Maio,,Atropelamento de peões
+Castelo Branco,2011:05:21 19:00:00,0,1,EN18-8,"5,7",Colisão lat. c/outro veíc. mov.
+Castelo Branco,2011:06:08 09:20:00,0,1,EN18,"99,5",Colisão frontal
+Castelo Branco,2011:06:09 17:33:00,0,1,EN18,"96,6",Despiste simples
+Castelo Branco,2011:06:14 02:45:00,0,1,EN233,"103,3",Despiste c/capotamento
+Castelo Branco,2011:06:21 15:10:00,0,1,R Principal de Lisga,,Despiste s/dispositivo retenção
+Castelo Branco,2011:07:04 17:20:00,0,1,Av. Gen. Humb. Delgado,,Colisão lat. c/outro veíc. mov.
+Castelo Branco,2011:07:25 14:00:00,0,1,EN18,,Despiste simples
+Castelo Branco,2011:08:06 00:17:00,0,1,R Tavares Proença JR,,A  t r o  p  e  l a  me  n  t od  ep  e  õ  e  s
+Castelo Branco,2011:08:19 02:00:00,2,0,EN352,"37,200",Despiste simples
+Castelo Branco,2011:08:20 12:30:00,0,1,R Ruivo Godinho,,Atropelamento de peões
+Castelo Branco,2011:08:24 17:20:00,0,1,ER233,"107,100",Colisão lat. c/outro veíc. mov.
+Castelo Branco,2011:09:03 17:00:00,0,1,EN233,"104,5",Colisão tras. c/outro veíc. mov.
+Castelo Branco,2011:09:03 17:55:00,0,1,Estrada Municipal,,Colisão lat. c/outro veíc. mov.
+Castelo Branco,2011:09:11 17:00:00,0,1,Estrada Municipal,,Colisão frontal
+Castelo Branco,2011:09:15 20:20:00,0,1,Av Afonso de Paiva,,A  t r o  p  e  l a  me  n  t od  ep  e  õ  e  s
+Castelo Branco,2011:09:17 11:15:00,0,1,EN233,"135,680",Despiste simples
+Castelo Branco,2011:10:27 11:45:00,0,1,Estrada Municipal,,Colisão lat. c/outro veíc. mov.
+Castelo Branco,2011:11:21 17:00:00,0,1,EM1259,,Despiste simples
+Castelo Branco,2011:11:23 21:40:00,0,1,EM548,,Colisão lat. c/outro veíc. mov.
+Castelo Branco,2011:12:03 12:20:00,0,1,Estrada Florestal,,Despiste c/capotamento
+Castelo Branco,2011:12:10 08:00:00,0,1,EN352,"36,9",Despiste simples
+Covilhã,2011:01:20 09:30:00,0,1,R Ruy Faleiro,,Despiste s/dispositivo retenção
+Covilhã,2011:02:01 08:20:00,0,1,Av. Viriato - Tortosendo,,Atropelamento de peões
+Covilhã,2011:02:21 14:50:00,0,1,Rot. Var Acesso a Caria,,Despiste simples
+Covilhã,2011:02:27 14:20:00,0,1,EM506,5,Desp. c/colis. c/veíc. imobil./obst.
+Covilhã,2011:03:24 19:15:00,0,1,EM513,,Atropelamento de peões
+Covilhã,2011:04:01 19:00:00,0,1,R Fernando Antunes,,Colisão frontal
+Covilhã,2011:04:02 12:10:00,0,1,R Duarte Pacheco,,Atropelamento de peões
+Covilhã,2011:04:10 16:20:00,0,1,A. Pero da Covilhã-Hosp,,Atropelamento de peões
+Covilhã,2011:04:16 07:35:00,0,1,EN230-7,,Despiste c/capotamento
+Covilhã,2011:05:29 02:30:00,0,1,R Ac. Lameirão de Baixo,,Despiste simples
+Covilhã,2011:06:06 20:00:00,0,1,EM506-1,,Despiste s/dispositivo retenção
+Covilhã,2011:06:29 15:45:00,0,1,R Cidade do Fundão,,Atropelamento de peões
+Covilhã,2011:07:19 17:00:00,0,1,EN230,"196,660",Despiste c/transp.disp. ret.lateral
+Covilhã,2011:07:24 05:30:00,0,1,Av. Frei Heitor Pinto,,Despiste c/capotamento

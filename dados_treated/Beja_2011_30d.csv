@@ -1,0 +1,100 @@
+Concelho,Datahora,M,FG,Via,km,Natureza
+Mértola,2011:08:11 08:10:00,1,0,ER265,"65,700",Colisão c/veic./obst. f. de rod.
+Moura,2011:06:25 10:00:00,0,1,EM517,,Despiste simples
+Moura,2011:08:07 20:20:00,1,0,EN385,"24,500",Despiste c/capotamento
+Moura,2011:08:07 19:30:00,0,1,EN255-1,"9,750",Despiste simples
+Moura,2011:11:29 14:20:00,1,0,Outra Via,,Despiste simples
+Odemira,2011:04:01 17:40:00,0,1,Estrada Vicinal,,Despiste simples
+Odemira,2011:07:12 19:10:00,1,0,R 25 de Abril - S. Teotónio,,Atropelamento de peões
+Odemira,2011:04:17 21:10:00,0,1,EM502,"3,630",Colisão c/veic./obst. f. de rod.
+Odemira,2011:11:03 09:15:00,1,0,EM1159,,Colisão com outras situações
+Odemira,2011:07:03 15:20:00,0,2,EM502,"3,880",Despiste s/disp. deretenção
+Odemira,2011:08:26 19:25:00,0,1,EM552,,Atropelamento de peões
+Odemira,2011:01:12 09:30:00,0,1,EM532,"1,800",Colisão frontal
+Odemira,2011:10:07 23:05:00,1,0,EM1158,,Despiste s/disp. de retenção
+Odemira,2011:08:06 18:30:00,0,1,Estrada Municipal,,Colisão frontal
+Odemira,2011:08:18 07:20:00,1,0,EM1079,,Atropelamento com fuga
+Odemira,2011:06:14 20:15:00,1,0,EN120,"123,656",Colisão lat. c/outro veíc.mov.
+Odemira,2011:05:12 14:40:00,0,1,EN120,"126,100",Despiste c/capotamento
+Odemira,2011:08:07 11:40:00,1,3,EN120,"111,600",Despiste c/capotamento
+Odemira,2011:12:02 10:40:00,1,0,EN393,"18,090",Atropelamento de peões
+Odemira,2011:12:17 20:25:00,0,1,EN390,"36,700",Colisão lat. c/outro veíc.mov.
+Odemira,2011:11:01 08:40:00,0,2,EN390,"36,980",Colisão frontal
+Odemira,2011:05:15 20:30:00,0,1,ER262,"60,350",Despiste simples
+Odemira,2011:08:06 23:40:00,1,0,Outra Via,,Despiste simples
+Ourique,2011:04:22 22:35:00,0,1,EM518,,Colisão frontal
+Ourique,2011:06:03 21:30:00,0,1,IC1,"688,400",Despiste simples
+Ourique,2011:07:17 19:30:00,0,1,IC1,"674,700",Colisão c/veic./obst. f. de rod.
+Ourique,2011:11:04 14:40:00,1,0,IC1,"676,500",Desp. c/transp. disp. ret. Lateral
+Ourique,2011:06:13 05:00:00,0,1,IC1,"679,400",Despiste c/capotamento
+Ourique,2011:04:23 03:38:00,1,0,IC1,"677,800",Colisão frontal
+Ourique,2011:11:01 16:40:00,1,1,IC1,"685,400",Colisão frontal
+Ourique,2011:02:07 07:35:00,1,2,IC1,"659,700",Colisão frontal
+Ourique,2011:07:27 15:15:00,1,0,IC1,"644,037",Despiste c/capotamento
+Ourique,2011:01:08 15:00:00,2,1,IC1,"672,357",Despiste c/capotamento
+Serpa,2011:07:02 17:35:00,0,1,R Fábrica - Vales Mortos,,Despiste simples
+Serpa,2011:08:03 19:45:00,1,0,R Rossio,,Atropelamento de peões
+Serpa,2011:06:04 20:30:00,0,1,EM1035,,Despiste simples
+Serpa,2011:03:31 18:30:00,0,1,EN255,"125,700",Colisão frontal
+Serpa,2011:04:02 14:22:00,1,2,EN255,"106,190",Colisão frontal
+Serpa,2011:04:01 11:40:00,1,0,EN260,"59,676",Despiste s/disp. de retenção
+Serpa,2011:08:11 11:30:00,0,3,EN260,"23,400",Colisão frontal
+Serpa,2011:10:06 07:45:00,1,0,EN260,"44,436",Colisão lat. c/outro veíc.mov.
+Serpa,2011:07:28 04:08:00,2,2,EN260,"40,700",Despiste c/capotamento
+Serpa,2011:10:08 23:45:00,0,1,ER265,"39,200",Despiste c/capotamento
+Vidigueira,2011:04:08 21:00:00,1,0,R Prof Cristo Fragoso,,Colisão c/veic./obst. f. de rod.
+Vidigueira,2011:06:06 09:10:00,2,0,IP2,"316,400",Colisão frontal
+,,43,81,,,
+Aljustrel,2011:06:12 15:10:00,0,1,A2,"146,800",Despiste c/capotamento
+Aljustrel,2011:01:18 12:00:00,1,0,Av Liberdade,,Atropelamento de peões
+Aljustrel,2011:04:15 22:00:00,0,1,R Sta Bárbara,,Colisão lat. c/outro veíc.mov.
+Aljustrel,2011:02:13 19:00:00,1,0,R Sta Bárbara,,Atropelamento de peões
+Aljustrel,2011:12:01 08:00:00,0,1,EN2,"627,500",Despiste c/capotamento
+Aljustrel,2011:06:24 13:40:00,2,2,EN261,"93,500",Colisão lat. c/outro veíc.mov.
+Aljustrel,2011:10:05 14:15:00,0,1,EN383,"57,100",Colisão frontal
+Almodôvar,2011:11:27 10:20:00,1,0,A2,"199,649",Despiste s/dispositivo de retenção
+Almodôvar,2011:09:11 19:30:00,0,1,EM1167,"0,750",Despiste simples
+Almodôvar,2011:11:24 08:05:00,0,1,EM1167,"4,400",Despiste c/capotamento
+Almodôvar,2011:04:14 20:23:00,0,1,EM1198,,Colisão frontal
+Almodôvar,2011:07:08 23:20:00,0,1,ER2,"666,800",Despiste simples
+Alvito,2011:04:01 07:50:00,0,1,EN258,"4,800",Desp. c/col. c/veíc. imobil./obst.
+Barrancos,2011:12:02 11:50:00,0,1,EN258,"103,360",Colisão lat. c/outro veíc.mov.
+Beja,2011:11:04 17:35:00,0,1,R D. Afonso III,,C  o  l i s  ã  oc  / v e  i c  . / o  b  s  t .  f .  d  e  rod.
+Beja,2011:01:14 07:00:00,0,1,R D Afonso Henriques,,At r o  p  e  l a  me  n  t od  ep  e  õ  e  s
+Beja,2011:05:09 08:55:00,0,1,Pç S Mariana Alcoforado,,At r o  p  e  l a  me  n  t od  ep  e  õ  e  s
+Beja,2011:06:15 11:39:00,0,1,Lg Conceição,,At r o  p  e  l a  me  n  t od  ep  e  õ  e  s
+Beja,2011:07:09 20:44:00,1,0,R Igreja - Quintos,,Despiste simples
+Beja,2011:12:24 18:20:00,0,1,EM511,,Despiste c/capotamento
+Beja,2011:06:10 16:30:00,0,1,EN122,"14,300",Colisão lat. c/outro veíc.mov.
+Beja,2011:10:01 17:20:00,0,1,EN18,"333,600",Despiste c/capotamento
+Beja,2011:02:26 15:05:00,0,1,EN18,"341,850",Colisão lat. c/outro veíc.mov.
+Beja,2011:04:23 00:50:00,0,1,EN18,"365,860",Despiste c/capotamento
+Beja,2011:10:11 19:45:00,1,0,EN18,"342,120",Colisão frontal
+Beja,2011:07:02 07:52:00,1,1,EN18,"373,050",Colisão frontal
+Beja,2011:06:09 20:20:00,1,0,EN18,"337,350",Colisão c/veic./obst. f. de rod.
+Beja,2011:12:06 09:40:00,0,1,EN260,"12,792",Colisão lat. c/outro veíc.mov.
+Beja,2011:06:12 04:00:00,0,1,IP2,"360,800",Despiste c/capotamento
+Beja,2011:07:17 13:03:00,0,1,IP2,"359,720",Despiste simples
+Castro Verde,2011:07:17 08:00:00,0,1,R Nova da Feira,,Despiste simples
+Castro Verde,2011:03:17 14:50:00,0,1,EM508,"3,000",Despiste simples
+Castro Verde,2011:08:23 09:50:00,1,0,EM535,"2,700",Colisão lat. c/outro veíc.mov.
+Castro Verde,2011:09:03 20:40:00,0,1,EM550,"8,000",Despiste simples
+Castro Verde,2011:08:08 06:50:00,0,1,EM1140,"7,600",Despiste c/capotamento
+Castro Verde,2011:04:02 17:15:00,0,1,EN123,"66,850",Colisão lat. c/outro veíc.mov.
+Castro Verde,2011:03:24 05:30:00,0,1,EN2,"645,600",Colisão tras. c/outro veíc.mov.
+Castro Verde,2011:01:02 20:20:00,0,1,IP2,"376,450",Colisão frontal
+Castro Verde,2011:04:28 09:50:00,0,1,IP2,"376,600",Colisão choque em cadeia
+Cuba,2011:08:17 10:45:00,0,1,EN18,"330,600",Colisão lat. c/outro veíc.mov.
+Ferreira Alentejo,2011:12:23 13:20:00,1,4,A2,"134,574",Desp. c/transp. disp. ret. Lateral
+Ferreira Alentejo,2011:03:31 18:00:00,0,1,Caminho Agrícola,,Despiste simples
+Ferreira Alentejo,2011:01:04 07:20:00,0,1,EM524,,Despiste simples
+Ferreira Alentejo,2011:10:13 19:30:00,0,1,Estrada Municipal,,Despiste simples
+Ferreira Alentejo,2011:02:02 22:30:00,0,1,EM1025,,Despiste c/capotamento
+Ferreira Alentejo,2011:01:04 10:41:00,0,1,EN259,"41,690",Desp. c/col. c/veíc. imobil./obst.
+Ferreira Alentejo,2011:06:23 18:15:00,1,0,EN259,"24,025",Despiste c/dispositivo de retenção
+Ferreira Alentejo,2011:12:02 07:02:00,1,0,EN2,"585,170",Atropelamento de peões
+Ferreira Alentejo,2011:10:16 13:30:00,1,0,EN121,"40,650",Despiste simples
+Ferreira Alentejo,2011:05:30 13:50:00,1,0,EN121,"58,070",Colisão lat. c/outro veíc.mov.
+Ferreira Alentejo,2011:05:19 21:45:00,0,1,EN121,"58,480",Colisão lat. c/outro veíc.mov.
+Mértola,2011:08:12 08:10:00,0,1,EN122,"38,900",Despiste c/capotamento
+Mértola,2011:09:27 17:45:00,1,0,EN265,"56,600",Desp. c/col. c/veíc. imobil./obst.

@@ -1,0 +1,66 @@
+Concelho Datahora M* FG* Via,km,Natureza
+Alijó 2007:06:04 08:25:00 3 0 IP4,"121,000",Colisão frontal
+Alijó 2007:04:09 00:05:00 0 1 EN312-2,"11,600",Despiste com capotamento
+Alijó 2007:10:21 19:45:00 0 1 EM582,,Despiste com capotamento
+Boticas 2007:10:26 09:45:00 0 1 EN311,"85,950",Despiste com capotamento
+Boticas 2007:03:11 22:00:00 0 1 EM527,,Col. lat. c/ outro veíc. mov.
+Chaves 2007:02:24 18:45:00 0 1 EN103,"162,800",Despiste simples
+Chaves 2007:10:28 23:00:00 1 1 EN2,"8,400",Despiste com capotamento
+Chaves 2007:02:01 13:15:00 0 1 AV MIGUEL TORGA,,Atropelamento peões
+Chaves 2007:02:26 14:00:00 0 1 R CORREDOURA,,Despiste com capotamento
+Chaves 2007:03:11 15:15:00 0 1 Estrada Municipal,,Atropelamento peões
+Chaves 2007:03:16 23:36:00 0 2 EN213,,Despiste simples
+Chaves 2007:04:13 20:30:00 0 1 AV NUNO ALVARES,,Atropelamento peões
+Chaves 2007:04:27 15:00:00 0 1 AV TRINDADE,,Atropelamento peões
+Chaves 2007:05:02 13:15:00 0 1 AV LUIS CHAVES,,Col. lat. c/ outro veíc. mov.
+Chaves 2007:07:29 15:00:00 0 1 AV DR MARIO SOARES,,Col. lat. c/ outro veíc. mov.
+Chaves 2007:08:03 11:30:00 0 1 R RAINHA D MAFALDA,,Col. lat. c/ outro veíc. mov.
+Chaves 2007:08:23 08:20:00 0 1 R S JOÃO,,Col. c/ veíc./obst. f. rodagem
+Chaves 2007:10:25 17:10:00 0 1 AV TEN VALADIM,,Atropelamento peões
+Chaves 2007:11:06 16:30:00 0 1 AV XAVIER TEIXEIRA,,Atropelamento peões
+Chaves 2007:11:14 14:40:00 0 1 AV D JOÃO I,,Atropelamento peões
+Chaves 2007:11:29 07:30:00 0 1 AV BRACARA AUGUSTA,,Atropelamento animais
+Mesão Frio 2007:02:04 14:45:00 0 4 EN108,"106,200",Col. lat. c/ outro veíc. mov.
+Mondim de Basto 2007:06:30 14:05:00 0 1 EN304,"134,100",Col. lat. c/ outro veíc. mov.
+Mondim de Basto 2007:08:24 18:30:00 1 0 LUGAR BORMELA,,Despiste simples
+Montalegre 2007:04:07 14:40:00 0 1 EN103,"118,750",Col. lat. c/ outro veíc. mov.
+Montalegre 2007:04:29 18:00:00 1 1 EN311,"39,800",Col. lat. c/ outro veíc. mov.
+Montalegre 2007:05:16 01:00:00 1 1 EN311-1,,Despiste c/ col c/ veíc. imob/obst.
+Montalegre 2007:06:24 01:55:00 0 1 R LAMA MOINHO,,Despiste simples
+Montalegre 2007:08:10 17:45:00 0 1 R TOUÇA,,Colisão frontal
+Murça 2007:06:03 20:50:00 0 1 R SOLD HEROIS MILHOS,,Despiste simples
+Peso da Régua 2007:11:27 17:15:00 0 1 EN108,"108,800",Despiste com capotamento
+Peso da Régua 2007:03:28 10:28:00 0 1 AV JOÃO FRANCO,,Atropelamento peões
+Peso da Régua 2007:10:02 06:20:00 0 3 EN2,,Atropelamento peões
+Ribeira de Pena 2007:08:11 06:40:00 0 1 EN206,"93,500",Atropelamento peões
+Ribeira de Pena 2007:09:09 00:20:00 0 1 EM206,"30,500",Despiste com capotamento
+Ribeira de Pena 2007:07:09 22:30:00 0 1 EM312,,Despiste com capotamento
+Ribeira de Pena 2007:09:04 06:30:00 0 1 AGUNCHOS (arruamento),,Despiste simples
+Sabrosa 2007:10:22 15:30:00 1 0 Estrada Municipal,,Despiste com capotamento
+Valpaços  2007:03:02 08:30:00 0 1 EN314,"16,500",Col. lat. c/ outro veíc. mov.
+Valpaços  2007:07:21 17:15:00 0 1 EN213,"16,100",Colisão com outras situações
+Valpaços  2007:11:28 09:40:00 0 1 EM213-1,"3,850",Colisão frontal
+Valpaços,2007:06:01 09:30:00,1,0,Estrada Municipal,,Despiste simples
+Valpaços,2007:11:28 16:45:00,1,0,EM551,,Despiste c/ col c/ veíc. imob/obst.
+Vila P. de Aguiar,2007:08:19 15:15:00,1,0,EN206,"127,472",Despiste s/ disp. retenção
+Vila P. de Aguiar,2007:01:11 23:15:00,0,2,EN2,"34,925",Colisão frontal
+Vila P. de Aguiar,2007:04:01 05:00:00,1,1,EM1171,,Despiste com capotamento
+Concelho,Datahora,M,FG,,Via,km,Natureza
+Vila Real,2007:04:07 02:30:00,0,1,EN304,,"164,850",Despiste s/ disp. retenção
+Vila Real,2007:05:06 16:20:00,0,2,EN15,,"116,676",Despiste simples
+Vila Real,2007:08:08 20:10:00,0,1,IP4,,"102,700",Despiste simples
+Vila Real,2007:01:09 07:00:00,0,1,IP4,,"97,100",Col. c/ veíc./obst. f. rodagem
+Vila Real,2007:04:05 02:00:00,0,1,IP4,,"92,500",Despiste simples
+Vila Real,2007:02:11 16:00:00,0,1,IP4,,"80,300",Colisão frontal
+Vila Real,2007:02:17 12:50:00,0,2,IP4,,"79,200",Despiste com capotamento
+Vila Real,2007:10:27 20:35:00,0,1,A24,,"66,000",Despiste simples
+Vila Real,2007:10:11 14:00:00,0,1,EN2,,"58,000",Atropelamento peões
+Vila Real,2007:04:29 20:30:00,1,1,EM313,,"41,690",Atropelamento peões
+Vila Real,2007:02:04 05:00:00,0,1,EN2,,,Colisão frontal
+Vila Real,2007:02:07 13:10:00,0,1,PÇ 25 ABRIL,,,Atropelamento peões
+Vila Real,2007:02:23 18:20:00,0,1,R FUNDADOR CIRCUITO VILA REAL,,,Colisão frontal
+Vila Real,2007:04:11 14:40:00,0,2,R MIGUEL TORGA,,,Atropelamento peões
+Vila Real,2007:05:22 18:20:00,0,1,RECTA MATEUS,Col. lat. c/ outro veíc. mov.
+Vila Real,2007:08:11 14:30:00,0,1,EM1220,Colisão frontal
+Vila Real,2007:10:23 10:45:00,0,1,R D PEDRO CASTRO,Atropelamento peões
+Vila Real,2007:10:25 17:40:00,0,1,AV REG INFANTARIA 13,Atropelamento peões
