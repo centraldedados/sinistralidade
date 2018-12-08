@@ -43,7 +43,7 @@ Faro |
 Guarda | 2008-Fim
 Leiria | 2008-Fim
 Lisboa | 
-Portalegre | 
+Portalegre | 2008-Fim
 Porto | 
 Santarém | 
 Setúbal | 
