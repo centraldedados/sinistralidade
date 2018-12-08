@@ -47,6 +47,6 @@ Portalegre | 2008-Fim
 Porto | 
 Santarém | 2008-Fim 
 Setúbal | 
-Viana do Castelo | 
+Viana do Castelo | 2008-Fim
 Vila Real | 2008-Fim
 Viseu | 2008-Fim
