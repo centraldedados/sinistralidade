@@ -27,12 +27,14 @@ Scripts:
 - Documentar scripts, makefile no final
 - Acabar limpeza manual dos csv. Há ainda algumas inconsistências nas colunas e valores; infelizmente, as inconsistências são também ela inconsistentes. Situação atual:
 
+Esta tabela indica os ficheiros cuja validação do número de colunas está confirmada.
+Falta ainda verificar se as linhas estão corretas e bem preenchidas.
 Distrito        | Limpo           
 ------------- |:-------------:
 Aveiro | 2008-Fim
 Beja | 2008-Fim
 Braga | 2008-Fim
-Bragança | 
+Bragança | 2008-Fim
 Castelo Branco | 
 Coimbra | 
 Évora | 
