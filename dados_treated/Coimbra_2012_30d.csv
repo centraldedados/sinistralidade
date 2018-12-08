@@ -46,53 +46,54 @@ Soure,2012:10:31 18:30:00,0,1,IC2,"166,616",Colisão lat. c/ outro veíc. mov.
 Tabua,2012:03:07 22:30:00,1,0,EM1304,"3,300",Despiste c/ capotamento
 Tabua,2012:08:11 21:30:00,0,1,Rua Vale da Vaca,,Desp. c/ dispositivo de retenção
 Tabua,2012:09:10 09:40:00,0,1,EN17,"69,000",Despiste simples
-,,37,80,,,
-Cantanhede,2012:01:05 19:45:00,0,1,R Chão Nov
-Cantanhede,2012:02:14 12:00:00,1,0,EN109,"97,200"
-Cantanhede,2012:03:01 07:55:00,0,1,EM584-1,"1,800"
-Cantanhede,2012:05:09 14:55:00,0,1,A1,"210,080"
-Cantanhede,2012:07:28 22:25:00,1,2,EN234-1,"1,620"
-Cantanhede,2012:08:18 08:00:00,0,1,Estrada Municipa
-Cantanhede,2012:12:16 07:40:00,0,1,A17,"76,300"
-Coimbra,2012:02:10 22:00:00,0,1,R. Qta dos Malheiro
-Coimbra,2012:03:01 16:20:00,0,1,R. Principa
-Coimbra,2012:03:04 06:25:00,1,1,R. Comb. Gd .Guerr
-Coimbra,2012:03:23 19:40:00,1,0,EN111,"33,600"
-Coimbra,2012:04:02 19:30:00,0,1,R. João M. P. Gonçalve
-Coimbra,2012:04:29 20:40:00,1,2,EN234-1,"13,600"
-Coimbra,2012:05:05 08:35:00,0,1,IC
-Coimbra,2012:05:13 20:30:00,0,1,EN17,"6,700"
-Coimbra,2012:05:31 17:35:00,0,2,IC2,"181,400"
-Coimbra,2012:06:07 08:25:00,1,0,A1,"198,759"
-Coimbra,2012:07:23 21:45:00,0,1,IC2,"195,880"
-Coimbra,2012:07:27 05:25:00,0,1,IC2,"195,870"
-Coimbra,2012:08:24 10:45:00,0,1,Ava de Conimbrig
-Coimbra,2012:09:21 00:05:00,1,0,Estrada Beir
-Coimbra,2012:09:30 11:50:00,1,0,IC2,"183,000"
-Coimbra,2012:11:01 08:00:00,0,1,IP3,"43,800"
-Coimbra,2012:11:03 02:00:00,1,0,IC2,"182,900"
-Coimbra,2012:11:18 00:50:00,0,1,R. Pedro R. dos Santo
-Coimbra,2012:12:02 05:20:00,2,0,Av. Cónego Urb. Duart
-Coimbra,2012:12:02 07:20:00,0,1,IC2,"181,050"
-Coimbra,2012:12:24 06:10:00,0,2,EN111-
-Coimbra,2012:12:31 23:45:00,0,2,IC2,"197,870"
-Cond.-a-Nova,2012:01:14 18:40:00,0,1,CASAL DA CRU
-Cond.-a-Nova,2012:02:24 05:15:00,0,1,EN1,"171,900"
-Cond.-a-Nova,2012:05:09 19:30:00,1,0,EN1-7,"6,000"
-Cond.-a-Nova,2012:07:08 19:40:00,0,1,EN347,"33,800"
-Cond.-a-Nova,2012:07:12 01:10:00,0,1,A1,"175,380"
-Cond.-a-Nova,2012:07:16 20:35:00,0,1,IC3,"2,900"
-Cond.-a-Nova,2012:11:23 13:45:00,1,0,R. Tiago Bento Vieir
-Figueira da Foz,2012:01:06 10:15:00,0,1,R. N. Sra De Seiç
-Figueira da Foz,2012:01:06 17:50:00,0,1,R. São Tom
-Figueira da Foz,2012:01:10 14:10:00,1,0,"R. 1o MAIO, Casal Areia Figueira da Foz,2012:01:21 19:40:00,0,1,R. Sta Bárbar Figueira da Foz,2012:02:02 11:45:00,0,1,IC1,135","400"""
-Figueira da Foz,2012:02:06 04:20:00,1,0,IC1,"135,400"
-Figueira da Foz,2012:02:21 07:40:00,0,1,IC1,"135,400"
-Figueira da Foz,2012:03:15 20:45:00,0,1,R. Joaquim G. Carvalh
-Figueira da Foz,2012:04:05 23:35:00,0,1,Av. 12 de Julh
-Figueira da Foz,2012:04:15 15:45:00,1,1,R. Zé Índi
-Figueira da Foz,2012:06:03 12:30:00,0,1,Av. 25 de Abri
-Figueira da Foz,2012:07:13 21:28:00,0,1,ACC-A1
-Figueira da Foz,2012:08:06 19:30:00,0,1,Rua Direit
-Figueira da Foz,2012:08:19 02:15:00,1,0,IC1,"115,000"
-Figueira da Foz,2012:09:18 17:10:00,0,1,Rua Acácia
+Cantanhede,2012:01:05 19:45:00,0,1,R Chão Novo,,Despiste simples
+Cantanhede,2012:02:14 12:00:00,1,0,EN109,"97,200",Atropelamento de peões
+Cantanhede,2012:03:01 07:55:00,0,1,EM584-1,"1,800",Colisão lat. c/ outro veíc. mov.
+Cantanhede,2012:05:09 14:55:00,0,1,A1,"210,080",Despiste c/ capotamento
+Cantanhede,2012:07:28 22:25:00,1,2,EN234-1,"1,620",Colisão lat. c/ outro veíc. mov.
+Cantanhede,2012:08:18 08:00:00,0,1,Estrada Municipal,,Despiste simples
+Cantanhede,2012:12:16 07:40:00,0,1,A17,"76,300",Despiste c/ capotamento
+Coimbra,2012:02:10 22:00:00,0,1,R. Qta dos Malheiros,,Despiste c/col. c/veíc. imobil./obst.
+Coimbra,2012:03:01 16:20:00,0,1,R. Principal,,Despiste simples
+Coimbra,2012:03:04 06:25:00,1,1,R. Comb. Gd .Guerra,,Despiste c/col. c/veíc. imobil./obst
+Coimbra,2012:03:23 19:40:00,1,0,EN111,"33,600",Colisão lat. c/ outro veíc. mov.
+Coimbra,2012:04:02 19:30:00,0,1,R. João M. P. Gonçalves,,Atropelamento de peões
+Coimbra,2012:04:29 20:40:00,1,2,EN234-1,"13,600",Colisão lat. c/ outro veíc. mov.
+Coimbra,2012:05:05 08:35:00,0,1,IC2,,Colisão lat. c/ outro veíc. mov.
+Coimbra,2012:05:13 20:30:00,0,1,EN17,"6,700",Atropelamento de peões
+Coimbra,2012:05:31 17:35:00,0,2,IC2,"181,400",Colisão lat. c/ outro veíc. mov.
+Coimbra,2012:06:07 08:25:00,1,0,A1,"198,759",Colisão tras. c/ outro veíc. mov.
+Coimbra,2012:07:23 21:45:00,0,1,IC2,"195,880",Despiste simples
+Coimbra,2012:07:27 05:25:00,0,1,IC2,"195,870",Despiste c/ trans. disp. ret. lateral
+Coimbra,2012:08:24 10:45:00,0,1,Ava de Conimbriga,,Despiste c/col. c/veíc. imobil./obst.
+Coimbra,2012:09:21 00:05:00,1,0,Estrada Beira,,Colisão lat. c/ outro veíc. mov
+Coimbra,2012:09:30 11:50:00,1,0,IC2,"183,000",Atropelamento de peões
+Coimbra,2012:11:01 08:00:00,0,1,IP3,"43,800",Despiste s/ dispositivo de retenção
+Coimbra,2012:11:03 02:00:00,1,0,IC2,"182,900",Atropelamento de peões
+Coimbra,2012:11:18 00:50:00,0,1,R. Pedro R. dos Santos,,Despiste simples
+Coimbra,2012:12:02 05:20:00,2,0,Av. Cónego Urb. Duarte,,Despiste c/ capotamento
+Coimbra,2012:12:02 07:20:00,0,1,IC2,"181,050",Despiste c/ capotamento
+Coimbra,2012:12:24 06:10:00,0,2,EN111,,Colisão frontal
+Coimbra,2012:12:31 23:45:00,0,2,IC2,"197,870",Colisão lat. c/ outro veíc. mov.
+Cond.-a-Nova,2012:01:14 18:40:00,0,1,CASAL DA CRUZ,,Despiste simples
+Cond.-a-Nova,2012:02:24 05:15:00,0,1,EN1,"171,900",Despiste c/ capotamento
+Cond.-a-Nova,2012:05:09 19:30:00,1,0,EN1-7,"6,000",Colisão frontal
+Cond.-a-Nova,2012:07:08 19:40:00,0,1,EN347,"33,800",Colisão frontal
+Cond.-a-Nova,2012:07:12 01:10:00,0,1,A1,"175,380",Despiste c/ trans. disp. ret. lateral
+Cond.-a-Nova,2012:07:16 20:35:00,0,1,IC3,"2,900",Colisão lat. c/ outro veíc. mov.
+Cond.-a-Nova,2012:11:23 13:45:00,1,0,R. Tiago Bento Vieira,,Atropelamento de peões
+Figueira da Foz,2012:01:06 10:15:00,0,1,R. N. Sra De Seiça,,Atropelamento de peões
+Figueira da Foz,2012:01:06 17:50:00,0,1,R. São Tomé,,Colisão frontal
+Figueira da Foz,2012:01:10 14:10:00,1,0,"R. 1o MAIO, Casal Areia",,Atropelamento de peões
+Figueira da Foz,2012:01:21 19:40:00,0,1,R. Sta Bárbara,,Colisão frontal
+Figueira da Foz,2012:02:02 11:45:00,0,1,IC1,"135,400",Colisão com outras situações
+Figueira da Foz,2012:02:06 04:20:00,1,0,IC1,"135,400",Despiste simples
+Figueira da Foz,2012:02:21 07:40:00,0,1,IC1,"135,400",Colisão tras. c/ outro veíc. mov.
+Figueira da Foz,2012:03:15 20:45:00,0,1,R. Joaquim G. Carvalho,,Colisão frontal
+Figueira da Foz,2012:04:05 23:35:00,0,1,Av. 12 de Julho,,Colisão lat. c/ outro veíc. mov.
+Figueira da Foz,2012:04:15 15:45:00,1,1,R. Zé Índio,,Despiste c/col. c/veíc. imobil./obst.
+Figueira da Foz,2012:06:03 12:30:00,0,1,Av. 25 de Abril,,Atropelamento de peões
+Figueira da Foz,2012:07:13 21:28:00,0,1,ACC-A14,,Despiste simples
+Figueira da Foz,2012:08:06 19:30:00,0,1,Rua Direita,,Despiste simples
+Figueira da Foz,2012:08:19 02:15:00,1,0,IC1,"115,000",Despiste c/ capotamento
+Figueira da Foz,2012:09:18 17:10:00,0,1,Rua Acácias,,Colisão lat. c/ outro veíc. mov.

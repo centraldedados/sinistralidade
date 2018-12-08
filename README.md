@@ -36,7 +36,7 @@ Beja | 2008-Fim
 Braga | 2008-Fim
 Bragança | 2008-Fim
 Castelo Branco | 2008-Fim
-Coimbra | 
+Coimbra | 2008-Fim
 Évora | 
 Faro | 
 Guarda | 
