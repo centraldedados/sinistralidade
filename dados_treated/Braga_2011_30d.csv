@@ -1,28 +1,81 @@
 Concelho,Datahora,M,FG,Via,km,Natureza
+Amares,2011:09:27 19:15:00,0,1,Av Telheiras,,Atropelamento de peões
+Amares,2011:05:14 14:55:00,0,1,R 20 Janeiro,,Atropelamento com fuga
+Amares,2011:06:25 21:50:00,1,0,R Afonso M Pereira Azevedo,,Despiste simples
+Amares,2011:09:13 07:40:00,1,3,R Cintura,,Colisão frontal
+Amares,2011:12:01 18:20:00,0,1,R S Veríssimo,,Despiste simples
+Amares,2011:03:08 18:00:00,0,1,R Cancela Cruz,,Atropelamento de peões
+Amares,2011:05:31 18:00:00,1,0,EN205,"47,000",Colisão frontal
+Amares,2011:02:03 20:30:00,0,1,EN308,"63,700",Colisão frontal
+Amares,2011:10:23 09:30:00,0,1,EN205,"47,450",Colisão frontal
+Amares,2011:11:08 08:25:00,0,1,EN205,"50,000",Atropelamento de peões
+Amares,2011:11:16 18:00:00,1,0,EN205,"2,030",Atropelamento de peões
+Barcelos,2011:04:18 16:00:00,0,1,R Sto Amaro,,Atropelamento de peões
+Barcelos,2011:05:06 13:05:00,1,0,R S João,,Despiste s/dispositivo de retenção
+Barcelos,2011:08:12 20:00:00,0,1,Var Interna Barcelos,,Despiste c/capotamento
+Barcelos,2011:02:27 14:00:00,0,1,Cam Aces Ponte Tábuas,,Despiste c/capotamento
+Barcelos,2011:08:16 06:50:00,0,2,R Praia,,Colisão frontal
+Barcelos,2011:05:01 01:35:00,0,1,R Boncelao,,Colisão frontal
+Barcelos,2011:04:08 09:35:00,1,0,Av Praia - Barqueiros,,Colisão frontal
+Barcelos,2011:02:17 11:15:00,1,0,R S. Mateus,,Colisão frontal
+Barcelos,2011:11:30 13:30:00,0,1,R Pe. Paulino Ribeiro,,Atropelamento de peões
+Barcelos,2011:06:28 08:45:00,0,1,R Bento Antas Cruz,,Atropelamento de peões
+Barcelos,2011:08:19 20:45:00,1,0,R Montinho,,Atropelamento de peões
+Barcelos,2011:07:01 13:30:00,0,1,R Brigadeiro,,Colisão lat. c/outro veíc. mov.
+Barcelos,2011:04:24 16:30:00,0,1,Est Sta. M Alheira,,Despiste simples
+Barcelos,2011:11:07 17:00:00,1,0,R D João Batista Machado,,Colisão com fuga
+Barcelos,2011:09:09 20:30:00,0,1,EM306,"60,900",Despiste simples
+Barcelos,2011:02:26 14:10:00,0,1,EM306,"47,900",Desp. c/col. c/veíc. imobil./obst.
+Barcelos,2011:04:15 03:10:00,0,1,EN103,"25,600",Desp. c/col. c/veíc. imobil./obst.
+Barcelos,2011:01:30 11:45:00,0,1,EN103,"19,070",Colisão c/outras situações
+Barcelos,2011:06:04 22:10:00,0,1,EN103,"21,350",Colisão lat. c/outro veíc. mov.
+Barcelos,2011:09:17 08:40:00,1,0,EN103,"31,810",Colisão lat. c/outro veíc. mov.
+Barcelos,2011:02:19 17:20:00,1,0,EN103-1,"5,730",Atropelamento de peões
+Barcelos,2011:09:22 23:30:00,0,1,EN205,"25,550",Atropelamento de peões
+Barcelos,2011:12:03 11:10:00,1,0,EN205,"15,550",Colisão frontal
+Barcelos,2011:12:24 17:30:00,0,1,EN205,"18,005",Colisão lat. c/outro veíc. mov.
+Barcelos,2011:10:21 22:20:00,0,1,EN204,"25,520",Colisão lat. c/outro veíc. mov.
+Barcelos,2011:01:13 14:30:00,1,1,EN204,"29,400",Colisão c/outras situações
+Braga,2011:05:10 17:45:00,0,1,Est. Via Falperra,,Colisão lat. c/outro veíc. mov.
+Braga,2011:08:31 08:10:00,0,1,Av D Salgado Zenha,,Despiste c/dispositivo de retenção
+Braga,2011:07:23 19:00:00,0,2,R Cónego Álvares Costa,,Desp. c/col. c/veíc. imobil./obst.
+Braga,2011:01:12 23:10:00,0,1,R Frei José Vilaça,,Atropelamento de peões
+Braga,2011:05:17 22:00:00,0,1,R São Martinho,,Atropelamento de peões
+Braga,2011:05:06 11:40:00,0,1,Av João Paulo II,,Colisão lat. c/outro veíc. mov.
+Braga,2011:05:25 09:50:00,0,1,R Fábrica,,Atropelamento de peões
+Braga,2011:08:19 18:30:00,0,1,R Veiga,,Despiste c/dispositivo de retenção
+Braga,2011:10:01 14:30:00,0,2,R Feira,,Colisão frontal
+Braga,2011:05:21 07:45:00,0,1,Av João Paulo II,,Atropelamento de peões
+Braga,2011:09:05 09:25:00,0,1,Av Frei B. Mártires,,Colisão lat. c/outro veíc. mov.
+Braga,2011:03:11 19:45:00,0,1,Av António Macedo,,Colisão lat. c/outro veíc. mov.
+Braga,2011:08:02 20:30:00,0,1,Av Frei Bart Mártires,,Despiste s/dispositivo de retenção
+Braga,2011:07:30 18:45:00,0,1,R Damiana Maria Silva,,Despiste s/dispositivo de retenção
+Braga,2011:10:22 09:00:00,0,1,Nó Infias,,Desp. c/transp. disp. ret. lateral
+Braga,2011:07:01 08:30:00,0,1,R Pe António Freire,,Desp. c/transp. disp. ret. lateral
 Braga,2011:11:30 04:50:00,0,1,Av Cávado,,Despiste c/capotamento
-Braga,2011:09:21 16:40:00,0,1,Av General Norton Matos,,A  t r o  p  e  l a  me  n  t od  ep  eões
-Braga,2011:07:14 15:15:00,0,1,Lg São João Ponte,,A  t r o  p  e  l a  me  n  t od  epeões
+Braga,2011:09:21 16:40:00,0,1,Av General Norton Matos,,Atropelamento de peões
+Braga,2011:07:14 15:15:00,0,1,Lg São João Ponte,,Atropelamento de peões
 Braga,2011:03:03 13:35:00,0,1,R Veiga,,Atropelamento de peões
 Braga,2011:10:26 08:30:00,0,1,R Ala Namorados,,Desp. c/col. c/veíc. imobil./obst.
 Braga,2011:11:05 14:40:00,0,1,Est Via Falperra,,Colisão lat. c/outro veíc. mov.
-Braga,2011:10:06 18:25:00,0,1,Av São Pedro de Maximinos,,Co  li s  ã  ol a  t .  c  / o  u  t r ov  e íc. mov.
+Braga,2011:10:06 18:25:00,0,1,Av São Pedro de Maximinos,,Colisão lat. c/outro veíc. mov.
 Braga,2011:07:08 10:35:00,0,2,Rot. Var Real c/ Recta Feital,,Colisão lat. c/outro veíc. mov.
-Braga,2011:01:15 02:45:00,0,1,R Vilar,,A  t r o  p  e  l a  me  n  to de peões
+Braga,2011:01:15 02:45:00,0,1,R Vilar,,Atropelamento de peões
 Braga,2011:01:18 07:35:00,0,1,Av 31 Janeiro,,Atropelamento de peões
 Braga,2011:07:06 16:45:00,1,0,R Caires,,Atropelamento de peões
 Braga,2011:07:20 20:35:00,0,1,Av Pe Júlio Fragata,,Colisão c/outras situações
 Braga,2011:08:01 21:45:00,0,1,Av João Paulo II,,Atropelamento de peões
 Braga,2011:08:02 19:00:00,0,1,Lg S Brás,,Atropelamento de peões
 Braga,2011:10:24 16:40:00,1,0,R Cidade Porto,,Atropelamento de peões
-Braga,2011:11:12 08:40:00,0,1,Av General Norton Matos,,A  t r o  p  e  l a  me  n  t od  ep  eões
+Braga,2011:11:12 08:40:00,0,1,Av General Norton Matos,,Atropelamento de peões
 Braga,2011:04:17 03:15:00,0,1,R Cidade Porto,,Colisão c/outras situações
 Braga,2011:02:26 17:20:00,0,1,R Barbosas,,Colisão c/outras situações
 Braga,2011:08:01 05:00:00,0,1,Est Via Falperra,,Despiste simples
-Braga,2011:12:14 07:20:00,1,0,Av Imaculada Conceição,,A  t r o  p  e  l a  me  n  t od  ep  eões
+Braga,2011:12:14 07:20:00,1,0,Av Imaculada Conceição,,Atropelamento de peões
 Braga,2011:06:03 19:15:00,1,0,Av Estádio AXA,,Despiste simples
 Braga,2011:11:30 09:00:00,0,1,R D. Afonso Henriques,,Atropelamento de peões
-Braga,2011:07:01 20:45:00,0,1,R Manuel da Silva Gomes,,D  e  s  p  i s  t es  imp  l e  s
-Braga,2011:02:19 20:00:00,0,1,R Boavista,,De  s p  i s  t es  i mp  le s
+Braga,2011:07:01 20:45:00,0,1,R Manuel da Silva Gomes,,Despiste simples
+Braga,2011:02:19 20:00:00,0,1,R Boavista,,Despiste simples
 Braga,2011:02:10 08:55:00,1,0,R Pinheiro Velho,,Colisão frontal
 Braga,2011:07:29 17:45:00,0,1,Av Pe Júlio Fragata,,Colisão lat. c/outro veíc. mov.
 Braga,2011:11:13 19:30:00,1,2,EN101,"98,265",Colisão lat. c/outro veíc. mov.
@@ -68,8 +121,8 @@ Fafe,2011:01:24 10:10:00,1,0,R Monsenhor V. Castro,,Atropelamento de peões
 Fafe,2011:06:09 19:00:00,0,1,EN206,"62,450",Colisão frontal
 Fafe,2011:11:23 21:09:00,0,1,URBANA,,Despiste simples
 Guimarães,2011:10:12 10:30:00,0,1,R Gen Humb  Delgado,,Colisão lat. c/outro veíc. mov.
-Guimarães,2011:12:21 18:40:00,0,1,Rodovia Covas,,Co  l i s ã  ol a  t .  c  / o  u  t r ov  e  í c  . mov.
-Guimarães,2011:06:02 19:15:00,0,1,Alameda Desportos,,Co  l is  ã  ol a  t .c  / o  u  t r ov  e  í c  .  mov.
+Guimarães,2011:12:21 18:40:00,0,1,Rodovia Covas,,Colisão lat. c/outro veíc. mov.
+Guimarães,2011:06:02 19:15:00,0,1,Alameda Desportos,,Colisão lat. c/outro veíc. mov.
 Guimarães,2011:08:07 15:30:00,1,0,R Oleiros,,Despiste simples
 Guimarães,2011:10:09 17:05:00,1,0,R S Martinho,,Despiste simples
 Guimarães,2011:10:16 14:00:00,0,1,R Encados,,Colisão c/veic./obst.f. de rodagem
@@ -78,8 +131,8 @@ Guimarães,2011:01:25 17:10:00,0,1,R 24 Junho,,Atropelamento de peões
 Guimarães,2011:01:08 19:00:00,1,0,R Pe Silva Gonçalves,,Atropelamento de peões
 Guimarães,2011:04:03 01:15:00,1,0,R Pe Ant. Pereira Silva,,Atropelamento de peões
 Guimarães,2011:06:20 17:51:00,1,0,Av S Gonçalo,,Atropelamento de peões
-Guimarães,2011:10:31 21:00:00,0,2,R Belos Ares,,C  o  l i s  ã  oc  / v e  i c  . / o  b  s  t . f . de rodagem
-Guimarães,2011:10:11 17:45:00,0,1,R Moura Machado,,At r o  p  e  l a  me  n  t od  ep  e  õ  e  s
+Guimarães,2011:10:31 21:00:00,0,2,R Belos Ares,,Colisão c/veic./obst. f. de rodagem
+Guimarães,2011:10:11 17:45:00,0,1,R Moura Machado,,Atropelamento de peões
 Guimarães,2011:06:20 07:55:00,0,1,R 1o Maio - Brito,,Atropelamento de peões
 Guimarães,2011:09:23 22:45:00,0,1,R Ant Costa Guimarães,,Atropelamento de peões
 Guimarães,2011:10:11 18:30:00,0,1,Rodovia Covas,,Atropelamento de peões
@@ -88,16 +141,16 @@ Guimarães,2011:05:25 18:45:00,0,1,R Rei Joaq. Aug. M. R Torres,,Atropelamento d
 Guimarães,2011:08:19 16:50:00,1,1,Albano Martins C. Lima,,Atropelamento de peões
 Guimarães,2011:08:07 01:30:00,0,1,R S. Martinho - Candoso,,Colisão lat. c/outro veíc. mov.
 Guimarães,2011:09:07 23:40:00,0,1,R Sra. Montes,,Despiste s/dispositivo de retenção
-Guimarães,2011:05:11 17:37:00,0,1,R Portelinha Remédios,,D  e  s  p  i s  t es  / d  is  p  o  s  i t i v od  eretenção
+Guimarães,2011:05:11 17:37:00,0,1,R Portelinha Remédios,,Despiste s/dispositivo de retenção
 Guimarães,2011:09:22 17:50:00,0,1,R Senhoras do Monte,,Despiste c/capotamento
-Guimarães,2011:08:02 19:40:00,0,1,Lg. N. S. Madre de Deus,,De  s  p  is  t ec  / c  a  p  o  t a  me  n  to
+Guimarães,2011:08:02 19:40:00,0,1,Lg. N. S. Madre de Deus,,Despiste c/capotamento
 Guimarães,2011:06:16 12:50:00,0,1,R 14o Dezembro,,Despiste c/dispositivo de retenção
 Guimarães,2011:12:17 22:10:00,0,1,R Pe Ant. Pereira Silva,,Colisão frontal
 Guimarães,2011:09:25 02:25:00,0,1,R S Tomé,,Colisão frontal
 Guimarães,2011:12:10 19:35:00,0,2,R S João Batista,,Atropelamento de peões
 Guimarães,2011:11:06 22:00:00,0,1,R N. S. Conceição,,Atropelamento de peões
 Guimarães,2011:10:07 21:45:00,0,1,R Laurinda Fer Magalhães,,Atropelamento de peões
-Guimarães,2011:11:21 18:10:00,0,1,R Ct. João P F Leite Brandão,,A  t r o  p  e  l a  me  n  t od  epeões
+Guimarães,2011:11:21 18:10:00,0,1,R Ct. João P F Leite Brandão,,Atropelamento de peões
 Guimarães,2011:10:21 09:37:00,1,0,Av N S Conceição,,Atropelamento de peões
 Guimarães,2011:07:30 21:50:00,0,1,EN310,"10,000",Atropelamento de peões
 Guimarães,2011:07:30 06:50:00,1,0,EN310,"11,900",Atropelamento de peões
@@ -164,57 +217,3 @@ Vila Verde,2011:08:05 19:20:00,0,1,EN101,"81,000",Atropelamento de peões
 Vizela,2011:09:04 16:15:00,0,1,R Felgueiras,,Colisão frontal
 Vizela,2011:10:23 04:50:00,1,1,R Felgueiras,,Colisão lat. c/outro veíc. mov.
 Vizela,2011:05:14 22:45:00,0,1,R Trancosa,,Colisão lat. c/outro veíc. mov.
-,,68,182,,,
-Amares,2011:09:27 19:15:00,0,1,Av Telheiras,Atropelamento de peões
-Amares,2011:05:14 14:55:00,0,1,R 20 Janeiro,Atropelamento com fuga
-Amares,2011:06:25 21:50:00,1,0,R Afonso M Pereira Azevedo,Despiste simples
-Amares,2011:09:13 07:40:00,1,3,R Cintura,Colisão frontal
-Amares,2011:12:01 18:20:00,0,1,R S Veríssimo,Despiste simples
-Amares,2011:03:08 18:00:00,0,1,R Cancela Cruz,Atropelamento de peões
-Amares,2011:05:31 18:00:00,1,0,"EN20547,000",Colisão frontal
-Amares,2011:02:03 20:30:00,0,1,"EN30863,700",Colisão frontal
-Amares,2011:10:23 09:30:00,0,1,"EN20547,450",Colisão frontal
-Amares,2011:11:08 08:25:00,0,1,"EN20550,000",Atropelamento de peões
-Amares,2011:11:16 18:00:00,1,0,"EN2052,030",Atropelamento de peões
-Barcelos,2011:04:18 16:00:00,0,1,R Sto Amaro,Atropelamento de peões
-Barcelos,2011:05:06 13:05:00,1,0,R S João,Despiste s/dispositivo de retenção
-Barcelos,2011:08:12 20:00:00,0,1,Var Interna Barcelos,Despiste c/capotamento
-Barcelos,2011:02:27 14:00:00,0,1,Cam Aces Ponte Tábuas,Despiste c/capotamento
-Barcelos,2011:08:16 06:50:00,0,2,R Praia,Colisão frontal
-Barcelos,2011:05:01 01:35:00,0,1,R Boncelao,Colisão frontal
-Barcelos,2011:04:08 09:35:00,1,0,Av Praia - Barqueiros,Colisão frontal
-Barcelos,2011:02:17 11:15:00,1,0,R S. Mateus,Colisão frontal
-Barcelos,2011:11:30 13:30:00,0,1,R Pe. Paulino Ribeiro,Atropelamento de peões
-Barcelos,2011:06:28 08:45:00,0,1,R Bento Antas Cruz,Atropelamento de peões
-Barcelos,2011:08:19 20:45:00,1,0,R Montinho,Atropelamento de peões
-Barcelos,2011:07:01 13:30:00,0,1,R Brigadeiro,Colisão lat. c/outro veíc. mov.
-Barcelos,2011:04:24 16:30:00,0,1,Est Sta. M Alheira,Despiste simples
-Barcelos,2011:11:07 17:00:00,1,0,R D João Batista Machado,Colisão com fuga
-Barcelos,2011:09:09 20:30:00,0,1,"EM30660,900",Despiste simples
-Barcelos,2011:02:26 14:10:00,0,1,"EM30647,900",Desp. c/col. c/veíc. imobil./obst.
-Barcelos,2011:04:15 03:10:00,0,1,"EN10325,600",Desp. c/col. c/veíc. imobil./obst.
-Barcelos,2011:01:30 11:45:00,0,1,"EN10319,070",Colisão c/outras situações
-Barcelos,2011:06:04 22:10:00,0,1,"EN10321,350",Colisão lat. c/outro veíc. mov.
-Barcelos,2011:09:17 08:40:00,1,0,"EN10331,810",Colisão lat. c/outro veíc. mov.
-Barcelos,2011:02:19 17:20:00,1,0,"EN103-15,730",Atropelamento de peões
-Barcelos,2011:09:22 23:30:00,0,1,"EN20525,550",Atropelamento de peões
-Barcelos,2011:12:03 11:10:00,1,0,"EN20515,550",Colisão frontal
-Barcelos,2011:12:24 17:30:00,0,1,"EN20518,005",Colisão lat. c/outro veíc. mov.
-Barcelos,2011:10:21 22:20:00,0,1,"EN20425,520",Colisão lat. c/outro veíc. mov.
-Barcelos,2011:01:13 14:30:00,1,1,"EN20429,400",Colisão c/outras situações
-Braga,2011:05:10 17:45:00,0,1,Est. Via Falperra,Colisão lat. c/outro veíc. mov.
-Braga,2011:08:31 08:10:00,0,1,Av D Salgado Zenha,Despiste c/dispositivo de retenção
-Braga,2011:07:23 19:00:00,0,2,R Cónego Álvares Costa,Desp. c/col. c/veíc. imobil./obst.
-Braga,2011:01:12 23:10:00,0,1,R Frei José Vilaça,At r o  p  e  l a  me  n  t od  ep  e  õ  e  s
-Braga,2011:05:17 22:00:00,0,1,R São Martinho,A  t r o  p  e  l a  me  n  t od  ep  e  õ  e  s
-Braga,2011:05:06 11:40:00,0,1,Av João Paulo II,Co  l i s ã  ol a  t .  c  / o  u  t r ov  e  í c  . mov.
-Braga,2011:05:25 09:50:00,0,1,R Fábrica,A  t  r o  p  e  la  me  n  t od  ep  e õ es
-Braga,2011:08:19 18:30:00,0,1,R Veiga,D  e  s  p  i s  t ec  / d  is  p  o  s  i t i v o de retenção
-Braga,2011:10:01 14:30:00,0,2,R Feira,Colisão frontal
-Braga,2011:05:21 07:45:00,0,1,Av João Paulo II,At r o  p  e  l a  me  n  t od  ep  e  õ  e  s
-Braga,2011:09:05 09:25:00,0,1,Av Frei B. Mártires,Colisão lat. c/outro veíc. mov.
-Braga,2011:03:11 19:45:00,0,1,Av António Macedo,Co  l i s ã  ol a  t .  c  / o  u  t r ov  e  í c  .m  ov.
-Braga,2011:08:02 20:30:00,0,1,Av Frei Bart Mártires,D  e  s  p  i s  t es / d  i s  p  o  s  i tivo de retenção
-Braga,2011:07:30 18:45:00,0,1,R Damiana Maria Silva,D  e  s  p  i s  t es  / d  is  p  o  s  i t i v  od  er e tenção
-Braga,2011:10:22 09:00:00,0,1,Nó Infias,Desp. c/transp. disp. ret. lateral
-Braga,2011:07:01 08:30:00,0,1,R Pe António Freire,De  s p  .  c  / t r a  n  s  p  .  d  i s  p  .  r e  t .lateral
