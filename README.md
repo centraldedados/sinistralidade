@@ -41,7 +41,7 @@ Coimbra | 2008-Fim
 Évora | 2008-Fim
 Faro | 
 Guarda | 2008-Fim
-Leiria | 
+Leiria | 2008-Fim
 Lisboa | 
 Portalegre | 
 Porto | 

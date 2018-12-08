@@ -101,62 +101,54 @@ Leiria,2008-11-28 04:00,1,0,EN1,"133,200",Desp. c/transp.disp. ret. lateral
 Leiria,2008-03-23 15:00,0,1,EN350,"2,700",Despiste simples
 Leiria,2008-03-18 04:45,0,1,IC2,"117,650",Despiste simples
 Leiria,2008-04-03 18:30,0,1,R NOSSA SRA FATIMA,,Despiste simples
-Leiria,2008-02-24 04:00,1,0,R D AF. HENRIQUES,Despiste simples
-Leiria,2008-09-28 20:00,0,1,EST CORVACHIA,Despiste simples
-Leiria,2008-12-17 17:30,0,1,R PRINCIPAL 1389,Colisão com outras situações
-Leiria,2008-02-28 12:35,0,1,R VALE ARIEIRA,Colisão com outras situações
-Leiria,2008-03-11 10:00,4,0,R DA PEDREIRA,Colisão com outras situações
-Leiria,2008-04-22 21:00,0,1,"EN109164,300",Atropelamento de peões
-M. Grande,2008-06-08 04:45,0,1,R LAMARAO,Atropelamento de peões
-M. Grande,2008-06-29 19:50,1,1,"A8123,400",Colisão lat. c/outro veíc. mov.
-M. Grande,2008-06-25 23:50,0,2,AV 1 MAIO,Colisão lat. c/outro veíc. mov.
-M. Grande,2008-08-27 18:50,0,1,R LEIRIA,Colisão lat. c/outro veíc. mov.
-M. Grande,2008-03-10 09:20,0,1,"Estrada Municipal0,010",Colisão frontal
-M. Grande,2008-08-01 20:15,1,0,"EN2426,350",Colisão frontal
-M. Grande,2008-08-20 21:00,0,1,ESTR MOITA,Colisão frontal
-M. Grande,2008-12-08 04:30,0,1,"EN242-26,500",Despiste c/col. c/veíc. imob./obst.
-M. Grande,2008-05-17 02:00,0,1,"Estrada Municipal0,010",Despiste c/capotamento
-M. Grande,2008-10-30 11:50,0,2,"A8122,000",Despiste c/capotamento
-M. Grande,2008-01-27 15:15,1,0,"A8116,500",Despiste simples
-Nazaré,2008-06-21 15:35,0,3,"EM12850,010",Colisão lat. c/outro veíc. mov.
-Nazaré,2008-11-17 05:00,0,1,EN242,Despiste simples
-Nazaré,2008-11-16 14:25,0,1,"EN24239,500",Despiste c/col. c/veíc. imob./obst.
-Óbidos,2008-12-25 17:55,1,0,EM585,Atropelamento de peões
-Óbidos,2008-10-26 18:38,1,0,"EN11418,400",Atropelamento de peões
-Óbidos,2008-05-15 01:10,0,1,"Estrada Municipal0,010",Despiste c/capotamento
-Óbidos,2008-11-09 19:00,0,1,"EN1153,200",Atropelamento de peões
-Óbidos,2008-01-15 09:24,0,1,ESTR BARROCAS,Despiste c/col. c/veíc. imob./obst.
-Óbidos,2008-11-09 18:13,0,1,"EN1150,100",Atropelamento de peões
-Ped. Grande,2008-09-24 23:30,0,1,"EM5150,010",Despiste c/col. c/veíc. imob./obst.
-Ped. Grande,2008-06-19 22:00,0,2,"IC884,200",Colisão tras. c/outro veíc. mov.
-Ped. Grande,2008-05-11 11:50,0,1,LG DOS MARQUES,Despiste c/capotamento
-Peniche,2008-10-31 07:45,0,1,AV PAULO VI,Atropelamento de peões
-Peniche,2008-07-29 21:20,0,1,AV PORTO DE PESCAS,Atropelamento de peões
-Peniche,2008-10-09 08:45,0,1,"EM5780,010",Colisão lat. c/outro veíc. mov.
-,,,,R PEDRO ALVARE
-Peniche,2008-12-16 07:55,0,1,,Colisão lat. c/outro veíc. mov.
-,,,,CABRA
-Peniche,2008-11-19 18:50,0,2,R PRINCIPAL,Colisão lat. c/outro veíc. mov.
-Peniche,2008-02-29 15:25,0,1,R STO ANTONIO,Colisão lat. c/outro veíc. mov.
-,,,,INTERIOR DO PORT
-Peniche,2008-12-12 16:00,0,1,,Colisão lat. c/outro veíc. mov.
-,,,,DE PESC
-Peniche,2008-07-16 12:55,0,1,R DA PONTE VELHA,Colisão lat. c/outro veíc. mov.
-Peniche,2008-01-12 16:15,1,0,R PRINCIPAL,Colisão tras. c/outro veíc. mov.
-Peniche,2008-01-30 09:30,1,0,EM603,Colisão frontal
-Peniche,2008-12-11 10:28,0,1,"EN11411,000",Colisão frontal
-Peniche,2008-06-15 23:10,1,0,ROT LAPADOSA,Colisão frontal
-,,,,R GEN HUMBERT
-Peniche,2008-01-21 16:05,0,1,,Colisão frontal
-,,,,DELGAD
-Peniche,2008-02-13 17:00,0,1,EM603,Despiste simples
-,,,,AV MONSENHO
-Peniche,2008-11-19 12:10,0,1,,Atropelamento de peões
-,,,,BASTO
-Peniche,2008-12-27 04:45,0,1,AV DO MAR,Atropelamento de peões
-Peniche,2008-09-25 09:55,0,1,"IP60,600",Atropelamento de peões
-Peniche,2008-05-08 20:10,0,1,BO DO CALVARIO,Atropelamento de peões
-Pombal,2008-09-08 14:15,2,2,"A1160,700",Despiste c/capotamento
+Leiria,2008-02-24 04:00,1,0,R D AF. HENRIQUES,,Despiste simples
+Leiria,2008-09-28 20:00,0,1,EST CORVACHIA,,Despiste simples
+Leiria,2008-12-17 17:30,0,1,R PRINCIPAL 1389,,Colisão com outras situações
+Leiria,2008-02-28 12:35,0,1,R VALE ARIEIRA,,Colisão com outras situações
+Leiria,2008-03-11 10:00,4,0,R DA PEDREIRA,,Colisão com outras situações
+Leiria,2008-04-22 21:00,0,1,EN109,"164,300",Atropelamento de peões
+M. Grande,2008-06-08 04:45,0,1,R LAMARAO,,Atropelamento de peões
+M. Grande,2008-06-29 19:50,1,1,A8,"123,400",Colisão lat. c/outro veíc. mov.
+M. Grande,2008-06-25 23:50,0,2,AV 1 MAIO,,Colisão lat. c/outro veíc. mov.
+M. Grande,2008-08-27 18:50,0,1,R LEIRIA,,Colisão lat. c/outro veíc. mov.
+M. Grande,2008-03-10 09:20,0,1,Estrada Municipal,"0,010",Colisão frontal
+M. Grande,2008-08-01 20:15,1,0,EN242,"6,350",Colisão frontal
+M. Grande,2008-08-20 21:00,0,1,ESTR MOITA,,Colisão frontal
+M. Grande,2008-12-08 04:30,0,1,EN242-2,"6,500",Despiste c/col. c/veíc. imob./obst.
+M. Grande,2008-05-17 02:00,0,1,Estrada Municipal,"0,010",Despiste c/capotamento
+M. Grande,2008-10-30 11:50,0,2,A8,"122,000",Despiste c/capotamento
+M. Grande,2008-01-27 15:15,1,0,A8,"116,500",Despiste simples
+Nazaré,2008-06-21 15:35,0,3,EM1285,"0,010",Colisão lat. c/outro veíc. mov.
+Nazaré,2008-11-17 05:00,0,1,EN242,,Despiste simples
+Nazaré,2008-11-16 14:25,0,1,EN242,"39,500",Despiste c/col. c/veíc. imob./obst.
+Óbidos,2008-12-25 17:55,1,0,EM585,,Atropelamento de peões
+Óbidos,2008-10-26 18:38,1,0,EN114,"18,400",Atropelamento de peões
+Óbidos,2008-05-15 01:10,0,1,Estrada Municipal,"0,010",Despiste c/capotamento
+Óbidos,2008-11-09 19:00,0,1,EN115,"3,200",Atropelamento de peões
+Óbidos,2008-01-15 09:24,0,1,ESTR BARROCAS,,Despiste c/col. c/veíc. imob./obst.
+Óbidos,2008-11-09 18:13,0,1,EN115,"0,100",Atropelamento de peões
+Ped. Grande,2008-09-24 23:30,0,1,EM515,"0,010",Despiste c/col. c/veíc. imob./obst.
+Ped. Grande,2008-06-19 22:00,0,2,IC8,"84,200",Colisão tras. c/outro veíc. mov.
+Ped. Grande,2008-05-11 11:50,0,1,LG DOS MARQUES,,Despiste c/capotamento
+Peniche,2008-10-31 07:45,0,1,AV PAULO VI,,Atropelamento de peões
+Peniche,2008-07-29 21:20,0,1,AV PORTO DE PESCAS,,Atropelamento de peões
+Peniche,2008-10-09 08:45,0,1,EM578,"0,010",Colisão lat. c/outro veíc. mov.
+Peniche,2008-12-16 07:55,0,1,R PEDRO ALVARES CABRAL,,Colisão lat. c/outro veíc. mov.
+Peniche,2008-11-19 18:50,0,2,R PRINCIPAL,,Colisão lat. c/outro veíc. mov.
+Peniche,2008-02-29 15:25,0,1,R STO ANTONIO,,Colisão lat. c/outro veíc. mov.
+Peniche,2008-12-12 16:00,0,1,INTERIOR DO PORTO DE PESCA,,Colisão lat. c/outro veíc. mov.
+Peniche,2008-07-16 12:55,0,1,R DA PONTE VELHA,,Colisão lat. c/outro veíc. mov.
+Peniche,2008-01-12 16:15,1,0,R PRINCIPAL,,Colisão tras. c/outro veíc. mov.
+Peniche,2008-01-30 09:30,1,0,EM603,,Colisão frontal
+Peniche,2008-12-11 10:28,0,1,EN114,"11,000",Colisão frontal
+Peniche,2008-06-15 23:10,1,0,ROT LAPADOSA,,Colisão frontal
+Peniche,2008-01-21 16:05,0,1,R GEN HUMBERTO DELGADO,,Colisão frontal
+Peniche,2008-02-13 17:00,0,1,EM603,,Despiste simples
+Peniche,2008-11-19 12:10,0,1,AV MONSENHOR BASTOS,,Atropelamento de peões
+Peniche,2008-12-27 04:45,0,1,AV DO MAR,,Atropelamento de peões
+Peniche,2008-09-25 09:55,0,1,IP6,"0,600",Atropelamento de peões
+Peniche,2008-05-08 20:10,0,1,BO DO CALVARIO,,Atropelamento de peões
+Pombal,2008-09-08 14:15,2,2,A1,"160,700",Despiste c/capotamento
 Pombal,2008-10-25 11:25,1,0,A1,"153,024",Despiste c/capotamento
 Pombal,2008-08-16 07:00,1,0,EN237,,Despiste simples
 Pombal,2008-06-01 17:05,0,2,A1,"143,030",Despiste simples
@@ -207,4 +199,3 @@ Porto de Mós,2008-10-25 05:32,1,0,EN243,"0,100",Despiste c/capotamento
 Porto de Mós,2008-02-10 11:30,0,1,EM1349,,Despiste simples
 Porto de Mós,2008-11-19 07:50,0,1,EM1296,,Despiste simples
 Porto de Mós,2008-09-09 19:50,0,1,EN362,"17,300",Desp. c/col. c/veíc. imob/obst
-,,57,189,,,
