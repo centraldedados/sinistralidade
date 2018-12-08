@@ -48,5 +48,5 @@ Porto |
 Santarém | 2008-Fim 
 Setúbal | 
 Viana do Castelo | 
-Vila Real | 
+Vila Real | 2008-Fim
 Viseu | 2008-Fim
