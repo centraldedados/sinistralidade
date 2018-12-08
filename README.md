@@ -23,6 +23,27 @@ Scripts:
 
 ## A fazer
 - ~~Corrigir nomes inconsistentes dos csv causados por inconsistência do nome dos pdfs originais~~
-- Corrigir erros nas tabelas, mais frequentes e inconsistentes de 2012 para trás
 - Nos ficheiros de 2007 para trás, há problemas nos cabeçalhos na conversão das tabelas. Em alguns casos, o título da página aparece na tabela convertida, pelo que o código procura pelo cabeçalho correcto nas primeiras linhas do ficheiro csv convertido. Há casos em que o cabeçalho não é convertido e o código acaba por não identificar nenhuma tabela de acidentes, apesar dela existir. É necessário fazer adaptações para este último caso. Existem por isso alguns ficheiros de dados de 2004 e 2005 vazios.
 - Documentar scripts, makefile no final
+- Acabar limpeza manual dos csv. Há ainda algumas inconsistências nas colunas e valores; infelizmente, as inconsistências são também ela inconsistentes. Situação atual:
+
+Distrito        | Limpo           
+------------- |:-------------:
+Aveiro | 2008-Fim
+Beja | 2008-Fim
+Braga | 2008-Fim
+Bragança | 
+Castelo Branco | 
+Coimbra | 
+Évora | 
+Faro | 
+Guarda | 
+Leiria | 
+Lisboa | 
+Portalegre | 
+Porto | 
+Santarém | 
+Setúbal | 
+Viana do Castelo | 
+Vila Real | 
+Viseu | 
