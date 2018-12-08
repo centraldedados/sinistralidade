@@ -29,6 +29,7 @@ Scripts:
 
 Esta tabela indica os ficheiros cuja validação do número de colunas está confirmada.
 Falta ainda verificar se as linhas estão corretas e bem preenchidas.
+
 Distrito        | Limpo           
 ------------- |:-------------:
 Aveiro | 2008-Fim
