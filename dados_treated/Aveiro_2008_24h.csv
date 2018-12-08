@@ -3,9 +3,7 @@ Concelho,Datahora,M,FG,Via,km,Natureza
 Águeda,2008-07-03 23:20,0,1,EN1,"238,000",Atropelamento de peões
 Águeda,2008-12-24 21:10,0,1,R JOAO BAPTISTA 152,,Despiste simples
 Águeda,2008-04-09 18:35,0,1,R DA IGREJA 5,,Despiste simples
-,,,,R DO PASSAL C/ R DE S,,
-Águeda,2008-03-15 15:30,0,1,,,Despiste simples
-,,,,PEDRO,,
+Águeda,2008-03-15 15:30,0,1,R DO PASSAL C/ R DE S PEDRO,,Despiste simples
 Águeda,2008-01-20 21:45,1,0,R VALE PIPES,,Despiste simples
 Águeda,2008-08-17 02:05,0,1,EN1,"231,000",Despiste simples
 Águeda,2008-05-07 02:15,0,1,EN230,"25,200",Despiste simples
@@ -38,9 +36,7 @@ Concelho,Datahora,M,FG,Via,km,Natureza
 Alberg.-a-Velha,2008-04-29 11:00,1,0,Estrada Florestal,,Atropelamento de peões
 Alberg.-a-Velha,2008-06-06 19:45,1,0,IC2,"255,850",Col. lat. c/outro veíc. mov.
 Alberg.-a-Velha,2008-09-30 08:50,1,0,Estrada Municipal,,Colisão frontal
-,,,,AV ANG CARCELAR,,
-Anadia,2008-01-17 15:50,0,1,,,Despiste c/ col c/ veíc. imobil/obst.
-,,,,ABREU 63,,
+Anadia,2008-01-17 15:50,0,1,AV ANG CARCELAR ABREU 63,,Despiste c/ col c/ veíc. imobil/obst.
 Anadia,2008-05-07 20:50,1,0,R DO ROSSIO,,Colisão tras. c/outro veíc. mov.
 Anadia,2008-02-02 19:40,0,1,R FOJO 40,,Despiste simples
 Anadia,2008-12-15 19:15,0,1,A1,"218,390",Colisão tras. c/outro veíc. mov.
@@ -77,96 +73,80 @@ Aveiro,2008-02-19 08:30,0,2,EN109,"56,000",Colisão choque em cadeia
 Aveiro,2008-01-24 17:55,0,2,EN235,"8,100",Col. lat. c/outro veíc. mov.
 Aveiro,2008-07-11 11:50,1,7,A25,"14,628",Col. lat. c/outro veíc. mov.
 Aveiro,2008-01-20 23:45,0,1,R DR ARTUR ALVES MOREIRA,,Col. lat. c/outro veíc. mov.
-,,,,CRUZAMENTO GRULHOVAI C/,,
-Aveiro,2008-12-23 17:30,0,1,MONSENHOR MIGUEL DE,,Col. lat. c/outro veíc. mov.
-,,,,OLIVEIRA,,
+Aveiro,2008-12-23 17:30,0,1,CRUZAMENTO GRULHOVAI C/ MONSENHOR MIGUEL DE OLIVEIRA,,Col. lat. c/outro veíc. mov.
 Aveiro,2008-08-08 16:45,0,1,R DIREITA 444,,Col. lat. c/outro veíc. mov.
 Aveiro,2008-05-04 18:35,0,1,EN109,"59,500",Colisão frontal
 C.  de Paiva,2008-01-01 16:15,1,0,Estrada Municipal,,Despiste s/disp.retenção
 C. de Paiva,2008-04-27 18:45,1,0,EN222,"35,965",Col. lat. c/outro veíc. mov.
 Espinho,2008-03-02 21:00,0,1,EN109,,Despiste c/col c/ veícimobil/obst.
-,,,,ESTRADA DE S TIAGO C / R,,
-Espinho,2008-07-07 19:30,1,0,,,Col. lat. c/outro veíc. mov.
-,,,,SOUTO,,
+Espinho,2008-07-07 19:30,1,0,ESTRADA DE S TIAGO C / R SOUTO,,Col. lat. c/outro veíc. mov.
 Espinho,2008-12-26 23:00,0,1,AV CENTRAL SUL,,Col. c/ veic./obst. f.rodagem
 Espinho,2008-10-26 12:05,1,0,A29,"37,546",Despiste simples
 Espinho,2008-08-09 07:35,0,1,A29,"35,838",Despiste c/ capotamento
 Estarreja,2008-08-23 20:00,0,1,R SAAVEDRA GUEDES,,Col. lat. c/outro veíc. mov.
-,,,,R D FRANCISCO NUNES,,
-Estarreja,2008-11-08 10:45,0,2,,,Col. lat. c/outro veíc. mov.
-,,,,TEIXEIRA,,
+Estarreja,2008-11-08 10:45,0,2,R D FRANCISCO NUNES TEIXEIRA,,Col. lat. c/outro veíc. mov.
 Estarreja,2008-01-02 16:50,0,1,EN109,"43,700",Colisão frontal
 Estarreja,2008-06-29 16:15,0,1,R JORNAL DE ESTARREJA,,Colisão frontal
 Estarreja,2008-12-09 10:30,0,1,Outra Via,,Colisão frontal
 Estarreja,2008-01-24 14:30,0,1,EM224-2,,Despiste c/col c/veíc.imobil/obst.
 Estarreja,2008-06-12 02:50,0,1,R ANTONIO MARIA SILVA PINHO,,Despiste c/ capotamento
 Estarreja,2008-07-12 17:35,1,0,R PROF DR EGAS MONIZ,,Desp. c/ transp. disp.ret. lateral
-,,,,R JOÃO AUGUSTO SOUSA,,
-Estarreja,2008-04-04 16:20,1,0,,,Despiste s/disp.retenção
-,,,,FERNANDES,,
-,,,,R DESEMBARGADOR CORREIA,,
-Estarreja,2008-05-10 15:35,0,1,,,Col. lat. c/outro veíc. mov.
-,,,,TELES,,
+Estarreja,2008-04-04 16:20,1,0,R JOÃO AUGUSTO SOUSA FERNANDES,,Despiste s/disp.retenção
+Estarreja,2008-05-10 15:35,0,1,R DESEMBARGADOR CORREIA TELES,,Col. lat. c/outro veíc. mov.
 Estarreja,2008-01-03 18:05,0,1,R ANTONIO MARIA SILVA PINHO,,Col. lat. c/outro veíc. mov.
 Estarreja,2008-10-31 17:45,0,1,R ANTONIO MARIA SILVA PINHO,,Atropelamento de peões
-Estarreja,2008-04-26 14:30,0,1,R MOINHOS DO CARVALHAL,Atropelamento de peões
-Estarreja,2008-10-18 15:30,1,0,AV VISCONDE SALREU,Col. lat. c/outro veíc. mov.
-Ílhavo,2008-09-20 21:30,0,1,R S FRANCISCO XAVIER 206,Col. c/ veic./obst. f.rodagem
-Ílhavo,2008-10-16 21:55,0,1,R NORTE,Col. lat. c/outro veíc. mov.
-Ílhavo,2008-06-29 18:50,0,2,R CABEÇO DO NUNO 2,Despiste simples
-Ílhavo,2008-09-21 13:20,0,2,R PROF FRANCISCO CORUJO 71,Colisão frontal
-Ílhavo,2008-09-12 20:00,0,2,EF2,Desp. c/col c/veíc.imob/obst.
-Ílhavo,2008-09-27 23:00,0,1,EM592,Col.tras. c/outro veíc. mov.
-Mealhada,2008-03-27 08:45,0,1,"EN23428,000",Col. lat. c/outro veíc. mov.
-Mealhada,2008-05-15 17:15,0,1,R PRINCIPAL,Col. lat. c/outro veíc. mov.
-Mealhada,2008-04-08 15:10,0,1,"EN1201,000",Desp.c/col c/veíc. imobil/obst.
-Mealhada,2008-06-02 21:00,0,1,R NOBREGA ARAUJO,Desp. c/col c/veíc. imobil/obst.
-Mealhada,2008-01-15 17:30,0,1,"EN1199,900",Despiste c/ capotamento
-Mealhada,2008-02-02 23:30,1,0,"EN23433,300",Despiste c/ capotamento
-Mealhada,2008-12-26 23:40,0,1,R JOAQUIM DA CRUZ 36,Despiste c/ capotamento
-Mealhada,2008-10-11 23:20,0,1,"IC2210,700",Despiste s/disp.retenção
-Mealhada,2008-12-11 15:50,0,1,R CERAMICAS,Despiste simples
-Mealhada,2008-10-12 15:50,0,1,Estrada Municipal,Despiste simples
-Mealhada,2008-09-14 20:10,1,0,"IC2207,800",Despiste simples
-Murtosa,2008-01-05 18:55,0,1,EN109-5,Col. lat. c/outro veíc. mov.
-Murtosa,2008-03-16 15:00,0,1,"EN32738,650",Atropelamento de peões
-Murtosa,2008-01-04 18:30,0,1,R MESTRAS 28,Despiste simples
-Ol. de Azemeis,2008-12-12 18:20,1,0,"IC2257,240",Atropelamento de peões
-Ol. de Azemeis,2008-01-18 19:05,0,1,R FUNDO LUGAR,Atropelamento de peões
-Ol. de Azemeis,2008-11-24 19:30,3,1,"EN22457,700",Col. lat. c/outro veíc. mov.
-Ol. de Azemeis,2008-04-18 14:40,1,0,"EN22459,012",Col. lat. c/outro veíc. mov.
-Ol. de Azemeis,2008-05-05 07:55,0,1,R S PEDRO,Col. lat. c/outro veíc. mov.
-Ol. de Azemeis,2008-06-11 17:10,0,1,R FRANCISCO ABREU E SILVA,Col. lat. c/outro veíc. mov.
-,,,,R TOMAS ARAUJO FIGUEIRED
-Ol. de Azemeis,2008-09-29 15:15,1,0,,Col.tras. c/outro veíc. mov.
-,,,,COST
-Ol. de Azemeis,2008-08-04 16:10,0,1,Estrada Municipal,Colisão frontal
-Ol. de Azemeis,2008-05-20 08:55,0,3,"EN22470,195",Colisão frontal
-Ol. de Azemeis,2008-07-20 15:50,0,3,"IC2257,200",Colisão frontal
-,,,,,Despiste c/ col c/ veíc.
-Ol. de Azemeis,2008-03-22 19:00,0,2,R IVOS LOPE
-,,,,,imobil./obst.
-,,,,,Despiste c/ col c/ veíc.
-Ol. de Azemeis,2008-11-24 17:30,1,3,R DR ALBINO REIS 90
-,,,,,imobil./obst.
-Ol. de Azemeis,2008-08-13 05:00,1,1,"EN22459,000",Despiste c/ capotamento
-Ol. de Azemeis,2008-12-20 00:15,1,0,"EN224-16,500",Despiste c/ capotamento
-Ol. de Azemeis,2008-09-20 10:45,1,0,Outra Via,Despiste c/ capotamento
-Ol. de Azemeis,2008-04-27 23:30,1,0,"EN2276,000",Despiste simples
-Ol. de Azemeis,2008-06-13 22:00,1,0,"IC2260,350",Despiste simples
-Ol. de Azemeis,2008-01-11 18:45,0,1,R MESTRE GUILHERME,Despiste simples
-Ol. de Azemeis,2008-04-02 13:50,0,1,R DA NAIA CESAR,Despiste simples
-Ol. de Azemeis,2008-09-01 18:00,0,1,R CAVALAR 26,Despiste simples
-Ol. de Azemeis,2008-04-20 17:50,1,0,"EN22459,200",Despiste s/disp.retenção
-Ol. do Bairro,2008-03-08 02:40,1,0,"EN33312,000",Colisão frontal
-Ol. do Bairro,2008-12-08 00:25,1,3,R MURTA,Col. c/ veic./obst. f.rodagem
-Ol. do Bairro,2008-08-08 16:15,0,1,"A1225,960",Despiste c/ disp. retenção
-Ol. do Bairro,2008-10-28 19:35,1,0,"EN23518,000",Despiste c/ disp. retenção
-Ol. do Bairro,2008-02-29 17:20,0,1,"A1224,425",Despiste simples
-Ol. do Bairro,2008-06-07 00:50,0,1,"A1229,250",Desp. c/transp. disp.ret. lateral
-Ovar,2008-03-31 14:05,2,0,"EN10933,100",Col.tras. c/outro veíc. mov.
-Ovar,2008-02-17 20:45,0,1,"A1263,300",Col.tras. c/outro veíc. mov.
-Ovar,2008-11-14 12:35,0,2,"A2929,651",Col.tras. c/outro veíc. mov.
+Estarreja,2008-04-26 14:30,0,1,R MOINHOS DO CARVALHAL,,Atropelamento de peões
+Estarreja,2008-10-18 15:30,1,0,AV VISCONDE SALREU,,Col. lat. c/outro veíc. mov.
+Ílhavo,2008-09-20 21:30,0,1,R S FRANCISCO XAVIER 206,,Col. c/ veic./obst. f.rodagem
+Ílhavo,2008-10-16 21:55,0,1,R NORTE,,Col. lat. c/outro veíc. mov.
+Ílhavo,2008-06-29 18:50,0,2,R CABEÇO DO NUNO 2,,Despiste simples
+Ílhavo,2008-09-21 13:20,0,2,R PROF FRANCISCO CORUJO 71,,Colisão frontal
+Ílhavo,2008-09-12 20:00,0,2,EF2,,Desp. c/col c/veíc.imob/obst.
+Ílhavo,2008-09-27 23:00,0,1,EM592,,Col.tras. c/outro veíc. mov.
+Mealhada,2008-03-27 08:45,0,1,EN234,"28,000",Col. lat. c/outro veíc. mov.
+Mealhada,2008-05-15 17:15,0,1,R PRINCIPAL,,Col. lat. c/outro veíc. mov.
+Mealhada,2008-04-08 15:10,0,1,EN1,"201,000",Desp.c/col c/veíc. imobil/obst.
+Mealhada,2008-06-02 21:00,0,1,R NOBREGA ARAUJO,,Desp. c/col c/veíc. imobil/obst.
+Mealhada,2008-01-15 17:30,0,1,EN1,"199,900",Despiste c/ capotamento
+Mealhada,2008-02-02 23:30,1,0,EN234,"33,300",Despiste c/ capotamento
+Mealhada,2008-12-26 23:40,0,1,R JOAQUIM DA CRUZ 36,,Despiste c/ capotamento
+Mealhada,2008-10-11 23:20,0,1,IC2,"210,700",Despiste s/disp.retenção
+Mealhada,2008-12-11 15:50,0,1,R CERAMICAS,,Despiste simples
+Mealhada,2008-10-12 15:50,0,1,Estrada Municipal,,Despiste simples
+Mealhada,2008-09-14 20:10,1,0,IC2,"207,800",Despiste simples
+Murtosa,2008-01-05 18:55,0,1,EN109-5,,Col. lat. c/outro veíc. mov.
+Murtosa,2008-03-16 15:00,0,1,EN327,"38,650",Atropelamento de peões
+Murtosa,2008-01-04 18:30,0,1,R MESTRAS 28,,Despiste simples
+Ol. de Azemeis,2008-12-12 18:20,1,0,IC2,"257,240",Atropelamento de peões
+Ol. de Azemeis,2008-01-18 19:05,0,1,R FUNDO LUGAR,,Atropelamento de peões
+Ol. de Azemeis,2008-11-24 19:30,3,1,EN224,"57,700",Col. lat. c/outro veíc. mov.
+Ol. de Azemeis,2008-04-18 14:40,1,0,EN224,"59,012",Col. lat. c/outro veíc. mov.
+Ol. de Azemeis,2008-05-05 07:55,0,1,R S PEDRO,,Col. lat. c/outro veíc. mov.
+Ol. de Azemeis,2008-06-11 17:10,0,1,R FRANCISCO ABREU E SILVA,,Col. lat. c/outro veíc. mov.
+Ol. de Azemeis,2008-09-29 15:15,1,0,R TOMAS ARAUJO FIGUEIREDO COSTA,,Col.tras. c/outro veíc. mov.
+Ol. de Azemeis,2008-08-04 16:10,0,1,Estrada Municipal,,Colisão frontal
+Ol. de Azemeis,2008-05-20 08:55,0,3,EN224,"70,195",Colisão frontal
+Ol. de Azemeis,2008-07-20 15:50,0,3,IC2,"257,200",Colisão frontal
+Ol. de Azemeis,2008-03-22 19:00,0,2,R IVOS LOPES,,Despiste c/ col c/ veíc. imobil./obst.
+Ol. de Azemeis,2008-11-24 17:30,1,3,R DR ALBINO REIS 906,,Despiste c/ col c/ veíc. imobil./obst.
+Ol. de Azemeis,2008-08-13 05:00,1,1,EN224,"59,000",Despiste c/ capotamento
+Ol. de Azemeis,2008-12-20 00:15,1,0,EN224-1,"6,500",Despiste c/ capotamento
+Ol. de Azemeis,2008-09-20 10:45,1,0,Outra Via,,Despiste c/ capotamento
+Ol. de Azemeis,2008-04-27 23:30,1,0,EN227,"6,000",Despiste simples
+Ol. de Azemeis,2008-06-13 22:00,1,0,IC2,"260,350",Despiste simples
+Ol. de Azemeis,2008-01-11 18:45,0,1,R MESTRE GUILHERME,,Despiste simples
+Ol. de Azemeis,2008-04-02 13:50,0,1,R DA NAIA CESAR,,Despiste simples
+Ol. de Azemeis,2008-09-01 18:00,0,1,R CAVALAR 26,,Despiste simples
+Ol. de Azemeis,2008-04-20 17:50,1,0,EN224,"59,200",Despiste s/disp.retenção
+Ol. do Bairro,2008-03-08 02:40,1,0,EN333,"12,000",Colisão frontal
+Ol. do Bairro,2008-12-08 00:25,1,3,R MURTA,,Col. c/ veic./obst. f.rodagem
+Ol. do Bairro,2008-08-08 16:15,0,1,A1,"225,960",Despiste c/ disp. retenção
+Ol. do Bairro,2008-10-28 19:35,1,0,EN235,"18,000",Despiste c/ disp. retenção
+Ol. do Bairro,2008-02-29 17:20,0,1,A1,"224,425",Despiste simples
+Ol. do Bairro,2008-06-07 00:50,0,1,A1,"229,250",Desp. c/transp. disp.ret. lateral
+Ovar,2008-03-31 14:05,2,0,EN109,"33,100",Col.tras. c/outro veíc. mov.
+Ovar,2008-02-17 20:45,0,1,A1,"263,300",Col.tras. c/outro veíc. mov.
+Ovar,2008-11-14 12:35,0,2,A29,"29,651",Col.tras. c/outro veíc. mov.
 Ovar,2008-09-08 12:40,0,2,EN327,"25,000",Colisão frontal
 Ovar,2008-02-08 23:35,0,1,R GOMES FREIRE,,Desp. c/col c/veíc. imobil/obst.
 Ovar,2008-04-27 04:50,0,1,EN109,,Despiste c/ capotamento
@@ -183,12 +163,8 @@ Sta. Ma da Feira,2008-12-29 00:20,1,0,EN223,"16,800",Atropelamento com fuga
 Sta. Ma da Feira,2008-05-07 05:40,0,1,EN1,"288,550",Atropelamento de peões
 Sta. Ma da Feira,2008-12-29 19:15,0,1,R MONTE GRANDE,,Colisão com fuga
 Sta. Ma da Feira,2008-05-23 16:45,0,1,EN326,"8,000",Colisão com outras situações
-,,,,AV FRANCISCO SA,,
-Sta. Ma da Feira,2008-08-03 23:20,1,1,,,Despiste simples
-,,,,CARNEIRO,,
-,,,,AV COMENDADOR SA,,
-Sta. Ma da Feira,2008-06-24 15:20,0,1,,,Despiste simples
-,,,,COUTO,,
+Sta. Ma da Feira,2008-08-03 23:20,1,1,AV FRANCISCO SA CARNEIRO,,Despiste simples
+Sta. Ma da Feira,2008-06-24 15:20,0,1,AV COMENDADOR SA COUTO,,Despiste simples
 Sta. Ma da Feira,2008-08-30 06:20,0,1,A1,"274,740",Desp. c/ transp. disp.ret. lateral
 Sta. Ma da Feira,2008-04-26 15:35,1,0,A1,"271,400",Despiste c/ capotamento
 Sta. Ma da Feira,2008-05-23 01:07,1,0,R ESTRADA NACIONAL,,Desp. c/col c/veíc. imobil/obst.
@@ -201,12 +177,8 @@ Sta. Ma da Feira,2008-04-20 22:00,1,2,EN1,"287,700",Col.tras. c/outro veíc. mov
 Sta. Ma da Feira,2008-05-16 22:10,0,1,EN1,"282,700",Atropelamento de peões
 Sta. Ma da Feira,2008-12-09 19:45,0,1,EN223,"18,800",Atropelamento de peões
 Sta. Ma da Feira,2008-11-29 22:00,0,1,EN326,"11,016",Atropelamento de peões
-,,,,R TERRAS STA MARIA,,
-Sta. Ma da Feira,2008-03-13 10:00,0,1,,,Atropelamento de peões
-,,,,ARRIFANA 387,,
-,,,,R ANTONIO MARTINS,,
-Sta. Ma da Feira,2008-11-11 17:15,0,1,,,Atropelamento de peões
-,,,,SOARES LEITE 52,,
+Sta. Ma da Feira,2008-03-13 10:00,0,1,R TERRAS STA MARIA ARRIFANA 387,,Atropelamento de peões
+Sta. Ma da Feira,2008-11-11 17:15,0,1,R ANTONIO MARTINS SOARES LEITE 52,,Atropelamento de peões
 Sta. Ma da Feira,2008-06-11 14:20,0,1,R DR CANDIDO PINHO 34,,Atropelamento de peões
 Sta. Ma da Feira,2008-10-07 17:20,0,1,R TRAZ LAGOS,,Atropelamento de peões
 Sta. Ma da Feira,2008-11-21 13:05,0,1,R STO ANTONIO LAGE,,Atropelamento de peões
@@ -222,30 +194,27 @@ Sta. Ma da Feira,2008-12-06 14:10,0,1,R CENTRO SOCIAL 4589,,Col. lat. c/outro ve
 Sta. Ma da Feira,2008-08-30 00:15,0,1,R CENTRAL GODA,,Col. lat. c/outro veíc. mov.
 Sta. Ma da Feira,2008-06-17 10:00,1,0,ESTR REAL ARMAMENTO,,Col. lat. c/outro veíc. mov.
 S. João Madeira,2008-08-12 21:10,1,0,IC2,"270,000",Col.tras. c/outro veíc. mov.
-,,,,R JOSE SOARES DA SILVA,,
-S. João Madeira,2008-06-11 20:20,0,1,,,Atropelamento de peões
-,,,,223,,
+S. João Madeira,2008-06-11 20:20,0,1,R JOSE SOARES DA SILVA 223,,Atropelamento de peões
 S. João Madeira,2008-10-31 10:30,0,1,AV DR RENATO ARAUJO,,Atropelamento de peões
 S. João Madeira,2008-10-11 21:30,0,1,AV DR RENATO ARAUJO,,Atropelamento de peões
 S. João Madeira,2008-04-18 08:30,0,1,R JOAO DEUS,,Atropelamento de peões
 S. João Madeira,2008-03-26 09:30,0,1,AV LIBERDADE,,Atropelamento de peões
-S. João Madeira,2008-01-04 20:55,0,1,AV DR RENATO ARAUJO,Atropelamento de peões
-S. João Madeira,2008-12-08 14:00,0,1,AV DO VALE 419,Col.tras. c/outro veíc. mov.
-S. João Madeira,2008-05-03 03:05,1,1,AV DR RENATO ARAUJO,Despiste c/ col c/ veíc. imobil./obst.
-S. João Madeira,2008-05-28 20:15,0,1,R DOS CHAPELEIROS,Despiste c/ disp. retenção
-S. João Madeira,2008-11-22 16:10,0,1,"IC2271,000",Colisão com outras situações
-Sever do Vouga,2008-06-14 09:00,1,0,Estrada Municipal,Despiste c/ capotamento
-Sever do Vouga,2008-07-18 12:40,1,0,"EN1632,400",Despiste simples
-Sever do Vouga,2008-11-16 15:58,0,2,R SEIXO,Colisão com outras situações
-Vagos,2008-12-21 19:30,1,0,Estrada Municipal,Col. lat. c/outro veíc. mov.
-Vagos,2008-07-29 12:45,0,1,R PRINCIPAL 463,Col. lat. c/outro veíc. mov.
-Vagos,2008-11-02 18:45,1,0,"EN10966,500",Colisão frontal
-Vagos,2008-05-02 07:55,1,0,R ALTA TENSAO,Despiste c/ capotamento
-Vagos,2008-07-27 19:00,1,0,R IGREJA VELHA,Despiste simples
-Vagos,2008-12-01 14:00,0,1,R STA CATARINA,Despiste simples
-Vale de Cambra,2008-09-28 19:30,0,1,Estrada Municipal,Atropelamento de peões
-Vale de Cambra,2008-09-12 20:00,0,1,Estrada Municipal,Col. lat. c/outro veíc. mov.
-Vale de Cambra,2008-10-30 23:45,0,1,"EN22449,800",Col. lat. c/outro veíc. mov.
-Vale de Cambra,2008-06-09 22:20,1,0,"EN22722,020",Despiste simples
-Vale de Cambra,2008-06-27 21:20,1,0,"EN3282,500",Despiste simples
-,,69,203,,
+S. João Madeira,2008-01-04 20:55,0,1,AV DR RENATO ARAUJO,,Atropelamento de peões
+S. João Madeira,2008-12-08 14:00,0,1,AV DO VALE 419,,Col.tras. c/outro veíc. mov.
+S. João Madeira,2008-05-03 03:05,1,1,AV DR RENATO ARAUJO,,Despiste c/ col c/ veíc. imobil./obst.
+S. João Madeira,2008-05-28 20:15,0,1,R DOS CHAPELEIROS,,Despiste c/ disp. retenção
+S. João Madeira,2008-11-22 16:10,0,1,IC2,"271,000",Colisão com outras situações
+Sever do Vouga,2008-06-14 09:00,1,0,Estrada Municipal,,Despiste c/ capotamento
+Sever do Vouga,2008-07-18 12:40,1,0,EN16,"32,400",Despiste simples
+Sever do Vouga,2008-11-16 15:58,0,2,R SEIXO,,Colisão com outras situações
+Vagos,2008-12-21 19:30,1,0,Estrada Municipal,,Col. lat. c/outro veíc. mov.
+Vagos,2008-07-29 12:45,0,1,R PRINCIPAL 463,,Col. lat. c/outro veíc. mov.
+Vagos,2008-11-02 18:45,1,0,EN109,"66,500",Colisão frontal
+Vagos,2008-05-02 07:55,1,0,R ALTA TENSAO,,Despiste c/ capotamento
+Vagos,2008-07-27 19:00,1,0,R IGREJA VELHA,,Despiste simples
+Vagos,2008-12-01 14:00,0,1,R STA CATARINA,,Despiste simples
+Vale de Cambra,2008-09-28 19:30,0,1,Estrada Municipal,,Atropelamento de peões
+Vale de Cambra,2008-09-12 20:00,0,1,Estrada Municipal,,Col. lat. c/outro veíc. mov.
+Vale de Cambra,2008-10-30 23:45,0,1,EN224,"49,800",Col. lat. c/outro veíc. mov.
+Vale de Cambra,2008-06-09 22:20,1,0,EN227,"22,020",Despiste simples
+Vale de Cambra,2008-06-27 21:20,1,0,EN328,"2,500",Despiste simples
