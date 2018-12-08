@@ -55,27 +55,26 @@ Sertã,2011:03:19 14:40:00,0,1,Estrada Municipal,"0,001",Despiste simples
 Sertã,2011:03:22 08:20:00,0,1,Estrada Regional,"31,350",Colisão lat. c/outro veíc. mov.
 Sertã,2011:05:13 04:00:00,0,1,EN2,"338,000",Despiste simples
 Sertã,2011:06:27 21:20:00,0,1,EM533,"0,001",Colisão lat. c/outro veíc. mov.
-Sertã,2011:07:03 12:05:00,0,1,Estrada Florestal,Despiste c/capotamento
-Sertã,2011:07:15 13:25:00,0,1,"EN23836,4",Colisão lat. c/outro veíc. mov.
-Sertã,2011:07:17 18:30:00,0,1,"EN2339,100",Despiste simples
-Sertã,2011:07:17 19:16:00,0,1,Estrada Municipal,Despiste s/dispositivo retenção
-Sertã,2011:07:24 20:53:00,0,1,R Carqueijal,Colisão lat. c/outro veíc. mov.
-Sertã,2011:07:27 17:00:00,0,1,"IC8109,700",Despiste c/dispositivo de retenção
-Sertã,2011:08:05 09:20:00,0,1,R Pinheiros,Despiste simples
-Sertã,2011:08:19 20:08:00,0,1,Estrada Municipal,Despiste c/capotamento
-Sertã,2011:08:29 23:30:00,0,1,EM532,Despiste simples
-Sertã,2011:10:03 12:30:00,0,1,Estrada Municipal,Despiste c/capotamento
-Sertã,2011:11:19 21:20:00,0,1,"IC896,468",Colisão c/veic./obst.f. rodagem
-Vila de Rei,2011:01:25 08:26:00,1,0,"EN348102,835",Despiste c/capotamento
-Vila de Rei,2011:03:13 18:00:00,0,1,"EN24413,1",Despiste c/capotamento
-Vila de Rei,2011:07:02 16:00:00,1,0,Estrada Florestal,Despiste c/capotamento
-V. V. de Rodão,2011:02:09 17:40:00,2,1,"EN18110,8",Desp. c/colis. c/veíc. imobil./obst.
-V. V. de Rodão,2011:06:19 21:45:00,0,1,"EN18119,5",Despiste c/transp.disp. ret.lateral
-V. V. de Rodão,2011:08:13 16:10:00,0,1,"A2397,8",Despiste simples
-V. V. de Rodão,2011:09:02 21:05:00,0,1,"EN24141,45",Despiste c/transp.disp. ret.lateral
-V. V. de Rodão,2011:10:27 07:50:00,0,1,"EN24151,75",Despiste simples
-V. V. de Rodão,2011:11:22 16:35:00,1,0,"A2392,7",Colisão tras. c/outro veíc. mov.
-,,23,118,,
+Sertã,2011:07:03 12:05:00,0,1,Estrada Florestal,,Despiste c/capotamento
+Sertã,2011:07:15 13:25:00,0,1,EN238,"36,4",Colisão lat. c/outro veíc. mov.
+Sertã,2011:07:17 18:30:00,0,1,EN2,"339,100",Despiste simples
+Sertã,2011:07:17 19:16:00,0,1,Estrada Municipal,,Despiste s/dispositivo retenção
+Sertã,2011:07:24 20:53:00,0,1,R Carqueijal,,Colisão lat. c/outro veíc. mov.
+Sertã,2011:07:27 17:00:00,0,1,IC8,"109,700",Despiste c/dispositivo de retenção
+Sertã,2011:08:05 09:20:00,0,1,R Pinheiros,,Despiste simples
+Sertã,2011:08:19 20:08:00,0,1,Estrada Municipal,,Despiste c/capotamento
+Sertã,2011:08:29 23:30:00,0,1,EM532,,Despiste simples
+Sertã,2011:10:03 12:30:00,0,1,Estrada Municipal,,Despiste c/capotamento
+Sertã,2011:11:19 21:20:00,0,1,IC8,"96,468",Colisão c/veic./obst.f. rodagem
+Vila de Rei,2011:01:25 08:26:00,1,0,EN348,"102,835",Despiste c/capotamento
+Vila de Rei,2011:03:13 18:00:00,0,1,EN244,"13,1",Despiste c/capotamento
+Vila de Rei,2011:07:02 16:00:00,1,0,Estrada Florestal,,Despiste c/capotamento
+V. V. de Rodão,2011:02:09 17:40:00,2,1,EN18,"110,8",Desp. c/colis. c/veíc. imobil./obst.
+V. V. de Rodão,2011:06:19 21:45:00,0,1,EN18,"119,5",Despiste c/transp.disp. ret.lateral
+V. V. de Rodão,2011:08:13 16:10:00,0,1,A23,"97,8",Despiste simples
+V. V. de Rodão,2011:09:02 21:05:00,0,1,EN241,"41,45",Despiste c/transp.disp. ret.lateral
+V. V. de Rodão,2011:10:27 07:50:00,0,1,EN241,"51,75",Despiste simples
+V. V. de Rodão,2011:11:22 16:35:00,1,0,A23,"92,7",Colisão tras. c/outro veíc. mov.
 Belmonte,2011:01:06 21:00:00,1,0,EN345,"6,643",Despiste simples
 Belmonte,2011:01:20 18:50:00,0,1,EN345,"6,920",Colisão tras. c/outro veíc. mov.
 Castelo Branco,2011:01:05 19:15:00,0,1,Var Carapalha/Socorro,,Atropelamento com fuga

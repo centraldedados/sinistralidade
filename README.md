@@ -35,7 +35,7 @@ Aveiro | 2008-Fim
 Beja | 2008-Fim
 Braga | 2008-Fim
 Bragança | 2008-Fim
-Castelo Branco | 
+Castelo Branco | 2008-Fim
 Coimbra | 
 Évora | 
 Faro | 
