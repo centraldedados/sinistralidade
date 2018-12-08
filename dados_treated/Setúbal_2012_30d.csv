@@ -108,22 +108,21 @@ Setúbal,2012:02:24 18:30:00,1,0,EST DOS PICHELEIROS,,Despiste c/col. c/veíc. i
 Setúbal,2012:03:09 00:50:00,1,0,Rua Fernando Motrena,,Despiste c/col. c/veíc. imobil./obst.
 Setúbal,2012:04:02 12:30:00,0,2,A2,"41,300",Despiste c/ capotamento
 Setúbal,2012:05:05 09:50:00,0,1,EN10,"45,600",Colisão lat. c/ outro veículo mov.
-Setúbal,2012:05:18 14:30:00,0,1,Rua Saúde,Co  l is  ã  o,,c  o  m,o  u  t r a  ss  i t u  a  ç õ  e s
-Setúbal,2012:05:28 12:30:00,0,1,Estrada Vale de Mulatas,Co  li s  ã  o,,f r o  n  t a  
-Setúbal,2012:06:08 07:00:00,0,1,Avenida Luísa Todi,De  s  p  i s t e,,c  /  c  a  p  o  t a  m,e  n  t o
-Setúbal,2012:06:09 19:15:00,1,0,"EN1042,600",Despiste simples,,,
-Setúbal,2012:06:29 20:20:00,1,0,Estrada Algeruz,Colisão lat. c/ outro veículo mov.,,,
-Setúbal,2012:07:14 02:20:00,0,1,EN10,Despiste simples,,,
-Setúbal,2012:07:22 17:30:00,0,1,Avenida da Europa,Despiste c/ dispositivo de retenção,,,
-Setúbal,2012:09:30 10:30:00,1,1,Avenida Belo Horizonte,Despiste com fuga,,,
-Setúbal,2012:10:10 10:30:00,1,0,Estrada Ciprestes,A  t r o  p  e  l a  m,,e  n  t o,d  ep  e  õ  e  s
-Setúbal,2012:10:21 01:20:00,0,1,EN10,Atropelamento de peões,,,
-Setúbal,2012:12:15 04:00:00,0,1,Rua de São Gonçalo,Atropelamento com fuga,,,
-Sines,2012:02:26 20:30:00,1,0,Estrada Florestal,Atropelamento de peões,,,
-Sines,2012:04:04 22:45:00,0,2,R. N. S. Remédios,Despiste c/col. c/veíc. imobil./obst.,,,
-Sines,2012:10:04 12:30:00,0,1,Rua Forte da Ilha,Despiste simples,,,
-Sines,2012:12:21 19:25:00,0,1,Rua Marques de Pombal,Despiste simples,,,
-,,57,147,,,,,
+Setúbal,2012:05:18 14:30:00,0,1,Rua Saúde,,Co  l is  ã  o c  o  m o  u  t r a  ss  i t u  a  ç õ  e s
+Setúbal,2012:05:28 12:30:00,0,1,Estrada Vale de Mulatas,,Co  li s  ã  of r o  n  t a  
+Setúbal,2012:06:08 07:00:00,0,1,Avenida Luísa Todi,,De  s  p  i s t ec  /  c  a  p  o  t a  me  n  t o
+Setúbal,2012:06:09 19:15:00,1,0,EN10,"42,600",Despiste simples
+Setúbal,2012:06:29 20:20:00,1,0,Estrada Algeruz,,Colisão lat. c/ outro veículo mov.
+Setúbal,2012:07:14 02:20:00,0,1,EN10,,Despiste simples
+Setúbal,2012:07:22 17:30:00,0,1,Avenida da Europa,,Despiste c/ dispositivo de retenção
+Setúbal,2012:09:30 10:30:00,1,1,Avenida Belo Horizonte,,Despiste com fuga
+Setúbal,2012:10:10 10:30:00,1,0,Estrada Ciprestes,,A  t r o  p  e  l a  me  n  t od  ep  e  õ  e  s
+Setúbal,2012:10:21 01:20:00,0,1,EN10,,Atropelamento de peões
+Setúbal,2012:12:15 04:00:00,0,1,Rua de São Gonçalo,,Atropelamento com fuga
+Sines,2012:02:26 20:30:00,1,0,Estrada Florestal,,Atropelamento de peões
+Sines,2012:04:04 22:45:00,0,2,R. N. S. Remédios,,Despiste c/col. c/veíc. imobil./obst.
+Sines,2012:10:04 12:30:00,0,1,Rua Forte da Ilha,,Despiste simples
+Sines,2012:12:21 19:25:00,0,1,Rua Marques de Pombal,,Despiste simples
 Alcácer do Sal,2012:02:05 18:30:00,1,0,A2,"78,627",Colisão tras. c/ outro veíc. mov.
 Alcácer do Sal,2012:02:26 12:30:00,0,2,IC1,"54,900",Colisão lat. c/ outro veículo mov.
 Alcácer do Sal,2012:03:30 15:50:00,0,1,EN5,"76,266",Despiste c/ capotamento
@@ -137,9 +136,7 @@ Alcácer do Sal,2012:06:24 14:50:00,1,0,EN5,"61,300",Colisão frontal
 Alcácer do Sal,2012:08:04 17:15:00,0,1,EN5,"48,600",Colisão frontal
 Alcácer do Sal,2012:08:15 07:45:00,1,0,EM543,,Despiste c/ capotamento
 Alcácer do Sal,2012:09:20 00:05:00,1,0,A2,"87,550",Atropelamento de peões
-,,,,R. 1o de Maio (junto est.,,
-Alcácer do Sal,2012:10:13 17:07:00,1,0,,,Despiste simples
-,,,,acesso à Herd. Ervideira),,
+Alcácer do Sal,2012:10:13 17:07:00,1,0,R. 1o de Maio (junto est. acesso à Herd. Ervideira),,Despiste simples
 Alcochete,2012:03:03 01:10:00,0,1,IC3,"2,450",Colisão frontal
 Alcochete,2012:05:07 17:40:00,0,1,EM1004,,Despiste c/col. c/veíc. imobil./obst.
 Alcochete,2012:05:20 03:40:00,0,1,EM502,"0,900",Despiste simples
@@ -161,21 +158,15 @@ Almada,2012:10:16 16:45:00,0,1,Av. Rainha Dona Leonor,,Co  l is  ã  oc  o  mo  
 Almada,2012:10:20 10:30:00,0,1,Rua da Granja,,Atropelamento de peões
 Almada,2012:11:18 14:00:00,0,2,EN10-1,"6,100",Despiste c/col. c/veíc. imobil./obst.
 Almada,2012:12:01 17:55:00,0,1,Rua dos Três Vales,,Atropelamento de peões
-,,,,R. Hermínia Silva (junto ao,,
-Almada,2012:12:18 15:20:00,1,0,,,Atropelamento com fuga
-,,,,Centro Paroquial),,
+Almada,2012:12:18 15:20:00,1,0,R. Hermínia Silva (junto ao Centro Paroquial),,Atropelamento com fuga
 Barreiro,2012:02:13 18:50:00,0,1,EM510,,Atropelamento de peões
 Barreiro,2012:02:28 21:00:00,0,1,R SERRA DA ARRABIDA,,Despiste simples
-,,,,Av. Mestre Manuel Santos,,
-Barreiro,2012:03:04 00:40:00,1,0,,,Despiste c/ dispositivo de retenção
-,,,,Cabanas(Junto B. GALP),,
+Barreiro,2012:03:04 00:40:00,1,0,Av. Mestre Manuel Santos Cabanas(Junto B. GALP),,Despiste c/ dispositivo de retenção
 Barreiro,2012:03:17 12:50:00,0,1,EN10,"16,080",Colisão tras. c/ outro veíc. mov.
 Barreiro,2012:03:17 17:00:00,0,2,EM510,,Despiste c/ capotamento
 Barreiro,2012:04:22 03:30:00,1,0,Avenida Liberdade,,Despiste simples
 Barreiro,2012:05:06 10:57:00,1,0,EN10-3,"3,500",Atropelamento de peões
-,,,,Av. MFA (junto,,
-Barreiro,2012:05:15 16:00:00,0,1,,,Atropelamento de peões
-,,,,Eesc.Casquilhos,,
+Barreiro,2012:05:15 16:00:00,0,1,Av. MFA (junto Eesc.Casquilhos,,Atropelamento de peões
 Barreiro,2012:05:17 17:15:00,0,1,EN10-3,"0,800",Despiste c/ dispositivo de retenção
 Barreiro,2012:05:27 09:50:00,0,1,EN10-3,"3,000",Colisão lat. c/ outro veículo mov.
 Barreiro,2012:06:01 18:40:00,0,1,IC32,"3,900",Despiste simples

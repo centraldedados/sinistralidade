@@ -32,7 +32,7 @@ Grândola,2011:08:04 15:30:00,0,1,IC1,"602,300",Despiste c/trans. disp.ret. late
 Grândola,2011:08:08 06:40:00,0,1,Urb Soltroia,,Despiste c/col. c/veíc. imobil./obst.
 Moita,2011:03:02 13:00:00,1,1,EN379-2,"9,900",Colisão lat. c/ outro veíc. mov.
 Moita,2011:03:06 08:00:00,0,1,IC32,"4,700",Despiste c/capotamento
-Moita,2011:05:17 15:15:00,1,0,Est Mãe dágua,,Colisão frontal
+Moita,2011:05:17 15:15:00,1,0,Est Mãe d'água,,Colisão frontal
 Moita,2011:06:02 10:15:00,1,0,EN11,"22,450",Colisão c/veic./obstáculo f.rodagem
 Moita,2011:06:16 03:00:00,0,1,R ovo Unido,,Atropelamento com fuga
 Moita,2011:07:09 21:00:00,0,1,EN11-2,,Colisão frontal
@@ -52,59 +52,59 @@ Montijo,2011:06:13 12:40:00,0,1,Av Pescadores,,At r o  p  e  l a  me  n  t od  e
 Montijo,2011:08:16 07:05:00,0,1,EN4,"39,600",Despiste simples
 Montijo,2011:08:24 05:30:00,1,0,EN10,"78,000",Despiste simples
 Montijo,2011:09:01 16:00:00,0,1,EN10,"71,600",Despiste c/trans. disp.ret. lateral
-Montijo,2011:09:21 21:43:00,1,0,"PNTV.GAMA16,500",Despiste c/capotamento
-Montijo,2011:10:26 20:25:00,0,1,"EN446,160",Colisão frontal
-Montijo,2011:11:16 18:45:00,1,0,Av Luís Camões,Atropelamento de peões
-Montijo,2011:11:17 18:15:00,1,0,Est Real,At r o  p  e  l a  me  n  t od  ep eões
-Palmela,2011:01:11 20:00:00,1,0,R Foros Passarinhas,Colisão com fuga
-Palmela,2011:01:24 20:00:00,0,1,EM534,Colisão frontal
-Palmela,2011:01:26 08:45:00,1,0,Est Fandaguinho,Colisão frontal
-Palmela,2011:01:27 19:45:00,0,1,EM533-1,Colisão tras. c/ outro veíc. mov.
-Palmela,2011:03:01 11:00:00,0,1,"EN1063,200",Colisão frontal
-Palmela,2011:03:02 12:20:00,0,2,"EN1051,900",Despiste c/col. c/veíc. imobil./obst.
-Palmela,2011:03:05 18:55:00,0,1,R Comércio,Despiste com fuga
-Palmela,2011:03:23 04:30:00,0,1,"EN1063,400",Despiste c/col. c/veíc. imobil./obst.
-Palmela,2011:04:17 18:20:00,0,1,R José Carvalho,Despiste c/col. c/veíc. imobil./obst.
-Palmela,2011:05:07 13:45:00,0,1,"EN37928,600",Colisão tras. c/ outro veíc. mov.
-Palmela,2011:06:07 17:30:00,0,1,R Sanheiros,Despiste simples
-Palmela,2011:06:23 06:40:00,1,0,"EN37932,092",Colisão frontal
-Palmela,2011:07:29 07:40:00,0,1,R Zinco -Vale Alecrim,Colisão frontal
-Palmela,2011:08:05 04:15:00,1,0,R Divisão Marquesa II,Colisão lat. c/ outro veíc. mov.
-Palmela,2011:09:12 20:30:00,0,1,EM531,Colisão frontal
-Palmela,2011:10:23 16:10:00,1,2,Estrada Municipal,Colisão frontal
-Palmela,2011:11:26 16:50:00,0,2,"A1216,200",Colisão tras. c/ outro veíc. mov.
-Palmela,2011:12:10 17:05:00,1,0,"A245,800",Despiste simples
-Palmela,2011:12:11 02:40:00,0,1,Av Ferroviários,Despiste c/capotamento
-Palmela,2011:12:25 21:30:00,1,0,"EN1052,600",Atropelamento de peões
-Palmela,2011:12:30 16:20:00,1,0,"EN37936,400",Colisão lat. c/ outro veíc. mov.
-Stgo. do Cacém,2011:02:24 06:40:00,1,0,"IC1624,150",Colisão frontal
-Stgo. do Cacém,2011:03:12 02:10:00,1,0,"EN26266,500",Despiste simples
-Stgo. do Cacém,2011:03:12 10:20:00,1,0,"IC1618,000",Colisão c/veic./obstáculo f.rodagem
-Stgo. do Cacém,2011:03:23 13:00:00,0,1,EM555,Despiste c/col. c/veíc. imobil./obst.
-Stgo. do Cacém,2011:03:27 09:45:00,0,1,"IC3330,000",Despiste c/trans. disp.ret. lateral
-Stgo. do Cacém,2011:04:12 18:40:00,0,1,"EN3896,200",Colisão lat. c/ outro veíc. mov.
-Stgo. do Cacém,2011:05:08 02:40:00,1,0,"EN26170,450",Despiste simples
-Stgo. do Cacém,2011:07:19 12:20:00,0,1,Crzt R Monte/ R Sesmarias,Colisão lat. c/ outro veíc. mov.
-Stgo. do Cacém,2011:08:01 18:00:00,0,1,EM1112,Colisão frontal
-Stgo. do Cacém,2011:08:16 10:40:00,0,1,R 25 Abril,Atropelamento de peões
-Stgo. do Cacém,2011:08:27 20:50:00,0,1,Av Nuno Alvares Pereira,Atropelamento de peões
-Stgo. do Cacém,2011:09:05 19:40:00,0,1,"EN261-32,590",Despiste c/col. c/veíc. imobil./obst.
-Stgo. do Cacém,2011:11:05 02:55:00,0,1,"IC1637,600",Despiste simples
-Stgo. do Cacém,2011:11:20 02:30:00,1,0,Estrada Municipal,Colisão frontal
-Seixal,2011:03:21 08:30:00,0,1,R Cidade Almada,A  t r o  p  e  l a  me  n  t od  ep  e  õ  e s
-Seixal,2011:04:30 08:15:00,0,1,EM1090,Atropelamento de peões
-Seixal,2011:07:15 05:20:00,0,1,EN378,Colisão frontal
-Seixal,2011:08:26 16:00:00,0,1,Av Afonso Costa,Atropelamento de peões
-Seixal,2011:08:31 22:25:00,1,0,"A215,600",Colisão com fuga
-Seixal,2011:09:08 20:00:00,0,1,R Luis Camões,Colisão frontal
-Seixal,2011:09:10 21:30:00,0,1,Av Liberdade,Atropelamento de peões
-Seixal,2011:11:03 11:35:00,0,1,Av 1o Dezembro 1640,Atropelamento de peões
-Seixal,2011:11:06 20:25:00,2,0,"A219,250",Colisão lat. c/ outro veíc. mov.
-Seixal,2011:11:16 18:15:00,0,1,"EN3788,100",Atropelamento de peões
-Seixal,2011:12:12 04:30:00,1,0,Av 1o Maio,Atropelamento de peões
-Seixal,2011:12:14 18:15:00,0,1,Av Metalúrgicos,Atropelamento de peões
-Seixal,2011:12:15 20:00:00,1,0,Av 25 Abril,Colisão lat. c/ outro veíc. mov.
-Seixal,2011:12:16 04:40:00,1,0,"A218,500",Colisão tras. c/ outro veíc. mov.
+Montijo,2011:09:21 21:43:00,1,0,PNTV.GAMA,"16,500",Despiste c/capotamento
+Montijo,2011:10:26 20:25:00,0,1,EN4,"46,160",Colisão frontal
+Montijo,2011:11:16 18:45:00,1,0,Av Luís Camões,,Atropelamento de peões
+Montijo,2011:11:17 18:15:00,1,0,Est Real,,At r o  p  e  l a  me  n  t od  ep eões
+Palmela,2011:01:11 20:00:00,1,0,R Foros Passarinhas,,Colisão com fuga
+Palmela,2011:01:24 20:00:00,0,1,EM534,,Colisão frontal
+Palmela,2011:01:26 08:45:00,1,0,Est Fandaguinho,,Colisão frontal
+Palmela,2011:01:27 19:45:00,0,1,EM533-1,,Colisão tras. c/ outro veíc. mov.
+Palmela,2011:03:01 11:00:00,0,1,EN10,"63,200",Colisão frontal
+Palmela,2011:03:02 12:20:00,0,2,EN10,"51,900",Despiste c/col. c/veíc. imobil./obst.
+Palmela,2011:03:05 18:55:00,0,1,R Comércio,,Despiste com fuga
+Palmela,2011:03:23 04:30:00,0,1,EN10,"63,400",Despiste c/col. c/veíc. imobil./obst.
+Palmela,2011:04:17 18:20:00,0,1,R José Carvalho,,Despiste c/col. c/veíc. imobil./obst.
+Palmela,2011:05:07 13:45:00,0,1,EN379,"28,600",Colisão tras. c/ outro veíc. mov.
+Palmela,2011:06:07 17:30:00,0,1,R Sanheiros,,Despiste simples
+Palmela,2011:06:23 06:40:00,1,0,EN379,"32,092",Colisão frontal
+Palmela,2011:07:29 07:40:00,0,1,R Zinco -Vale Alecrim,,Colisão frontal
+Palmela,2011:08:05 04:15:00,1,0,R Divisão Marquesa II,,Colisão lat. c/ outro veíc. mov.
+Palmela,2011:09:12 20:30:00,0,1,EM531,,Colisão frontal
+Palmela,2011:10:23 16:10:00,1,2,Estrada Municipal,,Colisão frontal
+Palmela,2011:11:26 16:50:00,0,2,A12,"16,200",Colisão tras. c/ outro veíc. mov.
+Palmela,2011:12:10 17:05:00,1,0,A2,"45,800",Despiste simples
+Palmela,2011:12:11 02:40:00,0,1,Av Ferroviários,,Despiste c/capotamento
+Palmela,2011:12:25 21:30:00,1,0,EN10,"52,600",Atropelamento de peões
+Palmela,2011:12:30 16:20:00,1,0,EN379,"36,400",Colisão lat. c/ outro veíc. mov.
+Stgo. do Cacém,2011:02:24 06:40:00,1,0,IC1,"624,150",Colisão frontal
+Stgo. do Cacém,2011:03:12 02:10:00,1,0,EN262,"66,500",Despiste simples
+Stgo. do Cacém,2011:03:12 10:20:00,1,0,IC1,"618,000",Colisão c/veic./obstáculo f.rodagem
+Stgo. do Cacém,2011:03:23 13:00:00,0,1,EM555,,Despiste c/col. c/veíc. imobil./obst.
+Stgo. do Cacém,2011:03:27 09:45:00,0,1,IC33,"30,000",Despiste c/trans. disp.ret. lateral
+Stgo. do Cacém,2011:04:12 18:40:00,0,1,EN389,"6,200",Colisão lat. c/ outro veíc. mov.
+Stgo. do Cacém,2011:05:08 02:40:00,1,0,EN261,"70,450",Despiste simples
+Stgo. do Cacém,2011:07:19 12:20:00,0,1,Crzt R Monte/ R Sesmarias,,Colisão lat. c/ outro veíc. mov.
+Stgo. do Cacém,2011:08:01 18:00:00,0,1,EM1112,,Colisão frontal
+Stgo. do Cacém,2011:08:16 10:40:00,0,1,R 25 Abril,,Atropelamento de peões
+Stgo. do Cacém,2011:08:27 20:50:00,0,1,Av Nuno Alvares Pereira,,Atropelamento de peões
+Stgo. do Cacém,2011:09:05 19:40:00,0,1,EN261-3,"2,590",Despiste c/col. c/veíc. imobil./obst.
+Stgo. do Cacém,2011:11:05 02:55:00,0,1,IC1,"637,600",Despiste simples
+Stgo. do Cacém,2011:11:20 02:30:00,1,0,Estrada Municipal,,Colisão frontal
+Seixal,2011:03:21 08:30:00,0,1,R Cidade Almada,,A  t r o  p  e  l a  me  n  t od  ep  e  õ  e s
+Seixal,2011:04:30 08:15:00,0,1,EM1090,,Atropelamento de peões
+Seixal,2011:07:15 05:20:00,0,1,EN378,,Colisão frontal
+Seixal,2011:08:26 16:00:00,0,1,Av Afonso Costa,,Atropelamento de peões
+Seixal,2011:08:31 22:25:00,1,0,A2,"15,600",Colisão com fuga
+Seixal,2011:09:08 20:00:00,0,1,R Luis Camões,,Colisão frontal
+Seixal,2011:09:10 21:30:00,0,1,Av Liberdade,,Atropelamento de peões
+Seixal,2011:11:03 11:35:00,0,1,Av 1o Dezembro 1640,,Atropelamento de peões
+Seixal,2011:11:06 20:25:00,2,0,A2,"19,250",Colisão lat. c/ outro veíc. mov.
+Seixal,2011:11:16 18:15:00,0,1,EN378,"8,100",Atropelamento de peões
+Seixal,2011:12:12 04:30:00,1,0,Av 1o Maio,,Atropelamento de peões
+Seixal,2011:12:14 18:15:00,0,1,Av Metalúrgicos,,Atropelamento de peões
+Seixal,2011:12:15 20:00:00,1,0,Av 25 Abril,,Colisão lat. c/ outro veíc. mov.
+Seixal,2011:12:16 04:40:00,1,0,A2,"18,500",Colisão tras. c/ outro veíc. mov.
 Seixal,2011:12:20 20:09:00,0,1,R Indústria,,Atropelamento de peões
 Sesimbra,2011:01:20 09:10:00,1,0,Av João Paulo II,,Atropelamento de peões
 Sesimbra,2011:04:22 09:00:00,0,1,R José C Ary Santos,,Despiste simples
@@ -144,7 +144,6 @@ Sines,2011:10:15 12:00:00,1,2,EN120-1,"6,600",Colisão lat. c/ outro veíc. mov.
 Sines,2011:10:21 17:48:00,0,1,R António Aleixo,,Atropelamento de peões
 Sines,2011:11:24 17:28:00,0,1,Aeródromo S Torpes,,Despiste c/capotamento
 Sines,2011:12:16 17:30:00,0,1,R Maria Lamas,,Atropelamento de peões
-,,63,159,,,
 Alcácer Sal,2011:01:03 18:20:00,0,2,EN5,"45,915",Colisão frontal
 Alcácer Sal,2011:01:28 06:50:00,0,1,Estrada Municipal,"65,145",Colisão com fuga
 Alcácer Sal,2011:02:01 21:55:00,0,2,EN253,"27,136",Despiste c/capotamento
