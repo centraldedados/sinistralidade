@@ -32,17 +32,14 @@ Evora,2009:12:18 16:20:00,1,0,EN254,,Colisão lateral
 Evora,2009:06:23 19:15:00,0,1,EM521,,Despiste com capotamento
 Evora,2009:01:08 14:40:00,0,1,EM527-1,,Despiste com capotamento
 Evora,2009:02:24 16:40:00,0,1,EN18,"276,572",Despiste com capotamento
-,,,,,,Desp. com colisão veíc.
-Evora,2009:08:25 22:40:00,0,1,Avenida Túlio Espanca,,imob./obst.
-,,,,,,Desp. com colisão veíc.
-Evora,2009:06:13 17:30:00,0,1,EM1087,,imob./obst.
+Evora,2009:08:25 22:40:00,0,1,Avenida Túlio Espanca,,Desp. com colisão veíc. imob./obst.
+Evora,2009:06:13 17:30:00,0,1,EM1087,,Desp. com colisão veíc. imob./obst.
 Evora,2009:07:12 18:30:00,0,1,EN256,"2,241",Despiste com disp. retenção
 Evora,2009:03:03 12:45:00,0,1,A6,"76,346",Desp. transp. disp. retenção lateral
 Evora,2009:04:12 19:30:00,0,1,Outra Via,,Despiste simples
 Evora,2009:10:21 07:30:00,0,1,EN380,"88,460",Despiste simples
 Montemor-o-Novo,2009:07:06 07:30:00,1,0,R CORTICADAS LAVRE,,Atropelamento de peões
-,,,,R FUNDADOR DE,,
-Montemor-o-Novo,2009:02:05 19:00:00,1,0,PORTUGAL,,Atropelamento de peões
+Montemor-o-Novo,2009:02:05 19:00:00,1,0,R FUNDADOR DE PORTUGAL,,Atropelamento de peões
 Montemor-o-Novo,2009:01:17 20:45:00,1,2,EN4,"89,975",Colisão frontal
 Montemor-o-Novo,2009:01:31 16:20:00,0,1,R FERNANDO NAMORA,,Colisão lateral
 Montemor-o-Novo,2009:05:15 08:37:00,0,1,A6,"55,100",Colisão lateral
@@ -77,14 +74,10 @@ Vendas Novas,2009:02:19 15:20:00,1,0,AV 25 ABRIL,,Colisão lateral
 Vendas Novas,2009:07:27 18:30:00,1,0,A6,"11,000",Colisão lateral
 Vendas Novas,2009:03:04 19:40:00,0,1,A6,"10,000",Colisão traseira
 Vendas Novas,2009:02:14 21:08:00,1,0,A6,"3,012",Colisão traseira
-,,,,,,Desp. com colisão veíc.
-Vendas Novas,2009:09:01 21:15:00,0,1,AV 25 ABRIL,,imob./obst.
-,,,,,,Desp. com transp. disp. retenção
-Vendas Novas,2009:07:01 15:00:00,0,3,A6,"13,000",lateral
+Vendas Novas,2009:09:01 21:15:00,0,1,AV 25 ABRIL,,Desp. com colisão veíc. imob./obst.
+Vendas Novas,2009:07:01 15:00:00,0,3,A6,"13,000",Desp. com transp. disp. retenção lateral
 Vendas Novas,2009:06:26 06:00:00,0,1,A6,"15,430",Despiste sem disp. retenção
 Vendas Novas,2009:07:18 21:30:00,0,2,EST MONTE BRANCO,,Despiste simples
 Viana Alentejo,2009:07:05 01:40:00,0,1,EN257,"14,250",Despiste com capotamento
-,,,,,,Colisão com veic./obst. faixa
-Vila Viçosa,2009:11:18 00:30:00,0,1,AV ALANDROAL,,rodagem
+Vila Viçosa,2009:11:18 00:30:00,0,1,AV ALANDROAL,,Colisão com veic./obst. faixa rodagem
 Vila Viçosa,2009:10:17 16:30:00,0,1,EN255,"10,950",Colisão lateral
-,,28,74,,,

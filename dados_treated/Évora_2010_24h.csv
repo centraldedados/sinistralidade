@@ -38,47 +38,46 @@ Estremoz,2010-05-16 19:15,0,2,EN4,"143,237",Colisão frontal
 Évora,2010-02-05 07:45,0,1,EM521,"5,400",Colisão frontal
 Évora,2010-02-06 17:20,1,0,EN256,"6,830",Despiste s/ disp. retenção
 Évora,2010-05-15 13:40,0,1,Av. da Universidade,,Colisão lat. c/outro veíc. mov.
-Évora,2010-05-09 23:55,0,1,Av. Túlio Espanca,Atropelamento de peões
-Évora,2010-12-06 19:00,1,3,"EN25446,200",Colisão frontal
-Évora,2010-01-15 21:40,1,0,"EN114-44,122",Colisão tras. c/ outro veíc. mov.
-Évora,2010-03-19 07:40,0,1,"EN18251,400",Despiste com capotamento
-Montemor-o-Novo,2010-01-04 11:20,1,2,"A632,400",Colisão tras. c/ outro veíc. mov.
-Montemor-o-Novo,2010-12-16 13:20,0,2,"EN2516,200",Colisão lat. c/outro veíc. mov.
-Montemor-o-Novo,2010-04-17 10:25,0,1,FOROS PINTADA,Atropelamento de peões
-Montemor-o-Novo,2010-02-04 11:45,1,1,"EN114174,600",Colisão c/veic./obstá. f. rodagem
-Montemor-o-Novo,2010-02-26 12:10,0,1,"A635,900",Desp. c/transp.disp. ret. lateral
-Montemor-o-Novo,2010-05-24 17:10,0,1,"EN114163,812",Colisão frontal
-Montemor-o-Novo,2010-05-08 18:50,0,1,"A653,885",Colisão tras. c/ outro veíc. mov.
-Montemor-o-Novo,2010-07-18 17:45,0,1,"EN485,650",Desp. c/transp.disp. ret. lateral
-Montemor-o-Novo,2010-07-24 17:00,0,1,"EN473,700",Despiste simples
-Montemor-o-Novo,2010-06-17 14:05,0,1,"EN114172,610",Colisão frontal
-Montemor-o-Novo,2010-06-27 19:10,0,1,"EN470,380",Despiste simples
-Montemor-o-Novo,2010-08-09 17:15,0,1,"EN483,916",Colisão frontal
-Montemor-o-Novo,2010-03-09 10:10,0,1,AV GAGO COUTINHO,Atropelamento de peões
-Montemor-o-Novo,2010-09-18 17:40,0,4,"EN489,950",Despiste simples
-Montemor-o-Novo,2010-10-13 18:30,0,1,"EN3805,856",Despiste com capotamento
-Montemor-o-Novo,2010-10-18 17:50,0,1,AV GAGO COUTINHO,Colisão tras. c/ outro veíc. mov.
-Montemor-o-Novo,2010-12-29 14:40,0,1,"EN114150,680",Despiste simples
-Mourão,2010-08-23 18:00,1,0,"EN25639,781",Despiste c/col. c/veíc. imobil./obst.
-Redondo,2010-08-28 17:40,0,1,Estrada Municipal,Despiste simples
-Redondo,2010-05-19 18:55,1,2,"EN25420,425",Colisão lat. c/outro veíc. mov.
-Reg. de Monsaraz,2010-07-15 07:30,0,1,"EM51410,500",Despiste simples
-Reg. de Monsaraz,2010-12-31 17:50,0,1,R G. HUMBERTO DELGADO,Atropelamento de peões
-Reg. de Monsaraz,2010-09-13 10:55,0,1,"EN25618,455",Colisão lat. c/outro veíc. mov.
-Reg. de Monsaraz,2010-10-03 00:50,0,1,EM1124,Despiste simples
-Reg. de Monsaraz,2010-02-04 14:20,0,1,R CARIDADE,Atropelamento de peões
-Vendas Novas,2010-04-07 10:20,0,2,"EN463,500",Despiste com capotamento
-Vendas Novas,2010-02-15 18:55,0,1,"EN457,300",Colisão tras. c/ outro veíc. mov.
-Vendas Novas,2010-08-09 11:50,0,1,"A262,300",Despiste com capotamento
-Vendas Novas,2010-05-07 13:30,0,1,"EN455,780",Colisão tras. c/ outro veíc. mov.
-Vendas Novas,2010-02-18 17:30,0,1,R 25 ABRIL,Despiste s/ disp. retenção
-Viana do Alentejo,2010-06-30 14:30,0,1,"EN25467,500",Despiste com capotamento
-Viana do Alentejo,2010-08-07 19:30,0,1,Outra Via,Despiste com capotamento
-Viana do Alentejo,2010-09-29 21:05,1,0,"EN3840,150",Atropelamento de peões
-Viana do Alentejo,2010-10-16 19:15,0,2,"EN2573,200",Colisão frontal
-Viana do Alentejo,2010-12-03 18:00,1,1,EM1117,Despiste com capotamento
-Viana do Alentejo,2010-12-09 10:25,1,0,"EN25476,930",Despiste com capotamento
+Évora,2010-05-09 23:55,0,1,Av. Túlio Espanca,,Atropelamento de peões
+Évora,2010-12-06 19:00,1,3,EN254,"46,200",Colisão frontal
+Évora,2010-01-15 21:40,1,0,EN114-4,"4,122",Colisão tras. c/ outro veíc. mov.
+Évora,2010-03-19 07:40,0,1,EN18,"251,400",Despiste com capotamento
+Montemor-o-Novo,2010-01-04 11:20,1,2,A6,"32,400",Colisão tras. c/ outro veíc. mov.
+Montemor-o-Novo,2010-12-16 13:20,0,2,EN2,"516,200",Colisão lat. c/outro veíc. mov.
+Montemor-o-Novo,2010-04-17 10:25,0,1,FOROS PINTADA,,Atropelamento de peões
+Montemor-o-Novo,2010-02-04 11:45,1,1,EN114,"174,600",Colisão c/veic./obstá. f. rodagem
+Montemor-o-Novo,2010-02-26 12:10,0,1,A6,"35,900",Desp. c/transp.disp. ret. lateral
+Montemor-o-Novo,2010-05-24 17:10,0,1,EN114,"163,812",Colisão frontal
+Montemor-o-Novo,2010-05-08 18:50,0,1,A6,"53,885",Colisão tras. c/ outro veíc. mov.
+Montemor-o-Novo,2010-07-18 17:45,0,1,EN4,"85,650",Desp. c/transp.disp. ret. lateral
+Montemor-o-Novo,2010-07-24 17:00,0,1,EN4,"73,700",Despiste simples
+Montemor-o-Novo,2010-06-17 14:05,0,1,EN114,"172,610",Colisão frontal
+Montemor-o-Novo,2010-06-27 19:10,0,1,EN4,"70,380",Despiste simples
+Montemor-o-Novo,2010-08-09 17:15,0,1,EN4,"83,916",Colisão frontal
+Montemor-o-Novo,2010-03-09 10:10,0,1,AV GAGO COUTINHO,,Atropelamento de peões
+Montemor-o-Novo,2010-09-18 17:40,0,4,EN4,"89,950",Despiste simples
+Montemor-o-Novo,2010-10-13 18:30,0,1,EN380,"5,856",Despiste com capotamento
+Montemor-o-Novo,2010-10-18 17:50,0,1,AV GAGO COUTINHO,,Colisão tras. c/ outro veíc. mov.
+Montemor-o-Novo,2010-12-29 14:40,0,1,EN114,"150,680",Despiste simples
+Mourão,2010-08-23 18:00,1,0,EN256,"39,781",Despiste c/col. c/veíc. imobil./obst.
+Redondo,2010-08-28 17:40,0,1,Estrada Municipal,,Despiste simples
+Redondo,2010-05-19 18:55,1,2,EN254,"20,425",Colisão lat. c/outro veíc. mov.
+Reg. de Monsaraz,2010-07-15 07:30,0,1,EM514,"10,500",Despiste simples
+Reg. de Monsaraz,2010-12-31 17:50,0,1,R G. HUMBERTO DELGADO,,Atropelamento de peões
+Reg. de Monsaraz,2010-09-13 10:55,0,1,EN256,"18,455",Colisão lat. c/outro veíc. mov.
+Reg. de Monsaraz,2010-10-03 00:50,0,1,EM1124,,Despiste simples
+Reg. de Monsaraz,2010-02-04 14:20,0,1,R CARIDADE,,Atropelamento de peões
+Vendas Novas,2010-04-07 10:20,0,2,EN4,"63,500",Despiste com capotamento
+Vendas Novas,2010-02-15 18:55,0,1,EN4,"57,300",Colisão tras. c/ outro veíc. mov.
+Vendas Novas,2010-08-09 11:50,0,1,A2,"62,300",Despiste com capotamento
+Vendas Novas,2010-05-07 13:30,0,1,EN4,"55,780",Colisão tras. c/ outro veíc. mov.
+Vendas Novas,2010-02-18 17:30,0,1,R 25 ABRIL,,Despiste s/ disp. retenção
+Viana do Alentejo,2010-06-30 14:30,0,1,EN25,"467,500",Despiste com capotamento
+Viana do Alentejo,2010-08-07 19:30,0,1,Outra Via,,Despiste com capotamento
+Viana do Alentejo,2010-09-29 21:05,1,0,EN384,"0,150",Atropelamento de peões
+Viana do Alentejo,2010-10-16 19:15,0,2,EN257,"3,200",Colisão frontal
+Viana do Alentejo,2010-12-03 18:00,1,1,EM1117,,Despiste com capotamento
+Viana do Alentejo,2010-12-09 10:25,1,0,EN254,"76,930",Despiste com capotamento
 Vila Viçosa,2010-02-10 18:20,1,0,EN255,"11,042",Colisão tras. c/ outro veíc. mov.
 Vila Viçosa,2010-10-12 08:15,0,1,EN254,"4,900",Despiste c/col. c/veíc. imobil./obst.
 Vila Viçosa,2010-09-03 23:40,0,1,Estrada Municipal,,Despiste simples
-,,18,87,,,
