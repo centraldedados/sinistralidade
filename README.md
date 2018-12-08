@@ -40,7 +40,7 @@ Castelo Branco | 2008-Fim
 Coimbra | 2008-Fim
 Évora | 2008-Fim
 Faro | 
-Guarda | 
+Guarda | 2008-Fim
 Leiria | 
 Lisboa | 
 Portalegre | 
