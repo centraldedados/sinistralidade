@@ -62,12 +62,12 @@ Odemira,19-08-2012 09:55,1,1,EN393,"21,149",Atropelamento de peões
 Odemira,24-03-2012 20:40,1,0,ER262,"62,400",Atropelamento com fuga
 Ourique,20-05-2012 16:00,0,1,EM503,-,Despiste com capotamento
 Ourique,19-08-2012 12:45,0,1,EN123,"54,200",Despiste simples
-Ourique,08-10-2012 09:30,0,1,EN389,"30,800"
-Ourique,03-01-2012 11:25,0,1,IC1,"644,300"
-Ourique,22-01-2012 13:10,0,1,IC1,"646,592"
-Ourique,03-06-2012 11:00,0,1,IC1,"680,720"
-Serpa,31-10-2012 15:30,0,2,EN260,"43,800"
-Serpa,12-11-2012 08:00,0,1,Rua Bento Costa 24 A,-
-Vidigueira,07-01-2012 07:05,0,1,EM1010,-
-Vidigueira,21-04-2012 19:00,0,1,EM521,-
-Vidigueira,01-09-2012 20:20,1,1,IP2,"317,900"
+Ourique,08-10-2012 09:30,0,1,EN389,"30,800",Colisão traseira com outro veículo em mo...
+Ourique,03-01-2012 11:25,0,1,IC1,"644,300",Colisão lateral com outro veículo em movi...
+Ourique,22-01-2012 13:10,0,1,IC1,"646,592",Colisão lateral com outro veículo em movi...
+Ourique,03-06-2012 11:00,0,1,IC1,"680,720",Despiste simples
+Serpa,31-10-2012 15:30,0,2,EN260,"43,800",Colisão traseira com outro veículo em mo...
+Serpa,12-11-2012 08:00,0,1,Rua Bento Costa 24 A,-,Atropelamento de peões
+Vidigueira,07-01-2012 07:05,0,1,EM1010,-,Despiste com dispositivo de retenção
+Vidigueira,21-04-2012 19:00,0,1,EM521,-,Colisão lateral com outro veículo em movi...
+Vidigueira,01-09-2012 20:20,1,1,IP2,"317,900",Colisão frontal
