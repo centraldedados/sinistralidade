@@ -39,7 +39,7 @@ Bragança | 2008-Fim
 Castelo Branco | 2008-Fim
 Coimbra | 2008-Fim
 Évora | 2008-Fim
-Faro | 
+Faro | 2008-Fim
 Guarda | 2008-Fim
 Leiria | 2008-Fim
 Lisboa | 
